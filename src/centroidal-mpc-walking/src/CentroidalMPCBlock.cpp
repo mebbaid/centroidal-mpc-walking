@@ -315,7 +315,7 @@ bool CentroidalMPCBlock::advance()
         m_output.contacts = m_controller.getOutput().contacts;
         m_output.externalWrench = m_controller.getOutput().externalWrench;
 
-        m_currentTime += 0.1;
+        m_currentTime += 0.2;
         m_currentTime = roundoff1(m_currentTime, 2);
 
 

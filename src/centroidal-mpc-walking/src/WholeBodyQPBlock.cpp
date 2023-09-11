@@ -771,8 +771,16 @@ bool WholeBodyQPBlock::initialize(std::weak_ptr<const IParametersHandler> handle
     m_comSystem.integrator = std::make_shared<ForwardEuler<LinearTimeInvariantSystem>>();
     m_comSystem.integrator->setIntegrationStep(m_dT);
     m_comSystem.integrator->setDynamicalSystem(m_comSystem.dynamics);
-
-    myfile.open("example.txt");
+    
+    std::time_t now = std::time(nullptr);
+    struct std::tm* now_tm = std::localtime(&now);
+    char timestamp[20];
+    std::strftime(timestamp, sizeof(timestamp), "%Y-%m-%d-%H-%M-%S", now_tm);
+    
+    std::string baseName = "dataSet";
+    std::string fileName = baseName + "_" + timestamp + ".txt"; 
+    myfile.open(fileName);	
+    //myfile.open("example.txt");
     myfile << "torso_pitch_des, torso_roll_des, torso_yaw_des, l_shoulder_pitch_des, "
               "l_shoulder_roll_des, l_shoulder_yaw_des, l_elbow_des, r_shoulder_pitch_des, "
               "r_shoulder_roll_des, r_shoulder_yaw_des, r_elbow_des, l_hip_pitch_des, "
