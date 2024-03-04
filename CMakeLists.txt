@@ -1,10 +1,11 @@
+# Copyright (C) 2024 Istituto Italiano di Tecnologia (IIT). All rights reserved.
 # This software may be modified and distributed under the terms of the
-# GNU Lesser General Public License v2.1 or any later version.
+# BSD-3-Clause license.
 
 cmake_minimum_required(VERSION 3.14)
 
 ## MAIN project
-project(CentroidalMPCWalking
+project(StableMPCWalking
   VERSION 0.0.1)
 
 list(APPEND CMAKE_MODULE_PATH ${CMAKE_CURRENT_SOURCE_DIR}/cmake)
@@ -63,28 +64,22 @@ add_install_rpath_support(BIN_DIRS "${CMAKE_INSTALL_PREFIX}/${CMAKE_INSTALL_BIND
   DEPENDS ENABLE_RPATH
   USE_LINK_PATH)
 
-
 find_package(Eigen3 3.2.92 REQUIRED)
-find_package(BipedalLocomotionFramework 0.1.0 REQUIRED)
+find_package(BipedalLocomotionFramework 0.17.0 REQUIRED
+  COMPONENTS ParametersHandlerYarpImplementation RobotInterfaceYarpImplementation
+             FloatingBaseEstimators IK ContinuousDynamicalSystem System
+             SystemYarpImplementation ReducedModelControllers Planners ManifConversions Unicycle
+             ContactDetectors SimplifiedModelControllers)
+find_package(SDL REQUIRED)
+find_package(iDynTree REQUIRED)
+find_package(YARP COMPONENTS os sig REQUIRED)
+find_package(UnicyclePlanner 0.6.0 REQUIRED)
 
-#Function to automatize the process of creating a new library
+#Function to automatize the process of creating a new application or library
 include(AddCentroidalMPCWalkingApplication)
+include(AddCentroidalMPCWalkingLibrary)
+include(InstallIniFiles)
 
 add_subdirectory(src)
-
-# include(InstallBasicPackageFiles)
-# set(PROJECT_PRIVATE_DEPENDENCIES )
-# set(PROJECT_PUBLIC_DEPENDENCIES BipedalLocomotionFramework)
-# install_basic_package_files(${PROJECT_NAME}
-#                             NAMESPACE CentroidalMPCWalking::
-#                             VERSION ${CentroidalMPCWalking_VERSION}
-#                             COMPATIBILITY AnyNewerVersion
-#                             TARGETS_PROPERTY CentroidalMPCWalking_TARGETS
-#                             VARS_PREFIX ${PROJECT_NAME}
-#                             NO_CHECK_REQUIRED_COMPONENTS_MACRO
-#                             DEPENDENCIES ${PROJECT_PUBLIC_DEPENDENCIES}
-#                             PRIVATE_DEPENDENCIES ${PROJECT_PRIVATE_DEPENDENCIES}
-#                             OVERRIDE_MODULE_PATH ${CMAKE_INSTALL_PREFIX}/share/${PROJECT_NAME}/cmake)
-
 
 include(AddUninstallTarget)
