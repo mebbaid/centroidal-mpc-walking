@@ -24,6 +24,8 @@ struct JoypadSignal
     double leftAnalogY = 0.0; /**< Left analog Y. */
     double rightAnalogX = 0.0; /**< Right analog X. */
     double rightAnalogY = 0.0; /**< Right analog Y. */
+    int select       = 0; /**< Select button. */
+    int start        = 0; /**< Start button. */
 };
 
 /**

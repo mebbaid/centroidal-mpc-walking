@@ -39,10 +39,16 @@ struct FakeJoypad::Impl
         this->emphasisColor = SDL_MapRGB(SDL_GetVideoSurface()->format, 244, 180, 0);
 
         // Draw the normal left cross
-        this->drawCross(SDL_GetVideoSurface(), 160, 120, 50, this->color);
+        this->drawCross(SDL_GetVideoSurface(), 120, 120, 50, this->color);
 
         // Draw the normal right cross
-        this->drawCross(SDL_GetVideoSurface(), 480, 120, 50, this->color);
+        this->drawCross(SDL_GetVideoSurface(), 520, 120, 50, this->color);
+
+        // draw select button
+        this->drawButton(SDL_GetVideoSurface(), 220, 120, 30, this->color);
+
+        // draw start button
+        this->drawButton(SDL_GetVideoSurface(), 420, 120, 30, this->color);
 
         // Update the screen
         SDL_Flip(SDL_GetVideoSurface());
@@ -71,6 +77,16 @@ struct FakeJoypad::Impl
                                       static_cast<Uint16>(size),
                                       static_cast<Uint16>(thickness)};
         SDL_FillRect(screen, &horizontalSegment, color);
+    }
+
+    void drawButton(SDL_Surface* screen, int x, int y, int size, Uint32 color)
+    {
+        // Draw the button
+        SDL_Rect button = {static_cast<Sint16>(x - size / 2),
+                           static_cast<Sint16>(y - size / 2),
+                           static_cast<Uint16>(size),
+                           static_cast<Uint16>(size)};
+        SDL_FillRect(screen, &button, color);
     }
 
     void emphasizeLine(SDL_Surface* screen,
@@ -124,6 +140,19 @@ struct FakeJoypad::Impl
                                      static_cast<Uint16>(thickness)};
             SDL_FillRect(screen, &rightSegment, emphasisColor);
         }
+
+
+    }
+
+    // emphasize the buttons
+    void emphasizeButton(SDL_Surface* screen, int x, int y, int size, Uint32 emphasisColor)
+    {
+        // Draw the button
+        SDL_Rect button = {static_cast<Sint16>(x - size / 2),
+                           static_cast<Sint16>(y - size / 2),
+                           static_cast<Uint16>(size),
+                           static_cast<Uint16>(size)};
+        SDL_FillRect(screen, &button, emphasisColor);
     }
 };
 
@@ -150,37 +179,42 @@ bool FakeJoypad::advance()
                      SDL_MapRGB(SDL_GetVideoSurface()->format, 0, 0, 0));
 
         // Draw the normal left cross
-        m_pimpl->drawCross(SDL_GetVideoSurface(), 160, 120, 50, m_pimpl->color);
+        m_pimpl->drawCross(SDL_GetVideoSurface(), 120, 120, 50, m_pimpl->color);
 
         // Draw the normal right cross
-        m_pimpl->drawCross(SDL_GetVideoSurface(), 480, 120, 50, m_pimpl->color);
+        m_pimpl->drawCross(SDL_GetVideoSurface(), 520, 120, 50, m_pimpl->color);
 
+        // draw select button
+        m_pimpl->drawButton(SDL_GetVideoSurface(), 220, 120, 30, m_pimpl->color);
+
+        // draw start button
+        m_pimpl->drawButton(SDL_GetVideoSurface(), 420, 120, 30, m_pimpl->color);
+
+        // Update the key state array based on key events
         if (event.type == SDL_KEYDOWN || event.type == SDL_KEYUP)
         {
-            // Update the key state array based on key events
             m_pimpl->keyState[event.key.keysym.sym] = (event.type == SDL_KEYDOWN);
 
-            // Emphasize the lines based on key states
+            // Emphasize the lines and buttons based on key states
             m_pimpl->emphasizeLine(SDL_GetVideoSurface(),
-                                   160,
-                                   120,
-                                   50,
-                                   m_pimpl->keyState[SDLK_w],
-                                   m_pimpl->keyState[SDLK_s],
-                                   m_pimpl->keyState[SDLK_a],
-                                   m_pimpl->keyState[SDLK_d],
-                                   m_pimpl->emphasisColor);
+                                    120,
+                                    120,
+                                    50,
+                                    m_pimpl->keyState[SDLK_w],
+                                    m_pimpl->keyState[SDLK_s],
+                                    m_pimpl->keyState[SDLK_a],
+                                    m_pimpl->keyState[SDLK_d],
+                                    m_pimpl->emphasisColor);
 
-            // Emphasize the lines based on key states
             m_pimpl->emphasizeLine(SDL_GetVideoSurface(),
-                                   480,
-                                   120,
-                                   50,
-                                   m_pimpl->keyState[SDLK_UP],
-                                   m_pimpl->keyState[SDLK_DOWN],
-                                   m_pimpl->keyState[SDLK_LEFT],
-                                   m_pimpl->keyState[SDLK_RIGHT],
-                                   m_pimpl->emphasisColor);
+                                    520,
+                                    120,
+                                    50,
+                                    m_pimpl->keyState[SDLK_UP],
+                                    m_pimpl->keyState[SDLK_DOWN],
+                                    m_pimpl->keyState[SDLK_LEFT],
+                                    m_pimpl->keyState[SDLK_RIGHT],
+                                    m_pimpl->emphasisColor);
 
             // Update the joystick structure based on key states
             m_pimpl->joypad.leftAnalogX = m_pimpl->keyState[SDLK_w] - m_pimpl->keyState[SDLK_s];
@@ -190,6 +224,35 @@ bool FakeJoypad::advance()
             m_pimpl->joypad.rightAnalogY
                 = m_pimpl->keyState[SDLK_LEFT] - m_pimpl->keyState[SDLK_RIGHT];
 
+
+            // Update the screen
+            SDL_Flip(SDL_GetVideoSurface());
+        }
+
+        // update the buttons based on pressed keys
+        if (event.type == SDL_KEYDOWN)
+        {
+            if (event.key.keysym.sym == SDLK_RETURN)
+            {
+                m_pimpl->emphasizeButton(SDL_GetVideoSurface(), 420, 120, 30, m_pimpl->emphasisColor);
+            }
+            if (event.key.keysym.sym == SDLK_SPACE)
+            {
+                m_pimpl->emphasizeButton(SDL_GetVideoSurface(), 220, 120, 30, m_pimpl->emphasisColor);
+            }
+
+            if (event.key.keysym.sym == SDLK_e)
+            {
+                m_pimpl->emphasizeButton(SDL_GetVideoSurface(), 420, 120, 30, m_pimpl->emphasisColor);
+            }
+            if (event.key.keysym.sym == SDLK_q)
+            {
+                m_pimpl->emphasizeButton(SDL_GetVideoSurface(), 220, 120, 30, m_pimpl->emphasisColor);
+            }
+            // update the joystick structure based on the pressed buttons
+            m_pimpl->joypad.select = (event.key.keysym.sym == SDLK_SPACE);
+            m_pimpl->joypad.start = (event.key.keysym.sym == SDLK_RETURN);
+
             // Update the screen
             SDL_Flip(SDL_GetVideoSurface());
         }
@@ -197,6 +260,7 @@ bool FakeJoypad::advance()
 
     return true;
 }
+
 
 const JoypadSignal& FakeJoypad::getOutput() const
 {
