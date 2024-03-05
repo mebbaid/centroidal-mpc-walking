@@ -5,6 +5,8 @@
  * license.
  */
 
+#include <fstream>
+
 #include <yarp/sig/Vector.h>
 
 #include <BipedalLocomotion/TextLogging/Logger.h>
@@ -15,11 +17,16 @@ using namespace StableCentroidalMPCWalking;
 struct ContactsListProvider::Impl
 {
 
+    bool saveData{true};
+
+    std::ofstream file;
+
     BipedalLocomotion::Contacts::ContactListMap m_contactListMap;
 
     UnicycleGenerator m_trajectoryGenerator;
     UnicycleController m_unicycleController;
     std::shared_ptr<FeetGenerator> m_feetGenerator;
+    std::shared_ptr<DCMTrajectoryGenerator> m_dcmGenerator;
 
     std::vector<bool> leftInContactPeriod;
     std::vector<bool> rightInContactPeriod;
@@ -168,16 +175,21 @@ struct ContactsListProvider::Impl
         }
 
         m_feetGenerator = m_trajectoryGenerator.addFeetMinimumJerkGenerator();
+        m_feetGenerator->setStepHeight(stepHeight);
+
+        m_dcmGenerator = m_trajectoryGenerator.addDCMTrajectoryGenerator();
+
 
         // TODO: remove me to config file
         m_unicyclePlanner->addTerminalStep(true);
         m_unicyclePlanner->startWithLeft(true);
 
-        m_leftFootPrint = std::make_shared<FootPrint>();
-        m_rightFootPrint = std::make_shared<FootPrint>();
-
         m_currentUnicyclePosition.zero();
         m_unicycleControlInput.zero();
+
+        m_trajectoryGenerator.setSwitchOverSwingRatio(0.3); // TODO, remove me to config file
+        m_trajectoryGenerator.setPauseConditions(maxStepDuration, nominalDuration);
+        m_trajectoryGenerator.setTerminalHalfSwitchTime(1.0);
 
         m_time = 0.0;
 
@@ -197,6 +209,14 @@ struct ContactsListProvider::Impl
         {
             BipedalLocomotion::log()->warn("[ContactsListProvider::Impl::configure] Unable to "
                                            "connect to the joypad command port.");
+        }
+
+        file.open("contact-list-provider-output.txt");
+        if (!file.is_open())
+        {
+            BipedalLocomotion::log()->error("[ContactsListProvider::Impl::configure] Unable to "
+                                            "open the file.");
+            return false;
         }
 
         return true;
@@ -225,7 +245,6 @@ struct ContactsListProvider::Impl
             m_unicyclePlanner->addPersonFollowingDesiredTrajectoryPoint(time,
                                                                         m_currentUnicyclePosition);
 
-            time += m_plannerPeriod;
             m_unicyclePlanner->addPersonFollowingDesiredTrajectoryPoint(time,
                                                                         m_desiredTrajectoryPoint);
         } else if (m_unicycleController == UnicycleController::DIRECT)
@@ -241,7 +260,12 @@ struct ContactsListProvider::Impl
     bool computeSteps()
     {
 
-        auto initialTime = 0.0;
+        m_leftFootPrint = std::make_shared<FootPrint>();
+        m_rightFootPrint = std::make_shared<FootPrint>();
+        m_leftFootPrint->setFootName("left_foot");
+        m_rightFootPrint->setFootName("right_foot");
+
+        auto initialTime = m_time;
         auto finalTime = initialTime + m_plannerHorizon;
         if (!m_unicyclePlanner->computeNewSteps(m_leftFootPrint,
                                                 m_rightFootPrint,
@@ -255,18 +279,28 @@ struct ContactsListProvider::Impl
 
         m_leftSteps = m_leftFootPrint->getSteps();
         m_rightSteps = m_rightFootPrint->getSteps();
-        for (auto step : m_leftSteps)
-            {
-                BipedalLocomotion::log()->info("number of left steps: {}", m_leftSteps.size());
-                BipedalLocomotion::log()->info("left step position: {}",
-                step.position.toString()); BipedalLocomotion::log()->info("left step angle: {}",
-                iDynTree::rad2deg(step.angle));
-            }
 
-            m_trajectoryGenerator.getFeetStandingPeriods(leftInContactPeriod, rightInContactPeriod);
+        return true;
+    }
 
-        m_leftFootPrint->clearSteps();
-        m_rightFootPrint->clearSteps();
+    bool generateFeetTrajectory()
+    {
+
+        const double startLeft = m_leftSteps.front().impactTime;
+        const double startRight = m_rightSteps.front().impactTime;
+        const double start = std::max(startLeft, startRight);
+
+        if (!m_trajectoryGenerator.generateFromFootPrints(m_leftFootPrint,
+                                                          m_rightFootPrint,
+                                                          start,
+                                                          0.1)) // horizon = 20
+        {
+            BipedalLocomotion::log()->error("[ContactsListProvider::Impl::generateFeetTrajectory] "
+                                            "Unable to generate the feet trajectory.");
+            return false;
+        }
+
+        m_trajectoryGenerator.getFeetStandingPeriods(leftInContactPeriod, rightInContactPeriod);
 
         return true;
     }
@@ -274,41 +308,91 @@ struct ContactsListProvider::Impl
     std::vector<BipedalLocomotion::Contacts::PlannedContact>
     getPlannedContactFromStep(const std::vector<bool>& isFootInContactVector, const StepList& steps)
     {
+
+        constexpr double secondsToNanoseconds = 1e9;
         std::vector<BipedalLocomotion::Contacts::PlannedContact> contacts;
 
-        if (isFootInContactVector.size() != steps.size())
+        for (const auto& step : steps)
         {
-            // Size mismatch, return empty vector or handle error as needed
-            return contacts;
-        }
-
-        constexpr double secondsToNanoseconds = 1e9; // Conversion factor from seconds to
-                                                     // nanoseconds
-
-        for (size_t i = 0; i < steps.size(); ++i)
-        {
-            const auto& step = steps[i];
-            const bool footInContact = isFootInContactVector[i];
-
             BipedalLocomotion::Contacts::PlannedContact contact;
             contact.name = step.footName;
-
-            // Convert impact and lift times from seconds to nanoseconds
             contact.activationTime = std::chrono::nanoseconds(
                 static_cast<long long>(step.impactTime * secondsToNanoseconds));
-            contact.deactivationTime = footInContact
-                                           ? std::chrono::nanoseconds::max()
-                                           : std::chrono::nanoseconds(static_cast<long long>(
-                                               step.impactTime * secondsToNanoseconds));
-
+            contact.deactivationTime = contact.activationTime;
             contacts.push_back(contact);
         }
+
+        double ContactTime = 0.0;
+        size_t contactIt = 0;
+
+        for (size_t it = 1; it < isFootInContactVector.size(); ++it)
+        {
+
+            auto& contact = contacts[contactIt];
+
+            const bool thisState = isFootInContactVector[it];
+            const bool lastState = isFootInContactVector[it - 1];
+
+            // Increase the active time
+            ContactTime += m_plannerPeriod;
+
+            // During impact, reset the active time counter
+            if (lastState == 0 && thisState == 1)
+                ContactTime = 0.0;
+
+            // During lift, store the time in the active contact and get the new contact
+            if (lastState == 1 && thisState == 0)
+            {
+                using namespace std::chrono_literals;
+                contact.deactivationTime
+                    = contact.activationTime
+                      + std::chrono::duration_cast<std::chrono::nanoseconds>(ContactTime * 1s);
+                contactIt++;
+            }
+        }
+
+        contacts.back().deactivationTime = std::chrono::nanoseconds::max();
 
         return contacts;
     }
 
+    // for (size_t i = 0; i < steps.size(); ++i) {
+    //     const auto& step = steps[i];
+    //     const bool footInContact = isFootInContactVector[i];
+
+    //     BipedalLocomotion::Contacts::PlannedContact contact;
+    //     contact.name = step.footName;
+
+    //     contact.activationTime = std::chrono::nanoseconds(
+    //         static_cast<long long>(step.impactTime * secondsToNanoseconds));
+
+    //     if (footInContact) {
+    //         contact.deactivationTime = contact.activationTime;
+    //     } else {
+    //         activeTime += m_plannerPeriod;
+
+    //         double nextImpactTime = std::numeric_limits<double>::infinity();
+    //         for (size_t j = i + 1; j < steps.size(); ++j) {
+    //             if (isFootInContactVector[j]) {
+    //                 nextImpactTime = steps[j].impactTime;
+    //                 break;
+    //             }
+    //         }
+
+    //         contact.deactivationTime = std::chrono::nanoseconds(
+    //             static_cast<long long>((contact.activationTime.count() + activeTime) *
+    //             secondsToNanoseconds));
+
+    //         // Reset activeTime for the next period of contact
+    //         activeTime = 0.0;
+    //     }
+
+    //     contacts.push_back(contact);
+    // }
+
     bool computeContactList()
     {
+
         std::vector<BipedalLocomotion::Contacts::PlannedContact> leftContacts
             = getPlannedContactFromStep(leftInContactPeriod, m_leftSteps);
         std::vector<BipedalLocomotion::Contacts::PlannedContact> rightContacts
@@ -317,6 +401,10 @@ struct ContactsListProvider::Impl
         if (m_leftSteps.size() != leftContacts.size()
             || m_rightSteps.size() != rightContacts.size())
         {
+            BipedalLocomotion::log()->error("[ContactsListProvider::Impl::computeContactList] "
+                                            "Mismatch between the number of steps and the number "
+                                            "of "
+                                            "contacts.");
             return false;
         }
 
@@ -356,9 +444,37 @@ struct ContactsListProvider::Impl
         return true;
     }
 
+    void resetPlanner()
+    {
+        m_leftFootPrint = nullptr;
+        m_rightFootPrint = nullptr;
+        m_contactListMap.clear();
+    }
+
+    void saveDataToFile(const BipedalLocomotion::Contacts::ContactListMap& contactListMap)
+    {
+
+        for (const auto& contactList : contactListMap)
+        {
+            file << "Foot: " << contactList.first << std::endl;
+            for (const auto& contact : contactList.second)
+            {
+                file << "Contact: " << contact.name << std::endl;
+                file << "Activation time: " << contact.activationTime.count() << std::endl;
+                file << "Deactivation time: " << contact.deactivationTime.count() << std::endl;
+                file << "Pose: " << contact.pose.translation().transpose() << std::endl;
+                file << "Orientation: " << contact.pose.quat().coeffs().transpose() << std::endl;
+            }
+        }
+    }
+
     ~Impl()
     {
         m_inputPort.close();
+        if (file.is_open())
+        {
+            file.close();
+        }
     }
 };
 
@@ -411,11 +527,25 @@ bool ContactsListProvider::advance()
         BipedalLocomotion::log()->warn("{} Unable to compute the steps.", logPrefix);
     }
 
-    // get the contact list
+    if (!m_pimpl->generateFeetTrajectory())
+    {
+        BipedalLocomotion::log()->warn("{} Unable to generate the feet trajectory.", logPrefix);
+    }
+
     if (!m_pimpl->computeContactList())
     {
         BipedalLocomotion::log()->warn("{} Unable to compute the contact list.", logPrefix);
     }
+
+    // reset planner and update time
+    m_pimpl->m_time += m_pimpl->m_plannerPeriod;
+
+    if (m_pimpl->saveData)
+    {
+        m_pimpl->saveDataToFile(m_pimpl->m_contactListMap);
+    }
+
+    m_pimpl->resetPlanner();
 
     return true;
 }

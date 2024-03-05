@@ -26,7 +26,6 @@
 namespace StableCentroidalMPCWalking
 {
 
-
 /**
  * @brief This class is responsible for providing the contact list to the MPC.
  * given a joypad command, it uses the unicycle planner to generate the footsteps and

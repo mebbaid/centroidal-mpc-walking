@@ -1,0 +1,4326 @@
+Foot: right_foot
+Contact: right_foot
+Activation time: 0
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 0
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 50000000
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 50000000
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 100000000
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 100000000
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 150000000
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 150000000
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 200000000
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 200000000
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 250000000
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 250000000
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 300000000
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 300000000
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 350000000
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 350000000
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 399999999
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 399999999
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 449999999
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 449999999
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 499999999
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 499999999
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 549999999
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 549999999
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 600000000
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 600000000
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 650000000
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 650000000
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 700000000
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 700000000
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 750000000
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 750000000
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 800000000
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 800000000
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 850000000
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 850000000
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 900000000
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 900000000
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 950000000
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 950000000
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 1000000000
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 1000000000
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 1050000000
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 1050000000
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 1100000000
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 1100000000
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 1150000000
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 1150000000
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 1200000000
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 1200000000
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 1250000000
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 1250000000
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 1300000000
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 1300000000
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 1350000000
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 1350000000
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 1400000000
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 1400000000
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 1450000000
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 1450000000
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 1500000000
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 1500000000
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 1550000000
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 1550000000
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 1600000000
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 1600000000
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 1650000000
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 1650000000
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 1700000000
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 1700000000
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 1750000000
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 1750000000
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 1800000000
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 1800000000
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 1850000000
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 1850000000
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 1900000000
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 1900000000
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 1950000000
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 1950000000
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 2000000000
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 2000000000
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 2050000000
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 2050000000
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 2100000000
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 2100000000
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 2150000000
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 2150000000
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 2200000000
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 2200000000
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 2250000000
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 2250000000
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 2300000000
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 2300000000
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 2349999999
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 2349999999
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 2399999999
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 2399999999
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 2449999999
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 2449999999
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 2499999999
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 2499999999
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 2549999999
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 2549999999
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 2599999999
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 2599999999
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 2649999999
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 2649999999
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 2699999999
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 2699999999
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 2749999999
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 2749999999
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 2799999999
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 2799999999
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 2849999999
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 2849999999
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 2899999999
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 2899999999
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 2949999999
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 2949999999
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 2999999999
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 2999999999
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 3049999999
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 3049999999
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 3099999999
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 3099999999
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 3149999999
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 3149999999
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 3199999999
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 3199999999
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 3249999999
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 3249999999
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 3299999999
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 3299999999
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 3349999999
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 3349999999
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 3399999999
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 3399999999
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 3449999999
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 3449999999
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 3499999999
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 3499999999
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 3549999999
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 3549999999
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 3599999999
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 3599999999
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 3649999999
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 3649999999
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 3699999999
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 3699999999
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 3749999999
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 3749999999
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 3799999999
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 3799999999
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 3849999999
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 3849999999
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 3899999999
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 3899999999
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 3949999999
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 3949999999
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 3999999999
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 3999999999
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 4049999999
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 4049999999
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 4099999999
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 4099999999
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 4149999999
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 4149999999
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 4199999999
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 4199999999
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 4249999999
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 4249999999
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 4299999999
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 4299999999
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 4349999999
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 4349999999
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 4399999999
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 4399999999
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 4449999999
+Deactivation time: 7249999998
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Contact: right_foot
+Activation time: 10900000000
+Deactivation time: 11550000000
+Pose: -0.0141136 -0.0838201          0
+Orientation:         0         0 0.0833107 -0.996524
+Contact: right_foot
+Activation time: 13100000000
+Deactivation time: 13750000000
+Pose: -0.0594624   0.060739          0
+Orientation:         0         0  0.925899 -0.377772
+Contact: right_foot
+Activation time: 15300000000
+Deactivation time: 15950000000
+Pose: 0.0841009 0.0123302         0
+Orientation:        0        0 0.756657 0.653812
+Contact: right_foot
+Activation time: 17500000000
+Deactivation time: 18150000000
+Pose: -0.0395246 -0.0752516          0
+Orientation:        -0        -0 -0.239465  0.970905
+Contact: right_foot
+Activation time: 19700000000
+Deactivation time: 20350000000
+Pose: -0.0375804  0.0762412          0
+Orientation:        -0        -0 -0.973898  0.226986
+Contact: right_foot
+Activation time: 21900000000
+Deactivation time: 22550000000
+Pose:  0.0837568 -0.0144844          0
+Orientation:        -0        -0 -0.644048 -0.764985
+Contact: right_foot
+Activation time: 24100000000
+Deactivation time: 24900000000
+Pose: -0.0610016  -0.059193          0
+Orientation:         0         0  0.389623 -0.920975
+Contact: right_foot
+Activation time: 26700000000
+Deactivation time: 9223372036854775807
+Pose: -0.0776003  -0.034687          0
+Orientation:         0         0  0.544021 -0.839072
+Foot: left_foot
+Contact: left_foot
+Activation time: 4449999999
+Deactivation time: 6649999999
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Contact: left_foot
+Activation time: 9800000000
+Deactivation time: 10450000000
+Pose: -0.0682992  0.0505986          0
+Orientation:        -0        -0 -0.449846 -0.893106
+Contact: left_foot
+Activation time: 12000000000
+Deactivation time: 12650000000
+Pose: 0.0811029 0.0254423         0
+Orientation:         0         0  0.591895 -0.806015
+Contact: left_foot
+Activation time: 14200000000
+Deactivation time: 14850000000
+Pose: -0.0271591 -0.0805443          0
+Orientation:        0        0 0.986808 0.161895
+Contact: left_foot
+Activation time: 16400000000
+Deactivation time: 17050000000
+Pose: -0.0491366  0.0693585          0
+Orientation:        0        0  0.30333 0.952886
+Contact: left_foot
+Activation time: 18600000000
+Deactivation time: 19250000000
+Pose:    0.084993 -0.00109078           0
+Orientation:        -0        -0 -0.711629  0.702555
+Contact: left_foot
+Activation time: 20800000000
+Deactivation time: 21450000000
+Pose: -0.0509004 -0.0680746          0
+Orientation:        -0        -0 -0.948915 -0.315533
+Contact: left_foot
+Activation time: 23000000000
+Deactivation time: 23700000000
+Pose: -0.0250832  0.0812147          0
+Orientation:        -0        -0 -0.149219 -0.988804
+Contact: left_foot
+Activation time: 25400000000
+Deactivation time: 9223372036854775807
+Pose: 0.0776003  0.034687         0
+Orientation:         0         0  0.544021 -0.839072
+Foot: right_foot
+Contact: right_foot
+Activation time: 4499999999
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 4499999999
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 4549999999
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 4549999999
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 4599999999
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 4599999999
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 4649999999
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 4649999999
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 4699999999
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 4699999999
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 4749999999
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 4749999999
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 4799999999
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 4799999999
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 4849999999
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 4849999999
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 4899999999
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 4899999999
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 4949999999
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 4949999999
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 4999999999
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 4999999999
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 5049999999
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 5049999999
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 5099999999
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 5099999999
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 5149999999
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 5149999999
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 5199999999
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 5199999999
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 5249999999
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 5249999999
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 5299999999
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 5299999999
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 5349999999
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 5349999999
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 5399999999
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 5399999999
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 5449999999
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 5449999999
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 5499999999
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 5499999999
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 5549999999
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 5549999999
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 5599999999
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 5599999999
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 5649999999
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 5649999999
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 5699999999
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 5699999999
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 5749999999
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 5749999999
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 5799999999
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 5799999999
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 5849999999
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 5849999999
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 5899999999
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 5899999999
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 5949999999
+Deactivation time: 9399999998
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Contact: right_foot
+Activation time: 13550000000
+Deactivation time: 14099999999
+Pose: -0.0392216 -0.0529719          0
+Orientation:         0         0  0.611858 -0.790968
+Contact: right_foot
+Activation time: 15350000000
+Deactivation time: 15899999999
+Pose:    0.001157 -0.00225464           0
+Orientation:          0          0   0.999923 -0.0123887
+Contact: right_foot
+Activation time: 17150000000
+Deactivation time: 17699999999
+Pose:  0.0413738 -0.0531003          0
+Orientation:        0        0 0.631267 0.775566
+Contact: right_foot
+Activation time: 18950000000
+Deactivation time: 19499999999
+Pose: -0.0172794  -0.080713          0
+Orientation:       -0       -0 -0.21512 0.976588
+Contact: right_foot
+Activation time: 20750000000
+Deactivation time: 21299999999
+Pose:  -0.030844 -0.0173201          0
+Orientation:        -0        -0 -0.898708  0.438547
+Contact: right_foot
+Activation time: 22550000000
+Deactivation time: 23099999999
+Pose:   0.033973 -0.0185133          0
+Orientation:        -0        -0 -0.902172 -0.431377
+Contact: right_foot
+Activation time: 24350000000
+Deactivation time: 24950000000
+Pose:  0.0180844 -0.0813641          0
+Orientation:        -0        -0  -0.22289 -0.974844
+Contact: right_foot
+Activation time: 26550000000
+Deactivation time: 9223372036854775807
+Pose: -0.0371186 -0.0595189          0
+Orientation:         0         0  0.544021 -0.839072
+Foot: left_foot
+Contact: left_foot
+Activation time: 5949999999
+Deactivation time: 8799999998
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Contact: left_foot
+Activation time: 12650000000
+Deactivation time: 13199999999
+Pose: 0.0521711 0.0744284         0
+Orientation:         0         0  0.206902 -0.978362
+Contact: left_foot
+Activation time: 14450000000
+Deactivation time: 14999999999
+Pose:  0.104461 -0.120203         0
+Orientation:         0         0  0.894989 -0.446087
+Contact: left_foot
+Activation time: 16250000000
+Deactivation time: 16799999999
+Pose: -0.0969606  -0.126904          0
+Orientation:        0        0 0.905767 0.423777
+Contact: left_foot
+Activation time: 18050000000
+Deactivation time: 18599999999
+Pose: -0.0577236   0.070772          0
+Orientation:        0        0 0.231078 0.972935
+Contact: left_foot
+Activation time: 19850000000
+Deactivation time: 20399999999
+Pose:   0.125868 -0.0123513          0
+Orientation:        -0        -0 -0.618486  0.785796
+Contact: left_foot
+Activation time: 21650000000
+Deactivation time: 22199999999
+Pose: 0.00320648  -0.172256          0
+Orientation:         -0         -0  -0.999992 0.00398162
+Contact: left_foot
+Activation time: 23450000000
+Deactivation time: 23999999999
+Pose:  -0.124647 -0.0164714          0
+Orientation:        -0        -0 -0.624724 -0.780846
+Contact: left_foot
+Activation time: 25250000000
+Deactivation time: 26050000000
+Pose: 0.0561118 0.0726442         0
+Orientation:         0         0  0.223323 -0.974745
+Contact: left_foot
+Activation time: 27850000000
+Deactivation time: 9223372036854775807
+Pose:   0.118082 0.00985505          0
+Orientation:         0         0  0.544021 -0.839072
+Foot: right_foot
+Contact: right_foot
+Activation time: 5999999999
+Deactivation time: 9449999998
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Contact: right_foot
+Activation time: 13600000000
+Deactivation time: 14149999999
+Pose: -0.0392216 -0.0529719          0
+Orientation:         0         0  0.611858 -0.790968
+Contact: right_foot
+Activation time: 15400000000
+Deactivation time: 15949999999
+Pose:    0.001157 -0.00225464           0
+Orientation:          0          0   0.999923 -0.0123887
+Contact: right_foot
+Activation time: 17200000000
+Deactivation time: 17749999999
+Pose:  0.0413738 -0.0531003          0
+Orientation:        0        0 0.631267 0.775566
+Contact: right_foot
+Activation time: 19000000000
+Deactivation time: 19549999999
+Pose: -0.0172794  -0.080713          0
+Orientation:       -0       -0 -0.21512 0.976588
+Contact: right_foot
+Activation time: 20800000000
+Deactivation time: 21349999999
+Pose:  -0.030844 -0.0173201          0
+Orientation:        -0        -0 -0.898708  0.438547
+Contact: right_foot
+Activation time: 22600000000
+Deactivation time: 23149999999
+Pose:   0.033973 -0.0185133          0
+Orientation:        -0        -0 -0.902172 -0.431377
+Contact: right_foot
+Activation time: 24400000000
+Deactivation time: 25000000000
+Pose:  0.0180844 -0.0813641          0
+Orientation:        -0        -0  -0.22289 -0.974844
+Contact: right_foot
+Activation time: 26600000000
+Deactivation time: 9223372036854775807
+Pose: -0.0371186 -0.0595189          0
+Orientation:         0         0  0.544021 -0.839072
+Foot: left_foot
+Contact: left_foot
+Activation time: 5999999999
+Deactivation time: 8849999998
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Contact: left_foot
+Activation time: 12700000000
+Deactivation time: 13249999999
+Pose: 0.0521711 0.0744284         0
+Orientation:         0         0  0.206902 -0.978362
+Contact: left_foot
+Activation time: 14500000000
+Deactivation time: 15049999999
+Pose:  0.104461 -0.120203         0
+Orientation:         0         0  0.894989 -0.446087
+Contact: left_foot
+Activation time: 16300000000
+Deactivation time: 16849999999
+Pose: -0.0969606  -0.126904          0
+Orientation:        0        0 0.905767 0.423777
+Contact: left_foot
+Activation time: 18100000000
+Deactivation time: 18649999999
+Pose: -0.0577236   0.070772          0
+Orientation:        0        0 0.231078 0.972935
+Contact: left_foot
+Activation time: 19900000000
+Deactivation time: 20449999999
+Pose:   0.125868 -0.0123513          0
+Orientation:        -0        -0 -0.618486  0.785796
+Contact: left_foot
+Activation time: 21700000000
+Deactivation time: 22249999999
+Pose: 0.00320648  -0.172256          0
+Orientation:         -0         -0  -0.999992 0.00398162
+Contact: left_foot
+Activation time: 23500000000
+Deactivation time: 24049999999
+Pose:  -0.124647 -0.0164714          0
+Orientation:        -0        -0 -0.624724 -0.780846
+Contact: left_foot
+Activation time: 25300000000
+Deactivation time: 26100000000
+Pose: 0.0561118 0.0726442         0
+Orientation:         0         0  0.223323 -0.974745
+Contact: left_foot
+Activation time: 27900000000
+Deactivation time: 9223372036854775807
+Pose:   0.118082 0.00985505          0
+Orientation:         0         0  0.544021 -0.839072
+Foot: right_foot
+Contact: right_foot
+Activation time: 6049999999
+Deactivation time: 9499999998
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Contact: right_foot
+Activation time: 13650000000
+Deactivation time: 14199999999
+Pose: -0.0392216 -0.0529719          0
+Orientation:         0         0  0.611858 -0.790968
+Contact: right_foot
+Activation time: 15450000000
+Deactivation time: 15999999999
+Pose:    0.001157 -0.00225464           0
+Orientation:          0          0   0.999923 -0.0123887
+Contact: right_foot
+Activation time: 17250000000
+Deactivation time: 17799999999
+Pose:  0.0413738 -0.0531003          0
+Orientation:        0        0 0.631267 0.775566
+Contact: right_foot
+Activation time: 19050000000
+Deactivation time: 19599999999
+Pose: -0.0172794  -0.080713          0
+Orientation:       -0       -0 -0.21512 0.976588
+Contact: right_foot
+Activation time: 20850000000
+Deactivation time: 21399999999
+Pose:  -0.030844 -0.0173201          0
+Orientation:        -0        -0 -0.898708  0.438547
+Contact: right_foot
+Activation time: 22650000000
+Deactivation time: 23199999999
+Pose:   0.033973 -0.0185133          0
+Orientation:        -0        -0 -0.902172 -0.431377
+Contact: right_foot
+Activation time: 24450000000
+Deactivation time: 25050000000
+Pose:  0.0180844 -0.0813641          0
+Orientation:        -0        -0  -0.22289 -0.974844
+Contact: right_foot
+Activation time: 26650000000
+Deactivation time: 9223372036854775807
+Pose: -0.0371186 -0.0595189          0
+Orientation:         0         0  0.544021 -0.839072
+Foot: left_foot
+Contact: left_foot
+Activation time: 6049999999
+Deactivation time: 8899999998
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Contact: left_foot
+Activation time: 12750000000
+Deactivation time: 13299999999
+Pose: 0.0521711 0.0744284         0
+Orientation:         0         0  0.206902 -0.978362
+Contact: left_foot
+Activation time: 14550000000
+Deactivation time: 15099999999
+Pose:  0.104461 -0.120203         0
+Orientation:         0         0  0.894989 -0.446087
+Contact: left_foot
+Activation time: 16350000000
+Deactivation time: 16899999999
+Pose: -0.0969606  -0.126904          0
+Orientation:        0        0 0.905767 0.423777
+Contact: left_foot
+Activation time: 18150000000
+Deactivation time: 18699999999
+Pose: -0.0577236   0.070772          0
+Orientation:        0        0 0.231078 0.972935
+Contact: left_foot
+Activation time: 19950000000
+Deactivation time: 20499999999
+Pose:   0.125868 -0.0123513          0
+Orientation:        -0        -0 -0.618486  0.785796
+Contact: left_foot
+Activation time: 21750000000
+Deactivation time: 22299999999
+Pose: 0.00320648  -0.172256          0
+Orientation:         -0         -0  -0.999992 0.00398162
+Contact: left_foot
+Activation time: 23550000000
+Deactivation time: 24099999999
+Pose:  -0.124647 -0.0164714          0
+Orientation:        -0        -0 -0.624724 -0.780846
+Contact: left_foot
+Activation time: 25350000000
+Deactivation time: 26150000000
+Pose: 0.0561118 0.0726442         0
+Orientation:         0         0  0.223323 -0.974745
+Contact: left_foot
+Activation time: 27950000000
+Deactivation time: 9223372036854775807
+Pose:   0.118082 0.00985505          0
+Orientation:         0         0  0.544021 -0.839072
+Foot: right_foot
+Contact: right_foot
+Activation time: 6099999999
+Deactivation time: 9549999998
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Contact: right_foot
+Activation time: 13700000000
+Deactivation time: 14249999999
+Pose: -0.0392216 -0.0529719          0
+Orientation:         0         0  0.611858 -0.790968
+Contact: right_foot
+Activation time: 15500000000
+Deactivation time: 16049999999
+Pose:    0.001157 -0.00225464           0
+Orientation:          0          0   0.999923 -0.0123887
+Contact: right_foot
+Activation time: 17300000000
+Deactivation time: 17849999999
+Pose:  0.0413738 -0.0531003          0
+Orientation:        0        0 0.631267 0.775566
+Contact: right_foot
+Activation time: 19100000000
+Deactivation time: 19649999999
+Pose: -0.0172794  -0.080713          0
+Orientation:       -0       -0 -0.21512 0.976588
+Contact: right_foot
+Activation time: 20900000000
+Deactivation time: 21449999999
+Pose:  -0.030844 -0.0173201          0
+Orientation:        -0        -0 -0.898708  0.438547
+Contact: right_foot
+Activation time: 22700000000
+Deactivation time: 23249999999
+Pose:   0.033973 -0.0185133          0
+Orientation:        -0        -0 -0.902172 -0.431377
+Contact: right_foot
+Activation time: 24500000000
+Deactivation time: 25100000000
+Pose:  0.0180844 -0.0813641          0
+Orientation:        -0        -0  -0.22289 -0.974844
+Contact: right_foot
+Activation time: 26700000000
+Deactivation time: 9223372036854775807
+Pose: -0.0371186 -0.0595189          0
+Orientation:         0         0  0.544021 -0.839072
+Foot: left_foot
+Contact: left_foot
+Activation time: 6099999999
+Deactivation time: 8949999998
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Contact: left_foot
+Activation time: 12800000000
+Deactivation time: 13349999999
+Pose: 0.0521711 0.0744284         0
+Orientation:         0         0  0.206902 -0.978362
+Contact: left_foot
+Activation time: 14600000000
+Deactivation time: 15149999999
+Pose:  0.104461 -0.120203         0
+Orientation:         0         0  0.894989 -0.446087
+Contact: left_foot
+Activation time: 16400000000
+Deactivation time: 16949999999
+Pose: -0.0969606  -0.126904          0
+Orientation:        0        0 0.905767 0.423777
+Contact: left_foot
+Activation time: 18200000000
+Deactivation time: 18749999999
+Pose: -0.0577236   0.070772          0
+Orientation:        0        0 0.231078 0.972935
+Contact: left_foot
+Activation time: 20000000000
+Deactivation time: 20549999999
+Pose:   0.125868 -0.0123513          0
+Orientation:        -0        -0 -0.618486  0.785796
+Contact: left_foot
+Activation time: 21800000000
+Deactivation time: 22349999999
+Pose: 0.00320648  -0.172256          0
+Orientation:         -0         -0  -0.999992 0.00398162
+Contact: left_foot
+Activation time: 23600000000
+Deactivation time: 24149999999
+Pose:  -0.124647 -0.0164714          0
+Orientation:        -0        -0 -0.624724 -0.780846
+Contact: left_foot
+Activation time: 25400000000
+Deactivation time: 26200000000
+Pose: 0.0561118 0.0726442         0
+Orientation:         0         0  0.223323 -0.974745
+Contact: left_foot
+Activation time: 28000000000
+Deactivation time: 9223372036854775807
+Pose:   0.118082 0.00985505          0
+Orientation:         0         0  0.544021 -0.839072
+Foot: right_foot
+Contact: right_foot
+Activation time: 6149999999
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 6149999999
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 6199999999
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 6199999999
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 6249999999
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 6249999999
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 6299999999
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 6299999999
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 6349999999
+Deactivation time: 9149999998
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Contact: right_foot
+Activation time: 12800000000
+Deactivation time: 13450000000
+Pose: -0.0141136 -0.0838201          0
+Orientation:         0         0 0.0833107 -0.996524
+Contact: right_foot
+Activation time: 15000000000
+Deactivation time: 15650000000
+Pose: -0.0594624   0.060739          0
+Orientation:         0         0  0.925899 -0.377772
+Contact: right_foot
+Activation time: 17200000000
+Deactivation time: 17850000000
+Pose: 0.0841009 0.0123302         0
+Orientation:        0        0 0.756657 0.653812
+Contact: right_foot
+Activation time: 19400000000
+Deactivation time: 20050000000
+Pose: -0.0395246 -0.0752516          0
+Orientation:        -0        -0 -0.239465  0.970905
+Contact: right_foot
+Activation time: 21600000000
+Deactivation time: 22250000000
+Pose: -0.0375804  0.0762412          0
+Orientation:        -0        -0 -0.973898  0.226986
+Contact: right_foot
+Activation time: 23800000000
+Deactivation time: 24450000000
+Pose:  0.0837568 -0.0144844          0
+Orientation:        -0        -0 -0.644048 -0.764985
+Contact: right_foot
+Activation time: 26000000000
+Deactivation time: 26800000000
+Pose: -0.0610016  -0.059193          0
+Orientation:         0         0  0.389623 -0.920975
+Contact: right_foot
+Activation time: 28600000000
+Deactivation time: 9223372036854775807
+Pose: -0.0776003  -0.034687          0
+Orientation:         0         0  0.544021 -0.839072
+Foot: left_foot
+Contact: left_foot
+Activation time: 6349999999
+Deactivation time: 8549999999
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Contact: left_foot
+Activation time: 11700000000
+Deactivation time: 12350000000
+Pose: -0.0682992  0.0505986          0
+Orientation:        -0        -0 -0.449846 -0.893106
+Contact: left_foot
+Activation time: 13900000000
+Deactivation time: 14550000000
+Pose: 0.0811029 0.0254423         0
+Orientation:         0         0  0.591895 -0.806015
+Contact: left_foot
+Activation time: 16100000000
+Deactivation time: 16750000000
+Pose: -0.0271591 -0.0805443          0
+Orientation:        0        0 0.986808 0.161895
+Contact: left_foot
+Activation time: 18300000000
+Deactivation time: 18950000000
+Pose: -0.0491366  0.0693585          0
+Orientation:        0        0  0.30333 0.952886
+Contact: left_foot
+Activation time: 20500000000
+Deactivation time: 21150000000
+Pose:    0.084993 -0.00109078           0
+Orientation:        -0        -0 -0.711629  0.702555
+Contact: left_foot
+Activation time: 22700000000
+Deactivation time: 23350000000
+Pose: -0.0509004 -0.0680746          0
+Orientation:        -0        -0 -0.948915 -0.315533
+Contact: left_foot
+Activation time: 24900000000
+Deactivation time: 25600000000
+Pose: -0.0250832  0.0812147          0
+Orientation:        -0        -0 -0.149219 -0.988804
+Contact: left_foot
+Activation time: 27300000000
+Deactivation time: 9223372036854775807
+Pose: 0.0776003  0.034687         0
+Orientation:         0         0  0.544021 -0.839072
+Foot: right_foot
+Contact: right_foot
+Activation time: 6399999999
+Deactivation time: 9849999998
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Contact: right_foot
+Activation time: 14000000000
+Deactivation time: 14549999999
+Pose: -0.0392216 -0.0529719          0
+Orientation:         0         0  0.611858 -0.790968
+Contact: right_foot
+Activation time: 15800000000
+Deactivation time: 16349999999
+Pose:    0.001157 -0.00225464           0
+Orientation:          0          0   0.999923 -0.0123887
+Contact: right_foot
+Activation time: 17600000000
+Deactivation time: 18149999999
+Pose:  0.0413738 -0.0531003          0
+Orientation:        0        0 0.631267 0.775566
+Contact: right_foot
+Activation time: 19400000000
+Deactivation time: 19949999999
+Pose: -0.0172794  -0.080713          0
+Orientation:       -0       -0 -0.21512 0.976588
+Contact: right_foot
+Activation time: 21200000000
+Deactivation time: 21749999999
+Pose:  -0.030844 -0.0173201          0
+Orientation:        -0        -0 -0.898708  0.438547
+Contact: right_foot
+Activation time: 23000000000
+Deactivation time: 23549999999
+Pose:   0.033973 -0.0185133          0
+Orientation:        -0        -0 -0.902172 -0.431377
+Contact: right_foot
+Activation time: 24800000000
+Deactivation time: 25400000000
+Pose:  0.0180844 -0.0813641          0
+Orientation:        -0        -0  -0.22289 -0.974844
+Contact: right_foot
+Activation time: 27000000000
+Deactivation time: 9223372036854775807
+Pose: -0.0371186 -0.0595189          0
+Orientation:         0         0  0.544021 -0.839072
+Foot: left_foot
+Contact: left_foot
+Activation time: 6399999999
+Deactivation time: 9249999998
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Contact: left_foot
+Activation time: 13100000000
+Deactivation time: 13649999999
+Pose: 0.0521711 0.0744284         0
+Orientation:         0         0  0.206902 -0.978362
+Contact: left_foot
+Activation time: 14900000000
+Deactivation time: 15449999999
+Pose:  0.104461 -0.120203         0
+Orientation:         0         0  0.894989 -0.446087
+Contact: left_foot
+Activation time: 16700000000
+Deactivation time: 17249999999
+Pose: -0.0969606  -0.126904          0
+Orientation:        0        0 0.905767 0.423777
+Contact: left_foot
+Activation time: 18500000000
+Deactivation time: 19049999999
+Pose: -0.0577236   0.070772          0
+Orientation:        0        0 0.231078 0.972935
+Contact: left_foot
+Activation time: 20300000000
+Deactivation time: 20849999999
+Pose:   0.125868 -0.0123513          0
+Orientation:        -0        -0 -0.618486  0.785796
+Contact: left_foot
+Activation time: 22100000000
+Deactivation time: 22649999999
+Pose: 0.00320648  -0.172256          0
+Orientation:         -0         -0  -0.999992 0.00398162
+Contact: left_foot
+Activation time: 23900000000
+Deactivation time: 24449999999
+Pose:  -0.124647 -0.0164714          0
+Orientation:        -0        -0 -0.624724 -0.780846
+Contact: left_foot
+Activation time: 25700000000
+Deactivation time: 26500000000
+Pose: 0.0561118 0.0726442         0
+Orientation:         0         0  0.223323 -0.974745
+Contact: left_foot
+Activation time: 28300000000
+Deactivation time: 9223372036854775807
+Pose:   0.118082 0.00985505          0
+Orientation:         0         0  0.544021 -0.839072
+Foot: right_foot
+Contact: right_foot
+Activation time: 6449999999
+Deactivation time: 9899999998
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Contact: right_foot
+Activation time: 14050000000
+Deactivation time: 14599999999
+Pose: -0.0392216 -0.0529719          0
+Orientation:         0         0  0.611858 -0.790968
+Contact: right_foot
+Activation time: 15850000000
+Deactivation time: 16399999999
+Pose:    0.001157 -0.00225464           0
+Orientation:          0          0   0.999923 -0.0123887
+Contact: right_foot
+Activation time: 17650000000
+Deactivation time: 18199999999
+Pose:  0.0413738 -0.0531003          0
+Orientation:        0        0 0.631267 0.775566
+Contact: right_foot
+Activation time: 19450000000
+Deactivation time: 19999999999
+Pose: -0.0172794  -0.080713          0
+Orientation:       -0       -0 -0.21512 0.976588
+Contact: right_foot
+Activation time: 21250000000
+Deactivation time: 21799999999
+Pose:  -0.030844 -0.0173201          0
+Orientation:        -0        -0 -0.898708  0.438547
+Contact: right_foot
+Activation time: 23050000000
+Deactivation time: 23599999999
+Pose:   0.033973 -0.0185133          0
+Orientation:        -0        -0 -0.902172 -0.431377
+Contact: right_foot
+Activation time: 24850000000
+Deactivation time: 25450000000
+Pose:  0.0180844 -0.0813641          0
+Orientation:        -0        -0  -0.22289 -0.974844
+Contact: right_foot
+Activation time: 27050000000
+Deactivation time: 9223372036854775807
+Pose: -0.0371186 -0.0595189          0
+Orientation:         0         0  0.544021 -0.839072
+Foot: left_foot
+Contact: left_foot
+Activation time: 6449999999
+Deactivation time: 9299999998
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Contact: left_foot
+Activation time: 13150000000
+Deactivation time: 13699999999
+Pose: 0.0521711 0.0744284         0
+Orientation:         0         0  0.206902 -0.978362
+Contact: left_foot
+Activation time: 14950000000
+Deactivation time: 15499999999
+Pose:  0.104461 -0.120203         0
+Orientation:         0         0  0.894989 -0.446087
+Contact: left_foot
+Activation time: 16750000000
+Deactivation time: 17299999999
+Pose: -0.0969606  -0.126904          0
+Orientation:        0        0 0.905767 0.423777
+Contact: left_foot
+Activation time: 18550000000
+Deactivation time: 19099999999
+Pose: -0.0577236   0.070772          0
+Orientation:        0        0 0.231078 0.972935
+Contact: left_foot
+Activation time: 20350000000
+Deactivation time: 20899999999
+Pose:   0.125868 -0.0123513          0
+Orientation:        -0        -0 -0.618486  0.785796
+Contact: left_foot
+Activation time: 22150000000
+Deactivation time: 22699999999
+Pose: 0.00320648  -0.172256          0
+Orientation:         -0         -0  -0.999992 0.00398162
+Contact: left_foot
+Activation time: 23950000000
+Deactivation time: 24499999999
+Pose:  -0.124647 -0.0164714          0
+Orientation:        -0        -0 -0.624724 -0.780846
+Contact: left_foot
+Activation time: 25750000000
+Deactivation time: 26550000000
+Pose: 0.0561118 0.0726442         0
+Orientation:         0         0  0.223323 -0.974745
+Contact: left_foot
+Activation time: 28350000000
+Deactivation time: 9223372036854775807
+Pose:   0.118082 0.00985505          0
+Orientation:         0         0  0.544021 -0.839072
+Foot: right_foot
+Contact: right_foot
+Activation time: 6499999999
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 6499999999
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 6549999999
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 6549999999
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 6599999999
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 6599999999
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 6649999999
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 6649999999
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 6699999999
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 6699999999
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 6749999999
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 6749999999
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 6799999999
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 6799999999
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 6849999999
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 6849999999
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 6899999999
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 6899999999
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 6949999999
+Deactivation time: 10399999998
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Contact: right_foot
+Activation time: 14550000000
+Deactivation time: 15099999999
+Pose: -0.0392216 -0.0529719          0
+Orientation:         0         0  0.611858 -0.790968
+Contact: right_foot
+Activation time: 16350000000
+Deactivation time: 16899999999
+Pose:    0.001157 -0.00225464           0
+Orientation:          0          0   0.999923 -0.0123887
+Contact: right_foot
+Activation time: 18150000000
+Deactivation time: 18699999999
+Pose:  0.0413738 -0.0531003          0
+Orientation:        0        0 0.631267 0.775566
+Contact: right_foot
+Activation time: 19950000000
+Deactivation time: 20499999999
+Pose: -0.0172794  -0.080713          0
+Orientation:       -0       -0 -0.21512 0.976588
+Contact: right_foot
+Activation time: 21750000000
+Deactivation time: 22299999999
+Pose:  -0.030844 -0.0173201          0
+Orientation:        -0        -0 -0.898708  0.438547
+Contact: right_foot
+Activation time: 23550000000
+Deactivation time: 24099999999
+Pose:   0.033973 -0.0185133          0
+Orientation:        -0        -0 -0.902172 -0.431377
+Contact: right_foot
+Activation time: 25350000000
+Deactivation time: 25950000000
+Pose:  0.0180844 -0.0813641          0
+Orientation:        -0        -0  -0.22289 -0.974844
+Contact: right_foot
+Activation time: 27550000000
+Deactivation time: 9223372036854775807
+Pose: -0.0371186 -0.0595189          0
+Orientation:         0         0  0.544021 -0.839072
+Foot: left_foot
+Contact: left_foot
+Activation time: 6949999999
+Deactivation time: 9799999998
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Contact: left_foot
+Activation time: 13650000000
+Deactivation time: 14199999999
+Pose: 0.0521711 0.0744284         0
+Orientation:         0         0  0.206902 -0.978362
+Contact: left_foot
+Activation time: 15450000000
+Deactivation time: 15999999999
+Pose:  0.104461 -0.120203         0
+Orientation:         0         0  0.894989 -0.446087
+Contact: left_foot
+Activation time: 17250000000
+Deactivation time: 17799999999
+Pose: -0.0969606  -0.126904          0
+Orientation:        0        0 0.905767 0.423777
+Contact: left_foot
+Activation time: 19050000000
+Deactivation time: 19599999999
+Pose: -0.0577236   0.070772          0
+Orientation:        0        0 0.231078 0.972935
+Contact: left_foot
+Activation time: 20850000000
+Deactivation time: 21399999999
+Pose:   0.125868 -0.0123513          0
+Orientation:        -0        -0 -0.618486  0.785796
+Contact: left_foot
+Activation time: 22650000000
+Deactivation time: 23199999999
+Pose: 0.00320648  -0.172256          0
+Orientation:         -0         -0  -0.999992 0.00398162
+Contact: left_foot
+Activation time: 24450000000
+Deactivation time: 24999999999
+Pose:  -0.124647 -0.0164714          0
+Orientation:        -0        -0 -0.624724 -0.780846
+Contact: left_foot
+Activation time: 26250000000
+Deactivation time: 27050000000
+Pose: 0.0561118 0.0726442         0
+Orientation:         0         0  0.223323 -0.974745
+Contact: left_foot
+Activation time: 28850000000
+Deactivation time: 9223372036854775807
+Pose:   0.118082 0.00985505          0
+Orientation:         0         0  0.544021 -0.839072
+Foot: right_foot
+Contact: right_foot
+Activation time: 6999999999
+Deactivation time: 10449999998
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Contact: right_foot
+Activation time: 14600000000
+Deactivation time: 15149999999
+Pose: -0.0392216 -0.0529719          0
+Orientation:         0         0  0.611858 -0.790968
+Contact: right_foot
+Activation time: 16400000000
+Deactivation time: 16949999999
+Pose:    0.001157 -0.00225464           0
+Orientation:          0          0   0.999923 -0.0123887
+Contact: right_foot
+Activation time: 18200000000
+Deactivation time: 18749999999
+Pose:  0.0413738 -0.0531003          0
+Orientation:        0        0 0.631267 0.775566
+Contact: right_foot
+Activation time: 20000000000
+Deactivation time: 20549999999
+Pose: -0.0172794  -0.080713          0
+Orientation:       -0       -0 -0.21512 0.976588
+Contact: right_foot
+Activation time: 21800000000
+Deactivation time: 22349999999
+Pose:  -0.030844 -0.0173201          0
+Orientation:        -0        -0 -0.898708  0.438547
+Contact: right_foot
+Activation time: 23600000000
+Deactivation time: 24149999999
+Pose:   0.033973 -0.0185133          0
+Orientation:        -0        -0 -0.902172 -0.431377
+Contact: right_foot
+Activation time: 25400000000
+Deactivation time: 26000000000
+Pose:  0.0180844 -0.0813641          0
+Orientation:        -0        -0  -0.22289 -0.974844
+Contact: right_foot
+Activation time: 27600000000
+Deactivation time: 9223372036854775807
+Pose: -0.0371186 -0.0595189          0
+Orientation:         0         0  0.544021 -0.839072
+Foot: left_foot
+Contact: left_foot
+Activation time: 6999999999
+Deactivation time: 9849999998
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Contact: left_foot
+Activation time: 13700000000
+Deactivation time: 14249999999
+Pose: 0.0521711 0.0744284         0
+Orientation:         0         0  0.206902 -0.978362
+Contact: left_foot
+Activation time: 15500000000
+Deactivation time: 16049999999
+Pose:  0.104461 -0.120203         0
+Orientation:         0         0  0.894989 -0.446087
+Contact: left_foot
+Activation time: 17300000000
+Deactivation time: 17849999999
+Pose: -0.0969606  -0.126904          0
+Orientation:        0        0 0.905767 0.423777
+Contact: left_foot
+Activation time: 19100000000
+Deactivation time: 19649999999
+Pose: -0.0577236   0.070772          0
+Orientation:        0        0 0.231078 0.972935
+Contact: left_foot
+Activation time: 20900000000
+Deactivation time: 21449999999
+Pose:   0.125868 -0.0123513          0
+Orientation:        -0        -0 -0.618486  0.785796
+Contact: left_foot
+Activation time: 22700000000
+Deactivation time: 23249999999
+Pose: 0.00320648  -0.172256          0
+Orientation:         -0         -0  -0.999992 0.00398162
+Contact: left_foot
+Activation time: 24500000000
+Deactivation time: 25049999999
+Pose:  -0.124647 -0.0164714          0
+Orientation:        -0        -0 -0.624724 -0.780846
+Contact: left_foot
+Activation time: 26300000000
+Deactivation time: 27100000000
+Pose: 0.0561118 0.0726442         0
+Orientation:         0         0  0.223323 -0.974745
+Contact: left_foot
+Activation time: 28900000000
+Deactivation time: 9223372036854775807
+Pose:   0.118082 0.00985505          0
+Orientation:         0         0  0.544021 -0.839072
+Foot: right_foot
+Contact: right_foot
+Activation time: 7049999999
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 7049999999
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 7099999999
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 7099999999
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 7149999999
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 7149999999
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 7199999999
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 7199999999
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 7249999999
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 7249999999
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 7299999999
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 7299999999
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 7349999999
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 7349999999
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 7399999999
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 7399999999
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 7449999999
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 7449999999
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 7499999999
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 7499999999
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 7549999999
+Deactivation time: 10999999998
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Contact: right_foot
+Activation time: 15150000000
+Deactivation time: 15699999999
+Pose: -0.0392216 -0.0529719          0
+Orientation:         0         0  0.611858 -0.790968
+Contact: right_foot
+Activation time: 16950000000
+Deactivation time: 17499999999
+Pose:    0.001157 -0.00225464           0
+Orientation:          0          0   0.999923 -0.0123887
+Contact: right_foot
+Activation time: 18750000000
+Deactivation time: 19299999999
+Pose:  0.0413738 -0.0531003          0
+Orientation:        0        0 0.631267 0.775566
+Contact: right_foot
+Activation time: 20550000000
+Deactivation time: 21099999999
+Pose: -0.0172794  -0.080713          0
+Orientation:       -0       -0 -0.21512 0.976588
+Contact: right_foot
+Activation time: 22350000000
+Deactivation time: 22899999999
+Pose:  -0.030844 -0.0173201          0
+Orientation:        -0        -0 -0.898708  0.438547
+Contact: right_foot
+Activation time: 24150000000
+Deactivation time: 24699999999
+Pose:   0.033973 -0.0185133          0
+Orientation:        -0        -0 -0.902172 -0.431377
+Contact: right_foot
+Activation time: 25950000000
+Deactivation time: 26550000000
+Pose:  0.0180844 -0.0813641          0
+Orientation:        -0        -0  -0.22289 -0.974844
+Contact: right_foot
+Activation time: 28150000000
+Deactivation time: 9223372036854775807
+Pose: -0.0371186 -0.0595189          0
+Orientation:         0         0  0.544021 -0.839072
+Foot: left_foot
+Contact: left_foot
+Activation time: 7549999999
+Deactivation time: 10399999998
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Contact: left_foot
+Activation time: 14250000000
+Deactivation time: 14799999999
+Pose: 0.0521711 0.0744284         0
+Orientation:         0         0  0.206902 -0.978362
+Contact: left_foot
+Activation time: 16050000000
+Deactivation time: 16599999999
+Pose:  0.104461 -0.120203         0
+Orientation:         0         0  0.894989 -0.446087
+Contact: left_foot
+Activation time: 17850000000
+Deactivation time: 18399999999
+Pose: -0.0969606  -0.126904          0
+Orientation:        0        0 0.905767 0.423777
+Contact: left_foot
+Activation time: 19650000000
+Deactivation time: 20199999999
+Pose: -0.0577236   0.070772          0
+Orientation:        0        0 0.231078 0.972935
+Contact: left_foot
+Activation time: 21450000000
+Deactivation time: 21999999999
+Pose:   0.125868 -0.0123513          0
+Orientation:        -0        -0 -0.618486  0.785796
+Contact: left_foot
+Activation time: 23250000000
+Deactivation time: 23799999999
+Pose: 0.00320648  -0.172256          0
+Orientation:         -0         -0  -0.999992 0.00398162
+Contact: left_foot
+Activation time: 25050000000
+Deactivation time: 25599999999
+Pose:  -0.124647 -0.0164714          0
+Orientation:        -0        -0 -0.624724 -0.780846
+Contact: left_foot
+Activation time: 26850000000
+Deactivation time: 27650000000
+Pose: 0.0561118 0.0726442         0
+Orientation:         0         0  0.223323 -0.974745
+Contact: left_foot
+Activation time: 29450000000
+Deactivation time: 9223372036854775807
+Pose:   0.118082 0.00985505          0
+Orientation:         0         0  0.544021 -0.839072
+Foot: right_foot
+Contact: right_foot
+Activation time: 7599999999
+Deactivation time: 11049999998
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Contact: right_foot
+Activation time: 15200000000
+Deactivation time: 15749999999
+Pose: -0.0392216 -0.0529719          0
+Orientation:         0         0  0.611858 -0.790968
+Contact: right_foot
+Activation time: 17000000000
+Deactivation time: 17549999999
+Pose:    0.001157 -0.00225464           0
+Orientation:          0          0   0.999923 -0.0123887
+Contact: right_foot
+Activation time: 18800000000
+Deactivation time: 19349999999
+Pose:  0.0413738 -0.0531003          0
+Orientation:        0        0 0.631267 0.775566
+Contact: right_foot
+Activation time: 20600000000
+Deactivation time: 21149999999
+Pose: -0.0172794  -0.080713          0
+Orientation:       -0       -0 -0.21512 0.976588
+Contact: right_foot
+Activation time: 22400000000
+Deactivation time: 22949999999
+Pose:  -0.030844 -0.0173201          0
+Orientation:        -0        -0 -0.898708  0.438547
+Contact: right_foot
+Activation time: 24200000000
+Deactivation time: 24749999999
+Pose:   0.033973 -0.0185133          0
+Orientation:        -0        -0 -0.902172 -0.431377
+Contact: right_foot
+Activation time: 26000000000
+Deactivation time: 26600000000
+Pose:  0.0180844 -0.0813641          0
+Orientation:        -0        -0  -0.22289 -0.974844
+Contact: right_foot
+Activation time: 28200000000
+Deactivation time: 9223372036854775807
+Pose: -0.0371186 -0.0595189          0
+Orientation:         0         0  0.544021 -0.839072
+Foot: left_foot
+Contact: left_foot
+Activation time: 7599999999
+Deactivation time: 10449999998
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Contact: left_foot
+Activation time: 14300000000
+Deactivation time: 14849999999
+Pose: 0.0521711 0.0744284         0
+Orientation:         0         0  0.206902 -0.978362
+Contact: left_foot
+Activation time: 16100000000
+Deactivation time: 16649999999
+Pose:  0.104461 -0.120203         0
+Orientation:         0         0  0.894989 -0.446087
+Contact: left_foot
+Activation time: 17900000000
+Deactivation time: 18449999999
+Pose: -0.0969606  -0.126904          0
+Orientation:        0        0 0.905767 0.423777
+Contact: left_foot
+Activation time: 19700000000
+Deactivation time: 20249999999
+Pose: -0.0577236   0.070772          0
+Orientation:        0        0 0.231078 0.972935
+Contact: left_foot
+Activation time: 21500000000
+Deactivation time: 22049999999
+Pose:   0.125868 -0.0123513          0
+Orientation:        -0        -0 -0.618486  0.785796
+Contact: left_foot
+Activation time: 23300000000
+Deactivation time: 23849999999
+Pose: 0.00320648  -0.172256          0
+Orientation:         -0         -0  -0.999992 0.00398162
+Contact: left_foot
+Activation time: 25100000000
+Deactivation time: 25649999999
+Pose:  -0.124647 -0.0164714          0
+Orientation:        -0        -0 -0.624724 -0.780846
+Contact: left_foot
+Activation time: 26900000000
+Deactivation time: 27700000000
+Pose: 0.0561118 0.0726442         0
+Orientation:         0         0  0.223323 -0.974745
+Contact: left_foot
+Activation time: 29500000000
+Deactivation time: 9223372036854775807
+Pose:   0.118082 0.00985505          0
+Orientation:         0         0  0.544021 -0.839072
+Foot: right_foot
+Contact: right_foot
+Activation time: 7649999999
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 7649999999
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 7699999999
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 7699999999
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 7749999999
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 7749999999
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 7799999999
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 7799999999
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 7849999999
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 7849999999
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 7899999999
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 7899999999
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 7949999999
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 7949999999
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 7999999999
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 7999999999
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 8049999999
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 8049999999
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 8099999999
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 8099999999
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 8149999999
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 8149999999
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 8199999999
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 8199999999
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 8249999999
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 8249999999
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 8299999999
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 8299999999
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 8349999999
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 8349999999
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 8399999999
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 8399999999
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 8449999999
+Deactivation time: 11899999998
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Contact: right_foot
+Activation time: 16050000000
+Deactivation time: 16599999999
+Pose: -0.0392216 -0.0529719          0
+Orientation:         0         0  0.611858 -0.790968
+Contact: right_foot
+Activation time: 17850000000
+Deactivation time: 18399999999
+Pose:    0.001157 -0.00225464           0
+Orientation:          0          0   0.999923 -0.0123887
+Contact: right_foot
+Activation time: 19650000000
+Deactivation time: 20199999999
+Pose:  0.0413738 -0.0531003          0
+Orientation:        0        0 0.631267 0.775566
+Contact: right_foot
+Activation time: 21450000000
+Deactivation time: 21999999999
+Pose: -0.0172794  -0.080713          0
+Orientation:       -0       -0 -0.21512 0.976588
+Contact: right_foot
+Activation time: 23250000000
+Deactivation time: 23799999999
+Pose:  -0.030844 -0.0173201          0
+Orientation:        -0        -0 -0.898708  0.438547
+Contact: right_foot
+Activation time: 25050000000
+Deactivation time: 25599999999
+Pose:   0.033973 -0.0185133          0
+Orientation:        -0        -0 -0.902172 -0.431377
+Contact: right_foot
+Activation time: 26850000000
+Deactivation time: 27450000000
+Pose:  0.0180844 -0.0813641          0
+Orientation:        -0        -0  -0.22289 -0.974844
+Contact: right_foot
+Activation time: 29050000000
+Deactivation time: 9223372036854775807
+Pose: -0.0371186 -0.0595189          0
+Orientation:         0         0  0.544021 -0.839072
+Foot: left_foot
+Contact: left_foot
+Activation time: 8449999999
+Deactivation time: 11299999998
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Contact: left_foot
+Activation time: 15150000000
+Deactivation time: 15699999999
+Pose: 0.0521711 0.0744284         0
+Orientation:         0         0  0.206902 -0.978362
+Contact: left_foot
+Activation time: 16950000000
+Deactivation time: 17499999999
+Pose:  0.104461 -0.120203         0
+Orientation:         0         0  0.894989 -0.446087
+Contact: left_foot
+Activation time: 18750000000
+Deactivation time: 19299999999
+Pose: -0.0969606  -0.126904          0
+Orientation:        0        0 0.905767 0.423777
+Contact: left_foot
+Activation time: 20550000000
+Deactivation time: 21099999999
+Pose: -0.0577236   0.070772          0
+Orientation:        0        0 0.231078 0.972935
+Contact: left_foot
+Activation time: 22350000000
+Deactivation time: 22899999999
+Pose:   0.125868 -0.0123513          0
+Orientation:        -0        -0 -0.618486  0.785796
+Contact: left_foot
+Activation time: 24150000000
+Deactivation time: 24699999999
+Pose: 0.00320648  -0.172256          0
+Orientation:         -0         -0  -0.999992 0.00398162
+Contact: left_foot
+Activation time: 25950000000
+Deactivation time: 26499999999
+Pose:  -0.124647 -0.0164714          0
+Orientation:        -0        -0 -0.624724 -0.780846
+Contact: left_foot
+Activation time: 27750000000
+Deactivation time: 28550000000
+Pose: 0.0561118 0.0726442         0
+Orientation:         0         0  0.223323 -0.974745
+Contact: left_foot
+Activation time: 30350000000
+Deactivation time: 9223372036854775807
+Pose:   0.118082 0.00985505          0
+Orientation:         0         0  0.544021 -0.839072
+Foot: right_foot
+Contact: right_foot
+Activation time: 8499999999
+Deactivation time: 11949999998
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Contact: right_foot
+Activation time: 16100000000
+Deactivation time: 16649999999
+Pose: -0.0392216 -0.0529719          0
+Orientation:         0         0  0.611858 -0.790968
+Contact: right_foot
+Activation time: 17900000000
+Deactivation time: 18449999999
+Pose:    0.001157 -0.00225464           0
+Orientation:          0          0   0.999923 -0.0123887
+Contact: right_foot
+Activation time: 19700000000
+Deactivation time: 20249999999
+Pose:  0.0413738 -0.0531003          0
+Orientation:        0        0 0.631267 0.775566
+Contact: right_foot
+Activation time: 21500000000
+Deactivation time: 22049999999
+Pose: -0.0172794  -0.080713          0
+Orientation:       -0       -0 -0.21512 0.976588
+Contact: right_foot
+Activation time: 23300000000
+Deactivation time: 23849999999
+Pose:  -0.030844 -0.0173201          0
+Orientation:        -0        -0 -0.898708  0.438547
+Contact: right_foot
+Activation time: 25100000000
+Deactivation time: 25649999999
+Pose:   0.033973 -0.0185133          0
+Orientation:        -0        -0 -0.902172 -0.431377
+Contact: right_foot
+Activation time: 26900000000
+Deactivation time: 27500000000
+Pose:  0.0180844 -0.0813641          0
+Orientation:        -0        -0  -0.22289 -0.974844
+Contact: right_foot
+Activation time: 29100000000
+Deactivation time: 9223372036854775807
+Pose: -0.0371186 -0.0595189          0
+Orientation:         0         0  0.544021 -0.839072
+Foot: left_foot
+Contact: left_foot
+Activation time: 8499999999
+Deactivation time: 11349999998
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Contact: left_foot
+Activation time: 15200000000
+Deactivation time: 15749999999
+Pose: 0.0521711 0.0744284         0
+Orientation:         0         0  0.206902 -0.978362
+Contact: left_foot
+Activation time: 17000000000
+Deactivation time: 17549999999
+Pose:  0.104461 -0.120203         0
+Orientation:         0         0  0.894989 -0.446087
+Contact: left_foot
+Activation time: 18800000000
+Deactivation time: 19349999999
+Pose: -0.0969606  -0.126904          0
+Orientation:        0        0 0.905767 0.423777
+Contact: left_foot
+Activation time: 20600000000
+Deactivation time: 21149999999
+Pose: -0.0577236   0.070772          0
+Orientation:        0        0 0.231078 0.972935
+Contact: left_foot
+Activation time: 22400000000
+Deactivation time: 22949999999
+Pose:   0.125868 -0.0123513          0
+Orientation:        -0        -0 -0.618486  0.785796
+Contact: left_foot
+Activation time: 24200000000
+Deactivation time: 24749999999
+Pose: 0.00320648  -0.172256          0
+Orientation:         -0         -0  -0.999992 0.00398162
+Contact: left_foot
+Activation time: 26000000000
+Deactivation time: 26549999999
+Pose:  -0.124647 -0.0164714          0
+Orientation:        -0        -0 -0.624724 -0.780846
+Contact: left_foot
+Activation time: 27800000000
+Deactivation time: 28600000000
+Pose: 0.0561118 0.0726442         0
+Orientation:         0         0  0.223323 -0.974745
+Contact: left_foot
+Activation time: 30400000000
+Deactivation time: 9223372036854775807
+Pose:   0.118082 0.00985505          0
+Orientation:         0         0  0.544021 -0.839072
+Foot: right_foot
+Contact: right_foot
+Activation time: 8549999999
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 8549999999
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 8599999999
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 8599999999
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 8649999999
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 8649999999
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 8699999999
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 8699999999
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 8749999999
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 8749999999
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 8799999999
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 8799999999
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 8849999999
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 8849999999
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 8899999999
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 8899999999
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 8949999999
+Deactivation time: 9749999999
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Contact: right_foot
+Activation time: 11550000000
+Deactivation time: 12350000000
+Pose: 0.34042  -0.085       0
+Orientation: 0 0 0 1
+Contact: right_foot
+Activation time: 14150000000
+Deactivation time: 14950000000
+Pose: 0.68084  -0.085       0
+Orientation: 0 0 0 1
+Contact: right_foot
+Activation time: 16750000000
+Deactivation time: 17550000000
+Pose: 1.02126  -0.085       0
+Orientation: 0 0 0 1
+Contact: right_foot
+Activation time: 19350000000
+Deactivation time: 20150000000
+Pose: 1.36168  -0.085       0
+Orientation: 0 0 0 1
+Contact: right_foot
+Activation time: 21950000000
+Deactivation time: 22750000000
+Pose: 1.7021 -0.085      0
+Orientation: 0 0 0 1
+Contact: right_foot
+Activation time: 24550000000
+Deactivation time: 25350000000
+Pose: 2.04252  -0.085       0
+Orientation: 0 0 0 1
+Contact: right_foot
+Activation time: 27150000000
+Deactivation time: 27950000000
+Pose: 2.38294  -0.085       0
+Orientation: 0 0 0 1
+Contact: right_foot
+Activation time: 29750000000
+Deactivation time: 9223372036854775807
+Pose: 2.61861  -0.085       0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 8949999999
+Deactivation time: 9099999999
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Contact: left_foot
+Activation time: 10250000000
+Deactivation time: 11050000000
+Pose: 0.17021   0.085       0
+Orientation: 0 0 0 1
+Contact: left_foot
+Activation time: 12850000000
+Deactivation time: 13650000000
+Pose: 0.51063   0.085       0
+Orientation: 0 0 0 1
+Contact: left_foot
+Activation time: 15450000000
+Deactivation time: 16250000000
+Pose: 0.85105   0.085       0
+Orientation: 0 0 0 1
+Contact: left_foot
+Activation time: 18050000000
+Deactivation time: 18850000000
+Pose: 1.19147   0.085       0
+Orientation: 0 0 0 1
+Contact: left_foot
+Activation time: 20650000000
+Deactivation time: 21450000000
+Pose: 1.53189   0.085       0
+Orientation: 0 0 0 1
+Contact: left_foot
+Activation time: 23250000000
+Deactivation time: 24050000000
+Pose: 1.87231   0.085       0
+Orientation: 0 0 0 1
+Contact: left_foot
+Activation time: 25850000000
+Deactivation time: 26650000000
+Pose: 2.21273   0.085       0
+Orientation: 0 0 0 1
+Contact: left_foot
+Activation time: 28450000000
+Deactivation time: 29250000000
+Pose: 2.55315   0.085       0
+Orientation: 0 0 0 1
+Contact: left_foot
+Activation time: 31050000000
+Deactivation time: 9223372036854775807
+Pose: 2.61861   0.085       0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 8999999999
+Deactivation time: 9799999999
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Contact: right_foot
+Activation time: 11600000000
+Deactivation time: 12400000000
+Pose: 0.34042  -0.085       0
+Orientation: 0 0 0 1
+Contact: right_foot
+Activation time: 14200000000
+Deactivation time: 15000000000
+Pose: 0.68084  -0.085       0
+Orientation: 0 0 0 1
+Contact: right_foot
+Activation time: 16800000000
+Deactivation time: 17600000000
+Pose: 1.02126  -0.085       0
+Orientation: 0 0 0 1
+Contact: right_foot
+Activation time: 19400000000
+Deactivation time: 20200000000
+Pose: 1.36168  -0.085       0
+Orientation: 0 0 0 1
+Contact: right_foot
+Activation time: 22000000000
+Deactivation time: 22800000000
+Pose: 1.7021 -0.085      0
+Orientation: 0 0 0 1
+Contact: right_foot
+Activation time: 24600000000
+Deactivation time: 25400000000
+Pose: 2.04252  -0.085       0
+Orientation: 0 0 0 1
+Contact: right_foot
+Activation time: 27200000000
+Deactivation time: 28000000000
+Pose: 2.38294  -0.085       0
+Orientation: 0 0 0 1
+Contact: right_foot
+Activation time: 29800000000
+Deactivation time: 9223372036854775807
+Pose: 2.61861  -0.085       0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 8999999999
+Deactivation time: 9149999999
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Contact: left_foot
+Activation time: 10300000000
+Deactivation time: 11100000000
+Pose: 0.17021   0.085       0
+Orientation: 0 0 0 1
+Contact: left_foot
+Activation time: 12900000000
+Deactivation time: 13700000000
+Pose: 0.51063   0.085       0
+Orientation: 0 0 0 1
+Contact: left_foot
+Activation time: 15500000000
+Deactivation time: 16300000000
+Pose: 0.85105   0.085       0
+Orientation: 0 0 0 1
+Contact: left_foot
+Activation time: 18100000000
+Deactivation time: 18900000000
+Pose: 1.19147   0.085       0
+Orientation: 0 0 0 1
+Contact: left_foot
+Activation time: 20700000000
+Deactivation time: 21500000000
+Pose: 1.53189   0.085       0
+Orientation: 0 0 0 1
+Contact: left_foot
+Activation time: 23300000000
+Deactivation time: 24100000000
+Pose: 1.87231   0.085       0
+Orientation: 0 0 0 1
+Contact: left_foot
+Activation time: 25900000000
+Deactivation time: 26700000000
+Pose: 2.21273   0.085       0
+Orientation: 0 0 0 1
+Contact: left_foot
+Activation time: 28500000000
+Deactivation time: 29300000000
+Pose: 2.55315   0.085       0
+Orientation: 0 0 0 1
+Contact: left_foot
+Activation time: 31100000000
+Deactivation time: 9223372036854775807
+Pose: 2.61861   0.085       0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 9049999999
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 9049999999
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 9099999999
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 9099999999
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 9149999999
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 9149999999
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 9199999999
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 9199999999
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 9249999999
+Deactivation time: 10049999999
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Contact: right_foot
+Activation time: 11850000000
+Deactivation time: 12650000000
+Pose: 0.34042  -0.085       0
+Orientation: 0 0 0 1
+Contact: right_foot
+Activation time: 14450000000
+Deactivation time: 15250000000
+Pose: 0.68084  -0.085       0
+Orientation: 0 0 0 1
+Contact: right_foot
+Activation time: 17050000000
+Deactivation time: 17850000000
+Pose: 1.02126  -0.085       0
+Orientation: 0 0 0 1
+Contact: right_foot
+Activation time: 19650000000
+Deactivation time: 20450000000
+Pose: 1.36168  -0.085       0
+Orientation: 0 0 0 1
+Contact: right_foot
+Activation time: 22250000000
+Deactivation time: 23050000000
+Pose: 1.7021 -0.085      0
+Orientation: 0 0 0 1
+Contact: right_foot
+Activation time: 24850000000
+Deactivation time: 25650000000
+Pose: 2.04252  -0.085       0
+Orientation: 0 0 0 1
+Contact: right_foot
+Activation time: 27450000000
+Deactivation time: 28250000000
+Pose: 2.38294  -0.085       0
+Orientation: 0 0 0 1
+Contact: right_foot
+Activation time: 30050000000
+Deactivation time: 9223372036854775807
+Pose: 2.61861  -0.085       0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 9249999999
+Deactivation time: 9399999999
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Contact: left_foot
+Activation time: 10550000000
+Deactivation time: 11350000000
+Pose: 0.17021   0.085       0
+Orientation: 0 0 0 1
+Contact: left_foot
+Activation time: 13150000000
+Deactivation time: 13950000000
+Pose: 0.51063   0.085       0
+Orientation: 0 0 0 1
+Contact: left_foot
+Activation time: 15750000000
+Deactivation time: 16550000000
+Pose: 0.85105   0.085       0
+Orientation: 0 0 0 1
+Contact: left_foot
+Activation time: 18350000000
+Deactivation time: 19150000000
+Pose: 1.19147   0.085       0
+Orientation: 0 0 0 1
+Contact: left_foot
+Activation time: 20950000000
+Deactivation time: 21750000000
+Pose: 1.53189   0.085       0
+Orientation: 0 0 0 1
+Contact: left_foot
+Activation time: 23550000000
+Deactivation time: 24350000000
+Pose: 1.87231   0.085       0
+Orientation: 0 0 0 1
+Contact: left_foot
+Activation time: 26150000000
+Deactivation time: 26950000000
+Pose: 2.21273   0.085       0
+Orientation: 0 0 0 1
+Contact: left_foot
+Activation time: 28750000000
+Deactivation time: 29550000000
+Pose: 2.55315   0.085       0
+Orientation: 0 0 0 1
+Contact: left_foot
+Activation time: 31350000000
+Deactivation time: 9223372036854775807
+Pose: 2.61861   0.085       0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 9299999999
+Deactivation time: 10099999999
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Contact: right_foot
+Activation time: 11900000000
+Deactivation time: 12700000000
+Pose: 0.34042  -0.085       0
+Orientation: 0 0 0 1
+Contact: right_foot
+Activation time: 14500000000
+Deactivation time: 15300000000
+Pose: 0.68084  -0.085       0
+Orientation: 0 0 0 1
+Contact: right_foot
+Activation time: 17100000000
+Deactivation time: 17900000000
+Pose: 1.02126  -0.085       0
+Orientation: 0 0 0 1
+Contact: right_foot
+Activation time: 19700000000
+Deactivation time: 20500000000
+Pose: 1.36168  -0.085       0
+Orientation: 0 0 0 1
+Contact: right_foot
+Activation time: 22300000000
+Deactivation time: 23100000000
+Pose: 1.7021 -0.085      0
+Orientation: 0 0 0 1
+Contact: right_foot
+Activation time: 24900000000
+Deactivation time: 25700000000
+Pose: 2.04252  -0.085       0
+Orientation: 0 0 0 1
+Contact: right_foot
+Activation time: 27500000000
+Deactivation time: 28300000000
+Pose: 2.38294  -0.085       0
+Orientation: 0 0 0 1
+Contact: right_foot
+Activation time: 30100000000
+Deactivation time: 9223372036854775807
+Pose: 2.61861  -0.085       0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 9299999999
+Deactivation time: 9449999999
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Contact: left_foot
+Activation time: 10600000000
+Deactivation time: 11400000000
+Pose: 0.17021   0.085       0
+Orientation: 0 0 0 1
+Contact: left_foot
+Activation time: 13200000000
+Deactivation time: 14000000000
+Pose: 0.51063   0.085       0
+Orientation: 0 0 0 1
+Contact: left_foot
+Activation time: 15800000000
+Deactivation time: 16600000000
+Pose: 0.85105   0.085       0
+Orientation: 0 0 0 1
+Contact: left_foot
+Activation time: 18400000000
+Deactivation time: 19200000000
+Pose: 1.19147   0.085       0
+Orientation: 0 0 0 1
+Contact: left_foot
+Activation time: 21000000000
+Deactivation time: 21800000000
+Pose: 1.53189   0.085       0
+Orientation: 0 0 0 1
+Contact: left_foot
+Activation time: 23600000000
+Deactivation time: 24400000000
+Pose: 1.87231   0.085       0
+Orientation: 0 0 0 1
+Contact: left_foot
+Activation time: 26200000000
+Deactivation time: 27000000000
+Pose: 2.21273   0.085       0
+Orientation: 0 0 0 1
+Contact: left_foot
+Activation time: 28800000000
+Deactivation time: 29600000000
+Pose: 2.55315   0.085       0
+Orientation: 0 0 0 1
+Contact: left_foot
+Activation time: 31400000000
+Deactivation time: 9223372036854775807
+Pose: 2.61861   0.085       0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 9349999999
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 9349999999
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 9399999999
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 9399999999
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 9450000000
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 9450000000
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 9500000000
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 9500000000
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 9550000000
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 9550000000
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 9600000000
+Deactivation time: 12399999999
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Contact: right_foot
+Activation time: 16050000000
+Deactivation time: 16700000000
+Pose:  0.0141136 -0.0838201          0
+Orientation:         -0         -0 -0.0833107  -0.996524
+Contact: right_foot
+Activation time: 18250000000
+Deactivation time: 18900000000
+Pose: 0.0594624  0.060739         0
+Orientation:        -0        -0 -0.925899 -0.377772
+Contact: right_foot
+Activation time: 20450000000
+Deactivation time: 21100000000
+Pose: -0.0841009  0.0123302          0
+Orientation:        -0        -0 -0.756657  0.653812
+Contact: right_foot
+Activation time: 22650000000
+Deactivation time: 23300000000
+Pose:  0.0395246 -0.0752516          0
+Orientation:        0        0 0.239465 0.970905
+Contact: right_foot
+Activation time: 24850000000
+Deactivation time: 25500000000
+Pose: 0.0375804 0.0762412         0
+Orientation:        0        0 0.973898 0.226986
+Contact: right_foot
+Activation time: 27050000000
+Deactivation time: 27700000000
+Pose: -0.0837568 -0.0144844          0
+Orientation:         0         0  0.644048 -0.764985
+Contact: right_foot
+Activation time: 29250000000
+Deactivation time: 30050000000
+Pose: 0.0610016 -0.059193         0
+Orientation:        -0        -0 -0.389623 -0.920975
+Contact: right_foot
+Activation time: 31850000000
+Deactivation time: 9223372036854775807
+Pose: 0.0776003 -0.034687         0
+Orientation:        -0        -0 -0.544021 -0.839072
+Foot: left_foot
+Contact: left_foot
+Activation time: 9600000000
+Deactivation time: 11800000000
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Contact: left_foot
+Activation time: 14950000000
+Deactivation time: 15600000000
+Pose: 0.0682992 0.0505986         0
+Orientation:         0         0  0.449846 -0.893106
+Contact: left_foot
+Activation time: 17150000000
+Deactivation time: 17800000000
+Pose: -0.0811029  0.0254423          0
+Orientation:        -0        -0 -0.591895 -0.806015
+Contact: left_foot
+Activation time: 19350000000
+Deactivation time: 20000000000
+Pose:  0.0271591 -0.0805443          0
+Orientation:        -0        -0 -0.986808  0.161895
+Contact: left_foot
+Activation time: 21550000000
+Deactivation time: 22200000000
+Pose: 0.0491366 0.0693585         0
+Orientation:       -0       -0 -0.30333 0.952886
+Contact: left_foot
+Activation time: 23750000000
+Deactivation time: 24400000000
+Pose:   -0.084993 -0.00109078           0
+Orientation:        0        0 0.711629 0.702555
+Contact: left_foot
+Activation time: 25950000000
+Deactivation time: 26600000000
+Pose:  0.0509004 -0.0680746          0
+Orientation:         0         0  0.948915 -0.315533
+Contact: left_foot
+Activation time: 28150000000
+Deactivation time: 28850000000
+Pose: 0.0250832 0.0812147         0
+Orientation:         0         0  0.149219 -0.988804
+Contact: left_foot
+Activation time: 30550000000
+Deactivation time: 9223372036854775807
+Pose: -0.0776003   0.034687          0
+Orientation:        -0        -0 -0.544021 -0.839072
+Foot: right_foot
+Contact: right_foot
+Activation time: 9650000000
+Deactivation time: 10450000000
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Contact: right_foot
+Activation time: 12250000000
+Deactivation time: 13050000000
+Pose: 0.0683373  0.153297         0
+Orientation:        0        0 0.963558 0.267499
+Contact: right_foot
+Activation time: 14850000000
+Deactivation time: 15650000000
+Pose: -0.113063 -0.015669         0
+Orientation:         0         0  0.515501 -0.856889
+Contact: right_foot
+Activation time: 17450000000
+Deactivation time: 18250000000
+Pose:  0.129479 0.0356045         0
+Orientation:        -0        -0 -0.687766 -0.725932
+Contact: right_foot
+Activation time: 20050000000
+Deactivation time: 20850000000
+Pose: -0.104784    0.1167         0
+Orientation:        -0        -0 -0.883455  0.468517
+Contact: right_foot
+Activation time: 22650000000
+Deactivation time: 23450000000
+Pose:   0.054149 -0.0735529          0
+Orientation:        0        0  0.21512 0.976588
+Contact: right_foot
+Activation time: 25250000000
+Deactivation time: 26050000000
+Pose: 0.0160367  0.171402         0
+Orientation:         0         0  0.998543 0.0539554
+Contact: right_foot
+Activation time: 27850000000
+Deactivation time: 28650000000
+Pose: -0.0775802  -0.058144          0
+Orientation:         0         0  0.319098 -0.947722
+Contact: right_foot
+Activation time: 30450000000
+Deactivation time: 9223372036854775807
+Pose:    0.118082 -0.00985505           0
+Orientation:        -0        -0 -0.544021 -0.839072
+Foot: left_foot
+Contact: left_foot
+Activation time: 9650000000
+Deactivation time: 9800000000
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Contact: left_foot
+Activation time: 10950000000
+Deactivation time: 11750000000
+Pose: -0.0390589  0.0536484          0
+Orientation:        0        0 0.605186 0.796084
+Contact: left_foot
+Activation time: 13550000000
+Deactivation time: 14350000000
+Pose: 0.0303329 0.0143563         0
+Orientation:         0         0   0.92896 -0.370181
+Contact: left_foot
+Activation time: 16150000000
+Deactivation time: 16950000000
+Pose: -0.008873 0.0837968         0
+Orientation:        -0        -0 -0.108195  -0.99413
+Contact: left_foot
+Activation time: 18750000000
+Deactivation time: 19550000000
+Pose: -0.0110745 0.00408333          0
+Orientation:        -0        -0 -0.986844 -0.161676
+Contact: left_foot
+Activation time: 21350000000
+Deactivation time: 22150000000
+Pose: 0.0319043  0.071254         0
+Orientation:        -0        -0 -0.419764  0.907633
+Contact: left_foot
+Activation time: 23950000000
+Deactivation time: 24750000000
+Pose: -0.0395504  0.0358519          0
+Orientation:        0        0 0.762271 0.647258
+Contact: left_foot
+Activation time: 26550000000
+Deactivation time: 27350000000
+Pose: 0.0399282 0.0293526         0
+Orientation:         0         0  0.827577 -0.561352
+Contact: left_foot
+Activation time: 29150000000
+Deactivation time: 29950000000
+Pose: -0.0248257  0.0758931          0
+Orientation:        -0        -0 -0.319519  -0.94758
+Contact: left_foot
+Activation time: 31750000000
+Deactivation time: 9223372036854775807
+Pose: -0.0371186  0.0595189          0
+Orientation:        -0        -0 -0.544021 -0.839072
+Foot: right_foot
+Contact: right_foot
+Activation time: 9700000000
+Deactivation time: 10500000000
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Contact: right_foot
+Activation time: 12300000000
+Deactivation time: 13100000000
+Pose: 0.0683373  0.153297         0
+Orientation:        0        0 0.963558 0.267499
+Contact: right_foot
+Activation time: 14900000000
+Deactivation time: 15700000000
+Pose: -0.113063 -0.015669         0
+Orientation:         0         0  0.515501 -0.856889
+Contact: right_foot
+Activation time: 17500000000
+Deactivation time: 18300000000
+Pose:  0.129479 0.0356045         0
+Orientation:        -0        -0 -0.687766 -0.725932
+Contact: right_foot
+Activation time: 20100000000
+Deactivation time: 20900000000
+Pose: -0.104784    0.1167         0
+Orientation:        -0        -0 -0.883455  0.468517
+Contact: right_foot
+Activation time: 22700000000
+Deactivation time: 23500000000
+Pose:   0.054149 -0.0735529          0
+Orientation:        0        0  0.21512 0.976588
+Contact: right_foot
+Activation time: 25300000000
+Deactivation time: 26100000000
+Pose: 0.0160367  0.171402         0
+Orientation:         0         0  0.998543 0.0539554
+Contact: right_foot
+Activation time: 27900000000
+Deactivation time: 28700000000
+Pose: -0.0775802  -0.058144          0
+Orientation:         0         0  0.319098 -0.947722
+Contact: right_foot
+Activation time: 30500000000
+Deactivation time: 9223372036854775807
+Pose:    0.118082 -0.00985505           0
+Orientation:        -0        -0 -0.544021 -0.839072
+Foot: left_foot
+Contact: left_foot
+Activation time: 9700000000
+Deactivation time: 9850000000
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Contact: left_foot
+Activation time: 11000000000
+Deactivation time: 11800000000
+Pose: -0.0390589  0.0536484          0
+Orientation:        0        0 0.605186 0.796084
+Contact: left_foot
+Activation time: 13600000000
+Deactivation time: 14400000000
+Pose: 0.0303329 0.0143563         0
+Orientation:         0         0   0.92896 -0.370181
+Contact: left_foot
+Activation time: 16200000000
+Deactivation time: 17000000000
+Pose: -0.008873 0.0837968         0
+Orientation:        -0        -0 -0.108195  -0.99413
+Contact: left_foot
+Activation time: 18800000000
+Deactivation time: 19600000000
+Pose: -0.0110745 0.00408333          0
+Orientation:        -0        -0 -0.986844 -0.161676
+Contact: left_foot
+Activation time: 21400000000
+Deactivation time: 22200000000
+Pose: 0.0319043  0.071254         0
+Orientation:        -0        -0 -0.419764  0.907633
+Contact: left_foot
+Activation time: 24000000000
+Deactivation time: 24800000000
+Pose: -0.0395504  0.0358519          0
+Orientation:        0        0 0.762271 0.647258
+Contact: left_foot
+Activation time: 26600000000
+Deactivation time: 27400000000
+Pose: 0.0399282 0.0293526         0
+Orientation:         0         0  0.827577 -0.561352
+Contact: left_foot
+Activation time: 29200000000
+Deactivation time: 30000000000
+Pose: -0.0248257  0.0758931          0
+Orientation:        -0        -0 -0.319519  -0.94758
+Contact: left_foot
+Activation time: 31800000000
+Deactivation time: 9223372036854775807
+Pose: -0.0371186  0.0595189          0
+Orientation:        -0        -0 -0.544021 -0.839072
+Foot: right_foot
+Contact: right_foot
+Activation time: 9750000000
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 9750000000
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 9800000000
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 9800000000
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 9850000000
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 9850000000
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 9900000000
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 9900000000
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 9950000000
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 9950000000
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 10000000000
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 10000000000
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 10050000000
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 10050000000
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 10100000000
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 10100000000
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 10150000000
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 10150000000
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 10200000000
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 10200000000
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 10250000000
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 10250000000
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 10300000000
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 10300000000
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 10350000000
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 10350000000
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 10400000000
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 10400000000
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 10450000000
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 10450000000
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 10500000000
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 10500000000
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 10550000000
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 10550000000
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Foot: right_foot
+Contact: right_foot
+Activation time: 10600000000
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left_foot
+Activation time: 10600000000
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
