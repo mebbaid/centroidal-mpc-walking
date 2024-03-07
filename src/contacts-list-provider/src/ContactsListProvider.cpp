@@ -62,6 +62,9 @@ struct ContactsListProvider::Impl
     std::string m_joypadCommandPortName;
     iDynTree::Vector2 m_desiredTrajectoryPoint;
 
+    std::vector<iDynTree::Vector2> m_dcmPositions;
+    std::vector<iDynTree::Vector2> m_dcmVelocities;
+
     bool configurePlanner(
         std::weak_ptr<const BipedalLocomotion::ParametersHandler::IParametersHandler> handler)
     {
@@ -178,11 +181,9 @@ struct ContactsListProvider::Impl
                                             "to set the controller type.");
             return false;
         }
-
         m_feetGenerator = m_trajectoryGenerator.addFeetMinimumJerkGenerator();
         m_feetGenerator->setStepHeight(stepHeight);
 
-        m_dcmGenerator = m_trajectoryGenerator.addDCMTrajectoryGenerator();
 
         // configure the dcm generator
         iDynTree::Vector2 leftZMPDelta, rightZMPDelta;
@@ -199,6 +200,8 @@ struct ContactsListProvider::Impl
             return false;
         }
 
+        m_dcmGenerator = m_trajectoryGenerator.addDCMTrajectoryGenerator();
+
         m_dcmGenerator->setFootOriginOffset(leftZMPDelta, rightZMPDelta);
         m_dcmGenerator->setOmega(sqrt(9.81/comHeight));
         m_dcmGenerator->setFirstDCMTrajectoryMode(FirstDCMTrajectoryMode::FifthOrderPoly);
@@ -210,6 +213,16 @@ struct ContactsListProvider::Impl
             return false;
         }
 
+        DCMInitialState dcmInitialState;
+        dcmInitialState.initialPosition.zero();
+        dcmInitialState.initialVelocity.zero();
+
+        if (!m_dcmGenerator->setDCMInitialState(dcmInitialState))
+        {
+            BipedalLocomotion::log()->error("[ContactsListProvider::Impl::configurePlanner] Unable "
+                                            "to set the initial DCM state.");
+            return false;
+        }
 
         // TODO: remove me to config file
         m_unicyclePlanner->addTerminalStep(true);
@@ -272,10 +285,8 @@ struct ContactsListProvider::Impl
 
         if (m_unicycleController == UnicycleController::PERSON_FOLLOWING)
         {
-            // first we add the current point to the planner and zero time
             auto time = 0.0;
             m_currentUnicyclePosition.zero();
-            // m_unicyclePlanner->getPersonPosition(time, m_currentUnicyclePosition);
             m_unicyclePlanner->addPersonFollowingDesiredTrajectoryPoint(time,
                                                                         m_currentUnicyclePosition);
 
@@ -294,14 +305,12 @@ struct ContactsListProvider::Impl
     bool computeSteps()
     {
 
-        // initalize foot prints
         m_leftFootPrint = std::make_shared<FootPrint>();
         m_rightFootPrint = std::make_shared<FootPrint>();
-        m_leftFootPrint->setFootName("left_foot");
-        m_rightFootPrint->setFootName("right_foot");
+        m_leftFootPrint->setFootName("left");
+        m_rightFootPrint->setFootName("right");
 
         double initialTime = m_time;
-        // if init contact, add corresponding step and update init time
         if (m_InitleftStep.has_value())
         {
             const auto& contact = m_InitleftStep;
@@ -309,8 +318,6 @@ struct ContactsListProvider::Impl
             const auto& euler
                 = contact->pose.quat().normalized().toRotationMatrix().eulerAngles(1, 0, 2);
 
-            // Create the inital step
-            // change translation of pose to iDynTree::Vector3
             iDynTree::Vector2 translation;
             translation[0] = contact->pose.translation()[0];
             translation[1] =  contact->pose.translation()[1];
@@ -330,7 +337,6 @@ struct ContactsListProvider::Impl
             const auto& euler
                 = contact->pose.quat().normalized().toRotationMatrix().eulerAngles(1, 0, 2);
 
-            // Create the inital step
             iDynTree::Vector2 translation;
             translation[0] = contact->pose.translation()[0];
             translation[1] =  contact->pose.translation()[1];
@@ -363,6 +369,10 @@ struct ContactsListProvider::Impl
     bool generateTrajectories()
     {
 
+        m_feetGenerator = m_trajectoryGenerator.addFeetMinimumJerkGenerator();
+
+        m_dcmGenerator = m_trajectoryGenerator.addDCMTrajectoryGenerator();
+
         const double startLeft = m_leftSteps.front().impactTime;
         const double startRight = m_rightSteps.front().impactTime;
         const double start = std::max(startLeft, startRight);
@@ -378,6 +388,21 @@ struct ContactsListProvider::Impl
         }
 
         m_trajectoryGenerator.getFeetStandingPeriods(leftInContactPeriod, rightInContactPeriod);
+
+        m_dcmPositions =  m_dcmGenerator->getDCMPosition();
+        if (m_dcmPositions.empty())
+        {
+            BipedalLocomotion::log()->error("[ContactsListProvider::Impl::generateTrajectories] "
+                                            "Unable to get the DCM positions.");
+        }
+
+        m_dcmVelocities = m_dcmGenerator->getDCMVelocity();
+        if (m_dcmVelocities.empty())
+        {
+            BipedalLocomotion::log()->error("[ContactsListProvider::Impl::generateTrajectories] "
+                                            "Unable to get the DCM velocities.");
+        }
+
 
         return true;
     }
@@ -411,14 +436,11 @@ struct ContactsListProvider::Impl
             const bool thisState = isFootInContactVector[it];
             const bool lastState = isFootInContactVector[it - 1];
 
-            // Increase the active time
             ContactTime += m_plannerPeriod;
 
-            // During impact, reset the active time counter
             if (lastState == 0 && thisState == 1)
                 ContactTime = 0.0;
 
-            // During lift, store the time in the active contact and get the new contact
             if (lastState == 1 && thisState == 0)
             {
                 using namespace std::chrono_literals;
@@ -498,6 +520,8 @@ struct ContactsListProvider::Impl
         m_leftFootPrint = nullptr;
         m_rightFootPrint = nullptr;
         m_contactListMap.clear();
+        m_dcmPositions.clear();
+        m_dcmVelocities.clear();
     }
 
     void saveDataToFile(const BipedalLocomotion::Contacts::ContactListMap& contactListMap)
@@ -514,6 +538,12 @@ struct ContactsListProvider::Impl
                 file << "Pose: " << contact.pose.translation().transpose() << std::endl;
                 file << "Orientation: " << contact.pose.quat().coeffs().transpose() << std::endl;
             }
+        }
+
+        // save dcm positions
+        for (const auto& dcm : m_dcmPositions)
+        {
+            file << "DCM: " << dcm(0) << " " << dcm(1) << std::endl;
         }
     }
 
@@ -594,12 +624,17 @@ bool ContactsListProvider::advance()
         m_pimpl->saveDataToFile(m_pimpl->m_contactListMap);
     }
 
+    // set the output
+    m_output.contactList = m_pimpl->m_contactListMap;
+    m_output.dcmPositions = m_pimpl->m_dcmPositions;
+    m_output.dcmVelocities = m_pimpl->m_dcmVelocities;
+
     m_pimpl->resetPlanner();
 
     return true;
 }
 
-const BipedalLocomotion::Contacts::ContactListMap& ContactsListProvider::getOutput() const
+const ContactsListProvider::Output& ContactsListProvider::getOutput() const
 {
-    return m_pimpl->m_contactListMap;
+    return m_output;
 }

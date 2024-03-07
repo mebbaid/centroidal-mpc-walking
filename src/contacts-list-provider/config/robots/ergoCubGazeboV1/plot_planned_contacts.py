@@ -42,6 +42,14 @@ def update(frame):
     # Track the last five steps
     recent_steps = []
 
+    # Track DCM positions
+    dcm_positions = []
+
+    for line in lines:
+        if line.startswith('DCM:'):
+            dcm_position = [float(x) for x in line.split()[1:]]
+            dcm_positions.append(dcm_position)
+
     for foot, activation_time, pose, orientation in foot_data:
         if activation_time <= frame:
             new_patch = plt.Rectangle((pose[0] - foot_size / 2, pose[1] - foot_size / 2), foot_size, foot_size, color=(0, 0, 1, 0.5))
@@ -68,6 +76,11 @@ def update(frame):
         max_range = max(max_x - min_x, max_y - min_y) / 2
         ax.set_xlim(center_x - max_range, center_x + max_range)
         ax.set_ylim(center_y - max_range, center_y + max_range)
+
+    # Plot DCM positions as lines
+    dcm_x = [pos[0] for pos in dcm_positions]
+    dcm_y = [pos[1] for pos in dcm_positions]
+    ax.plot(dcm_x, dcm_y, color='red', alpha=0.5)  # Adjust color and transparency as needed
 
     return artists
 

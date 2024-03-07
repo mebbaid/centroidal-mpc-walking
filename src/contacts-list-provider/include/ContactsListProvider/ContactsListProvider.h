@@ -26,14 +26,28 @@
 namespace StableCentroidalMPCWalking
 {
 
+
+struct SimpleGeneratorOutput
+{
+    BipedalLocomotion::Contacts::ContactListMap contactList;
+    std::vector<iDynTree::Vector2> dcmPositions;
+    std::vector<iDynTree::Vector2> dcmVelocities;
+} ;
+
+
+
+
+
 /**
  * @brief This class is responsible for providing the contact list to the MPC.
  * given a joypad command, it uses the unicycle planner to generate the footsteps and
  * converts them to a contact list.
  */
-class ContactsListProvider : public BipedalLocomotion::System::Source<BipedalLocomotion::Contacts::ContactListMap>
+class ContactsListProvider : public BipedalLocomotion::System::Source<SimpleGeneratorOutput>
 {
 public:
+
+    typename ContactsListProvider::Output m_output;
 
     ContactsListProvider();
     ~ContactsListProvider();
@@ -45,7 +59,7 @@ public:
 
     bool advance()  override;
 
-    const BipedalLocomotion::Contacts::ContactListMap & getOutput() const override;
+    const Output& getOutput() const  override;
 
     bool isOutputValid() const  override;
 
