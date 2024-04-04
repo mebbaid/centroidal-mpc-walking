@@ -1,0 +1,4053 @@
+Foot: right_foot
+Contact: right
+Activation time: 0
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left
+Activation time: 0
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+DCM: 0 0
+DCM: 0.00014 0
+DCM: 0.00052 0
+DCM: 0.00108 0
+DCM: 0.00176 0
+DCM: 0.0025 0
+DCM: 0.00324 0
+DCM: 0.00392 0
+DCM: 0.00448 0
+DCM: 0.00486 0
+Foot: right_foot
+Contact: right
+Activation time: 0
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left
+Activation time: 0
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+Foot: right_foot
+Contact: right
+Activation time: 0
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left
+Activation time: 0
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+Foot: right_foot
+Contact: right
+Activation time: 0
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left
+Activation time: 0
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+Foot: right_foot
+Contact: right
+Activation time: 0
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left
+Activation time: 0
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+Foot: right_foot
+Contact: right
+Activation time: 0
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left
+Activation time: 0
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+Foot: right_foot
+Contact: right
+Activation time: 0
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left
+Activation time: 0
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+Foot: right_foot
+Contact: right
+Activation time: 0
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left
+Activation time: 0
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+Foot: right_foot
+Contact: right
+Activation time: 0
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left
+Activation time: 0
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+Foot: right_foot
+Contact: right
+Activation time: 0
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left
+Activation time: 0
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+Foot: right_foot
+Contact: right
+Activation time: 0
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left
+Activation time: 0
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+Foot: right_foot
+Contact: right
+Activation time: 0
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left
+Activation time: 0
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+Foot: right_foot
+Contact: right
+Activation time: 0
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left
+Activation time: 0
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+Foot: right_foot
+Contact: right
+Activation time: 0
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left
+Activation time: 0
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+Foot: right_foot
+Contact: right
+Activation time: 0
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left
+Activation time: 0
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+Foot: right_foot
+Contact: right
+Activation time: 0
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left
+Activation time: 0
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+Foot: right_foot
+Contact: right
+Activation time: 0
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left
+Activation time: 0
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+Foot: right_foot
+Contact: right
+Activation time: 0
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left
+Activation time: 0
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+Foot: right_foot
+Contact: right
+Activation time: 0
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left
+Activation time: 0
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+Foot: right_foot
+Contact: right
+Activation time: 0
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left
+Activation time: 0
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+Foot: right_foot
+Contact: right
+Activation time: 0
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left
+Activation time: 0
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+Foot: right_foot
+Contact: right
+Activation time: 0
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left
+Activation time: 0
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+Foot: right_foot
+Contact: right
+Activation time: 0
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left
+Activation time: 0
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+Foot: right_foot
+Contact: right
+Activation time: 0
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left
+Activation time: 0
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+Foot: right_foot
+Contact: right
+Activation time: 0
+Deactivation time: 9223372036854775807
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left
+Activation time: 0
+Deactivation time: 9223372036854775807
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+Foot: right_foot
+Contact: right
+Activation time: 0
+Deactivation time: 2100000000
+Pose:      0 -0.085      0
+Orientation: 0 0 0 1
+Contact: right
+Activation time: 5199999999
+Deactivation time: 5999999999
+Pose: 0.259243   -0.085        0
+Orientation: 0 0 0 1
+Contact: right
+Activation time: 7799999999
+Deactivation time: 8599999999
+Pose: 0.463495   -0.085        0
+Orientation: 0 0 0 1
+Contact: right
+Activation time: 10400000000
+Deactivation time: 11200000000
+Pose: 0.667747   -0.085        0
+Orientation: 0 0 0 1
+Contact: right
+Activation time: 13000000000
+Deactivation time: 13800000000
+Pose: 0.871999   -0.085        0
+Orientation: 0 0 0 1
+Contact: right
+Activation time: 15600000000
+Deactivation time: 16400000000
+Pose: 1.07625  -0.085       0
+Orientation: 0 0 0 1
+Contact: right
+Activation time: 18200000000
+Deactivation time: 19000000000
+Pose: 1.2805 -0.085      0
+Orientation: 0 0 0 1
+Contact: right
+Activation time: 20800000000
+Deactivation time: 21600000000
+Pose: 1.48475  -0.085       0
+Orientation: 0 0 0 1
+Contact: right
+Activation time: 23400000000
+Deactivation time: 9223372036854775807
+Pose: 1.52011  -0.085       0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left
+Activation time: 0
+Deactivation time: 1450000000
+Pose:     0 0.085     0
+Orientation: 0 0 0 1
+Contact: left
+Activation time: 3899999999
+Deactivation time: 4699999999
+Pose: 0.157117    0.085        0
+Orientation: 0 0 0 1
+Contact: left
+Activation time: 6499999999
+Deactivation time: 7299999999
+Pose: 0.361369    0.085        0
+Orientation: 0 0 0 1
+Contact: left
+Activation time: 9099999999
+Deactivation time: 9899999999
+Pose: 0.565621    0.085        0
+Orientation: 0 0 0 1
+Contact: left
+Activation time: 11700000000
+Deactivation time: 12500000000
+Pose: 0.769873    0.085        0
+Orientation: 0 0 0 1
+Contact: left
+Activation time: 14300000000
+Deactivation time: 15100000000
+Pose: 0.974125    0.085        0
+Orientation: 0 0 0 1
+Contact: left
+Activation time: 16900000000
+Deactivation time: 17700000000
+Pose: 1.17838   0.085       0
+Orientation: 0 0 0 1
+Contact: left
+Activation time: 19500000000
+Deactivation time: 20300000000
+Pose: 1.38263   0.085       0
+Orientation: 0 0 0 1
+Contact: left
+Activation time: 22100000000
+Deactivation time: 9223372036854775807
+Pose: 1.52011   0.085       0
+Orientation: 0 0 0 1
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.005 0
+DCM: 0.00546399 -0.0215413
+DCM: 0.0071317 -0.0827226
+DCM: 0.00809961 -0.0816886
+DCM: 0.00950701 -0.080185
+DCM: 0.0115534 -0.0779987
+DCM: 0.0145291 -0.0748197
+DCM: 0.0188558 -0.0701973
+DCM: 0.0251471 -0.063476
+DCM: 0.034295 -0.0537029
+DCM: 0.0475965 -0.0394923
+DCM: 0.0669377 -0.0188293
+DCM: 0.0950609 0.0112158
+DCM: 0.127675 0.0459525
+DCM: 0.153022 0.072567
+DCM: 0.163506 0.0827226
+DCM: 0.164137 0.0816886
+DCM: 0.165054 0.080185
+DCM: 0.166388 0.0779987
+DCM: 0.168328 0.0748197
+DCM: 0.171147 0.0701973
+DCM: 0.175248 0.063476
+DCM: 0.18121 0.0537029
+DCM: 0.189879 0.0394923
+DCM: 0.202485 0.0188293
+DCM: 0.220815 -0.0112158
+DCM: 0.242085 -0.0459525
+DCM: 0.258665 -0.072567
+DCM: 0.265632 -0.0827226
+DCM: 0.266263 -0.0816886
+DCM: 0.26718 -0.080185
+DCM: 0.268514 -0.0779987
+DCM: 0.270453 -0.0748197
+DCM: 0.273273 -0.0701973
+DCM: 0.277374 -0.063476
+DCM: 0.283336 -0.0537029
+DCM: 0.292005 -0.0394923
+DCM: 0.304611 -0.0188293
+DCM: 0.322941 0.0112158
+DCM: 0.344211 0.0459525
+DCM: 0.360791 0.072567
+DCM: 0.367758 0.0827226
+DCM: 0.368389 0.0816886
+DCM: 0.369306 0.080185
+DCM: 0.37064 0.0779987
+DCM: 0.372579 0.0748197
+DCM: 0.375399 0.0701973
+DCM: 0.3795 0.063476
+DCM: 0.385462 0.0537029
+DCM: 0.394131 0.0394923
+DCM: 0.406737 0.0188293
+DCM: 0.425067 -0.0112158
+DCM: 0.446337 -0.0459525
+DCM: 0.462917 -0.072567
+DCM: 0.469884 -0.0827226
+DCM: 0.470515 -0.0816886
+DCM: 0.471432 -0.080185
+DCM: 0.472766 -0.0779987
+DCM: 0.474705 -0.0748197
+DCM: 0.477525 -0.0701973
+DCM: 0.481626 -0.063476
+DCM: 0.487588 -0.0537029
+DCM: 0.496257 -0.0394923
+DCM: 0.508863 -0.0188293
+DCM: 0.527193 0.0112158
+DCM: 0.548463 0.0459525
+DCM: 0.565043 0.072567
+DCM: 0.57201 0.0827226
+DCM: 0.572641 0.0816886
+DCM: 0.573558 0.080185
+DCM: 0.574892 0.0779987
+DCM: 0.576831 0.0748197
+DCM: 0.579651 0.0701973
+DCM: 0.583752 0.063476
+DCM: 0.589714 0.0537029
+DCM: 0.598383 0.0394923
+DCM: 0.610989 0.0188293
+DCM: 0.629319 -0.0112158
+DCM: 0.650588 -0.0459525
+DCM: 0.667169 -0.072567
+DCM: 0.674136 -0.0827226
+DCM: 0.674767 -0.0816886
+DCM: 0.675684 -0.080185
+DCM: 0.677018 -0.0779987
+DCM: 0.678957 -0.0748197
+DCM: 0.681777 -0.0701973
+DCM: 0.685878 -0.063476
+DCM: 0.69184 -0.0537029
+DCM: 0.700509 -0.0394923
+DCM: 0.713115 -0.0188293
+DCM: 0.731444 0.0112158
+DCM: 0.752714 0.0459525
+DCM: 0.769295 0.072567
+DCM: 0.776262 0.0827226
+DCM: 0.776893 0.0816886
+DCM: 0.77781 0.080185
+DCM: 0.779144 0.0779987
+DCM: 0.781083 0.0748197
+DCM: 0.783903 0.0701973
+DCM: 0.788004 0.063476
+DCM: 0.793966 0.0537029
+DCM: 0.802635 0.0394923
+DCM: 0.815241 0.0188293
+DCM: 0.83357 -0.0112158
+DCM: 0.85484 -0.0459525
+DCM: 0.871421 -0.072567
+DCM: 0.878388 -0.0827226
+DCM: 0.879019 -0.0816886
+DCM: 0.879936 -0.080185
+DCM: 0.88127 -0.0779987
+DCM: 0.883209 -0.0748197
+DCM: 0.886029 -0.0701973
+DCM: 0.89013 -0.063476
+DCM: 0.896092 -0.0537029
+DCM: 0.904761 -0.0394923
+DCM: 0.917367 -0.0188293
+DCM: 0.935696 0.0112158
+DCM: 0.956966 0.0459525
+DCM: 0.973547 0.072567
+DCM: 0.980514 0.0827226
+DCM: 0.981145 0.0816886
+DCM: 0.982062 0.080185
+DCM: 0.983396 0.0779987
+DCM: 0.985335 0.0748197
+DCM: 0.988155 0.0701973
+DCM: 0.992256 0.063476
+DCM: 0.998218 0.0537029
+DCM: 1.00689 0.0394923
+DCM: 1.01949 0.0188293
+DCM: 1.03782 -0.0112158
+DCM: 1.05909 -0.0459525
+DCM: 1.07567 -0.072567
+DCM: 1.08264 -0.0827226
+DCM: 1.08327 -0.0816886
+DCM: 1.08419 -0.080185
+DCM: 1.08552 -0.0779987
+DCM: 1.08746 -0.0748197
+DCM: 1.09028 -0.0701973
+DCM: 1.09438 -0.063476
+DCM: 1.10034 -0.0537029
+DCM: 1.10901 -0.0394923
+DCM: 1.12162 -0.0188293
+DCM: 1.13995 0.0112158
+DCM: 1.16122 0.0459525
+DCM: 1.1778 0.072567
+DCM: 1.18477 0.0827226
+DCM: 1.1854 0.0816886
+DCM: 1.18631 0.080185
+DCM: 1.18765 0.0779987
+DCM: 1.18959 0.0748197
+DCM: 1.19241 0.0701973
+DCM: 1.19651 0.063476
+DCM: 1.20247 0.0537029
+DCM: 1.21114 0.0394923
+DCM: 1.22374 0.0188293
+DCM: 1.24207 -0.0112158
+DCM: 1.26334 -0.0459525
+DCM: 1.27992 -0.072567
+DCM: 1.28689 -0.0827226
+DCM: 1.28752 -0.0816886
+DCM: 1.28844 -0.080185
+DCM: 1.28977 -0.0779987
+DCM: 1.29171 -0.0748197
+DCM: 1.29453 -0.0701973
+DCM: 1.29863 -0.063476
+DCM: 1.3046 -0.0537029
+DCM: 1.31326 -0.0394923
+DCM: 1.32587 -0.0188293
+DCM: 1.3442 0.0112158
+DCM: 1.36547 0.0459526
+DCM: 1.38205 0.072567
+DCM: 1.38901 0.0827227
+DCM: 1.38964 0.0816887
+DCM: 1.39055 0.0801851
+DCM: 1.39188 0.0779989
+DCM: 1.39381 0.07482
+DCM: 1.39661 0.0701978
+DCM: 1.40069 0.0634767
+DCM: 1.40663 0.053704
+DCM: 1.41525 0.0394938
+DCM: 1.42779 0.0188315
+DCM: 1.44603 -0.0112126
+DCM: 1.46717 -0.0459479
+DCM: 1.48355 -0.0725602
+DCM: 1.49023 -0.0827128
+DCM: 1.49045 -0.0816743
+DCM: 1.49076 -0.0801643
+DCM: 1.49122 -0.0779686
+DCM: 1.49189 -0.0747759
+DCM: 1.49286 -0.0701337
+DCM: 1.49426 -0.0633835
+DCM: 1.49631 -0.0535684
+DCM: 1.49929 -0.0392967
+DCM: 1.50362 -0.0185449
+DCM: 1.50992 0.0116294
+DCM: 1.51721 0.0465516
+DCM: 1.52285 0.0734388
+DCM: 1.52511 0.083994
+DCM: 1.52511 0.0835373
+DCM: 1.52511 0.0828731
+DCM: 1.52511 0.0819074
+DCM: 1.52511 0.0805032
+DCM: 1.52511 0.0784614
+DCM: 1.52511 0.0754925
+DCM: 1.52511 0.0711756
+DCM: 1.52511 0.0648986
+DCM: 1.52511 0.0557714
+DCM: 1.52511 0.0425
+DCM: 1.52511 0.0284228
+DCM: 1.52511 0.017715
+DCM: 1.52511 0.00993207
+DCM: 1.52511 0.00462938
+DCM: 1.52511 0.00136231
+DCM: 1.52511 -0.000313749
+DCM: 1.52511 -0.000843398
+DCM: 1.52511 -0.00067125
+DCM: 1.52511 -0.000241914
+Foot: right_foot
+Contact: right
+Activation time: 23400000000
+Deactivation time: 24200000000
+Pose: 1.52011  -0.085       0
+Orientation: 0 0 0 1
+Contact: right
+Activation time: 26000000000
+Deactivation time: 26800000000
+Pose: 1.72436  -0.085       0
+Orientation: 0 0 0 1
+Contact: right
+Activation time: 28600000000
+Deactivation time: 29400000000
+Pose: 1.92861  -0.085       0
+Orientation: 0 0 0 1
+Contact: right
+Activation time: 31200000000
+Deactivation time: 32000000000
+Pose: 2.13286  -0.085       0
+Orientation: 0 0 0 1
+Contact: right
+Activation time: 33800000000
+Deactivation time: 34600000000
+Pose: 2.33711  -0.085       0
+Orientation: 0 0 0 1
+Contact: right
+Activation time: 36399999999
+Deactivation time: 37199999999
+Pose: 2.54137  -0.085       0
+Orientation: 0 0 0 1
+Contact: right
+Activation time: 38999999999
+Deactivation time: 39799999999
+Pose: 2.74562  -0.085       0
+Orientation: 0 0 0 1
+Contact: right
+Activation time: 41599999999
+Deactivation time: 42399999999
+Pose: 2.94987  -0.085       0
+Orientation: 0 0 0 1
+Contact: right
+Activation time: 44199999999
+Deactivation time: 9223372036854775807
+Pose: 3.09127  -0.085       0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left
+Activation time: 22100000000
+Deactivation time: 22200000000
+Pose: 1.52011   0.085       0
+Orientation: 0 0 0 1
+Contact: left
+Activation time: 24700000000
+Deactivation time: 25500000000
+Pose: 1.62223   0.085       0
+Orientation: 0 0 0 1
+Contact: left
+Activation time: 27300000000
+Deactivation time: 28100000000
+Pose: 1.82648   0.085       0
+Orientation: 0 0 0 1
+Contact: left
+Activation time: 29900000000
+Deactivation time: 30700000000
+Pose: 2.03074   0.085       0
+Orientation: 0 0 0 1
+Contact: left
+Activation time: 32500000000
+Deactivation time: 33300000000
+Pose: 2.23499   0.085       0
+Orientation: 0 0 0 1
+Contact: left
+Activation time: 35099999999
+Deactivation time: 35899999999
+Pose: 2.43924   0.085       0
+Orientation: 0 0 0 1
+Contact: left
+Activation time: 37699999999
+Deactivation time: 38499999999
+Pose: 2.64349   0.085       0
+Orientation: 0 0 0 1
+Contact: left
+Activation time: 40299999999
+Deactivation time: 41099999999
+Pose: 2.84774   0.085       0
+Orientation: 0 0 0 1
+Contact: left
+Activation time: 42899999999
+Deactivation time: 43699999999
+Pose: 3.052 0.085     0
+Orientation: 0 0 0 1
+Contact: left
+Activation time: 45499999999
+Deactivation time: 9223372036854775807
+Pose: 3.09127   0.085       0
+Orientation: 0 0 0 1
+DCM: 1.52511 0
+DCM: 1.52526 -0.0156805
+DCM: 1.52606 -0.0834338
+DCM: 1.5265 -0.0827226
+DCM: 1.52713 -0.0816886
+DCM: 1.52804 -0.080185
+DCM: 1.52938 -0.0779987
+DCM: 1.53132 -0.0748197
+DCM: 1.53414 -0.0701973
+DCM: 1.53824 -0.063476
+DCM: 1.5442 -0.0537029
+DCM: 1.55287 -0.0394923
+DCM: 1.56547 -0.0188293
+DCM: 1.5838 0.0112158
+DCM: 1.60507 0.0459525
+DCM: 1.62165 0.072567
+DCM: 1.62862 0.0827226
+DCM: 1.62925 0.0816886
+DCM: 1.63017 0.080185
+DCM: 1.6315 0.0779987
+DCM: 1.63344 0.0748197
+DCM: 1.63626 0.0701973
+DCM: 1.64036 0.063476
+DCM: 1.64632 0.0537029
+DCM: 1.65499 0.0394923
+DCM: 1.6676 0.0188293
+DCM: 1.68593 -0.0112158
+DCM: 1.7072 -0.0459525
+DCM: 1.72378 -0.072567
+DCM: 1.73075 -0.0827226
+DCM: 1.73138 -0.0816886
+DCM: 1.7323 -0.080185
+DCM: 1.73363 -0.0779987
+DCM: 1.73557 -0.0748197
+DCM: 1.73839 -0.0701973
+DCM: 1.74249 -0.063476
+DCM: 1.74845 -0.0537029
+DCM: 1.75712 -0.0394923
+DCM: 1.76973 -0.0188293
+DCM: 1.78806 0.0112158
+DCM: 1.80933 0.0459525
+DCM: 1.82591 0.072567
+DCM: 1.83287 0.0827226
+DCM: 1.8335 0.0816886
+DCM: 1.83442 0.080185
+DCM: 1.83575 0.0779987
+DCM: 1.83769 0.0748197
+DCM: 1.84051 0.0701973
+DCM: 1.84461 0.063476
+DCM: 1.85058 0.0537029
+DCM: 1.85925 0.0394923
+DCM: 1.87185 0.0188293
+DCM: 1.89018 -0.0112158
+DCM: 1.91145 -0.0459525
+DCM: 1.92803 -0.072567
+DCM: 1.935 -0.0827226
+DCM: 1.93563 -0.0816886
+DCM: 1.93655 -0.080185
+DCM: 1.93788 -0.0779987
+DCM: 1.93982 -0.0748197
+DCM: 1.94264 -0.0701973
+DCM: 1.94674 -0.063476
+DCM: 1.9527 -0.0537029
+DCM: 1.96137 -0.0394923
+DCM: 1.97398 -0.0188293
+DCM: 1.99231 0.0112158
+DCM: 2.01358 0.0459525
+DCM: 2.03016 0.072567
+DCM: 2.03713 0.0827226
+DCM: 2.03776 0.0816886
+DCM: 2.03867 0.080185
+DCM: 2.04001 0.0779987
+DCM: 2.04195 0.0748197
+DCM: 2.04477 0.0701973
+DCM: 2.04887 0.063476
+DCM: 2.05483 0.0537029
+DCM: 2.0635 0.0394923
+DCM: 2.0761 0.0188293
+DCM: 2.09443 -0.0112158
+DCM: 2.1157 -0.0459525
+DCM: 2.13228 -0.072567
+DCM: 2.13925 -0.0827226
+DCM: 2.13988 -0.0816886
+DCM: 2.1408 -0.080185
+DCM: 2.14213 -0.0779987
+DCM: 2.14407 -0.0748197
+DCM: 2.14689 -0.0701973
+DCM: 2.15099 -0.063476
+DCM: 2.15695 -0.0537029
+DCM: 2.16562 -0.0394923
+DCM: 2.17823 -0.0188293
+DCM: 2.19656 0.0112158
+DCM: 2.21783 0.0459525
+DCM: 2.23441 0.072567
+DCM: 2.24138 0.0827226
+DCM: 2.24201 0.0816886
+DCM: 2.24293 0.080185
+DCM: 2.24426 0.0779987
+DCM: 2.2462 0.0748197
+DCM: 2.24902 0.0701973
+DCM: 2.25312 0.063476
+DCM: 2.25908 0.0537029
+DCM: 2.26775 0.0394923
+DCM: 2.28036 0.0188293
+DCM: 2.29869 -0.0112158
+DCM: 2.31996 -0.0459525
+DCM: 2.33654 -0.072567
+DCM: 2.3435 -0.0827226
+DCM: 2.34413 -0.0816886
+DCM: 2.34505 -0.080185
+DCM: 2.34638 -0.0779987
+DCM: 2.34832 -0.0748197
+DCM: 2.35114 -0.0701973
+DCM: 2.35524 -0.063476
+DCM: 2.36121 -0.0537029
+DCM: 2.36988 -0.0394923
+DCM: 2.38248 -0.0188293
+DCM: 2.40081 0.0112158
+DCM: 2.42208 0.0459525
+DCM: 2.43866 0.072567
+DCM: 2.44563 0.0827226
+DCM: 2.44626 0.0816886
+DCM: 2.44718 0.080185
+DCM: 2.44851 0.0779987
+DCM: 2.45045 0.0748197
+DCM: 2.45327 0.0701973
+DCM: 2.45737 0.063476
+DCM: 2.46333 0.0537029
+DCM: 2.472 0.0394923
+DCM: 2.48461 0.0188293
+DCM: 2.50294 -0.0112158
+DCM: 2.52421 -0.0459525
+DCM: 2.54079 -0.072567
+DCM: 2.54775 -0.0827226
+DCM: 2.54839 -0.0816886
+DCM: 2.5493 -0.080185
+DCM: 2.55064 -0.0779987
+DCM: 2.55258 -0.0748197
+DCM: 2.5554 -0.0701973
+DCM: 2.5595 -0.063476
+DCM: 2.56546 -0.0537029
+DCM: 2.57413 -0.0394923
+DCM: 2.58673 -0.0188293
+DCM: 2.60506 0.0112158
+DCM: 2.62633 0.0459525
+DCM: 2.64291 0.072567
+DCM: 2.64988 0.0827226
+DCM: 2.65051 0.0816886
+DCM: 2.65143 0.080185
+DCM: 2.65276 0.0779987
+DCM: 2.6547 0.0748197
+DCM: 2.65752 0.0701973
+DCM: 2.66162 0.063476
+DCM: 2.66758 0.0537029
+DCM: 2.67625 0.0394923
+DCM: 2.68886 0.0188293
+DCM: 2.70719 -0.0112158
+DCM: 2.72846 -0.0459525
+DCM: 2.74504 -0.072567
+DCM: 2.75201 -0.0827226
+DCM: 2.75264 -0.0816886
+DCM: 2.75355 -0.080185
+DCM: 2.75489 -0.0779987
+DCM: 2.75683 -0.0748197
+DCM: 2.75965 -0.0701973
+DCM: 2.76375 -0.063476
+DCM: 2.76971 -0.0537029
+DCM: 2.77838 -0.0394923
+DCM: 2.79099 -0.0188293
+DCM: 2.80932 0.0112158
+DCM: 2.83059 0.0459525
+DCM: 2.84717 0.072567
+DCM: 2.85413 0.0827226
+DCM: 2.85476 0.0816886
+DCM: 2.85568 0.080185
+DCM: 2.85701 0.0779987
+DCM: 2.85895 0.0748197
+DCM: 2.86177 0.0701973
+DCM: 2.86587 0.063476
+DCM: 2.87184 0.0537029
+DCM: 2.88051 0.0394923
+DCM: 2.89311 0.0188293
+DCM: 2.91144 -0.0112158
+DCM: 2.93271 -0.0459526
+DCM: 2.94929 -0.072567
+DCM: 2.95625 -0.0827227
+DCM: 2.95688 -0.0816887
+DCM: 2.95779 -0.0801851
+DCM: 2.95912 -0.0779989
+DCM: 2.96105 -0.07482
+DCM: 2.96386 -0.0701978
+DCM: 2.96794 -0.0634767
+DCM: 2.97387 -0.053704
+DCM: 2.9825 -0.0394938
+DCM: 2.99505 -0.0188315
+DCM: 3.01329 0.0112126
+DCM: 3.03443 0.0459479
+DCM: 3.05083 0.0725602
+DCM: 3.05753 0.0827128
+DCM: 3.05777 0.0816743
+DCM: 3.05812 0.0801643
+DCM: 3.05863 0.0779686
+DCM: 3.05937 0.0747759
+DCM: 3.06044 0.0701337
+DCM: 3.06201 0.0633835
+DCM: 3.06428 0.0535684
+DCM: 3.06759 0.0392967
+DCM: 3.0724 0.0185449
+DCM: 3.0794 -0.0116294
+DCM: 3.0875 -0.0465516
+DCM: 3.09376 -0.0734388
+DCM: 3.09627 -0.083994
+DCM: 3.09627 -0.0835373
+DCM: 3.09627 -0.0828731
+DCM: 3.09627 -0.0819074
+DCM: 3.09627 -0.0805032
+DCM: 3.09627 -0.0784614
+DCM: 3.09627 -0.0754925
+DCM: 3.09627 -0.0711756
+DCM: 3.09627 -0.0648986
+DCM: 3.09627 -0.0557714
+DCM: 3.09627 -0.0425
+DCM: 3.09627 -0.0284228
+DCM: 3.09627 -0.017715
+DCM: 3.09627 -0.00993207
+DCM: 3.09627 -0.00462938
+DCM: 3.09627 -0.00136231
+DCM: 3.09627 0.000313749
+DCM: 3.09627 0.000843398
+DCM: 3.09627 0.00067125
+DCM: 3.09627 0.000241914
+Foot: right_foot
+Contact: right
+Activation time: 45499999999
+Deactivation time: 9223372036854775807
+Pose: 3.09127  -0.085       0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left
+Activation time: 45499999999
+Deactivation time: 9223372036854775807
+Pose: 3.09127   0.085       0
+Orientation: 0 0 0 1
+DCM: 3.09627 0
+DCM: 3.09627 0
+DCM: 3.09627 0
+DCM: 3.09627 0
+DCM: 3.09627 0
+DCM: 3.09627 0
+DCM: 3.09627 0
+DCM: 3.09627 0
+DCM: 3.09627 0
+DCM: 3.09627 0
+Foot: right_foot
+Contact: right
+Activation time: 45499999999
+Deactivation time: 9223372036854775807
+Pose: 3.09127  -0.085       0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left
+Activation time: 45499999999
+Deactivation time: 9223372036854775807
+Pose: 3.09127   0.085       0
+Orientation: 0 0 0 1
+DCM: 3.09627 0
+DCM: 3.09627 0
+DCM: 3.09627 0
+DCM: 3.09627 0
+DCM: 3.09627 0
+DCM: 3.09627 0
+DCM: 3.09627 0
+DCM: 3.09627 0
+DCM: 3.09627 0
+DCM: 3.09627 0
+Foot: right_foot
+Contact: right
+Activation time: 45499999999
+Deactivation time: 9223372036854775807
+Pose: 3.09127  -0.085       0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left
+Activation time: 45499999999
+Deactivation time: 9223372036854775807
+Pose: 3.09127   0.085       0
+Orientation: 0 0 0 1
+DCM: 3.09627 0
+DCM: 3.09627 0
+DCM: 3.09627 0
+DCM: 3.09627 0
+DCM: 3.09627 0
+DCM: 3.09627 0
+DCM: 3.09627 0
+DCM: 3.09627 0
+DCM: 3.09627 0
+DCM: 3.09627 0
+Foot: right_foot
+Contact: right
+Activation time: 45499999999
+Deactivation time: 9223372036854775807
+Pose: 3.09127  -0.085       0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left
+Activation time: 45499999999
+Deactivation time: 9223372036854775807
+Pose: 3.09127   0.085       0
+Orientation: 0 0 0 1
+DCM: 3.09627 0
+DCM: 3.09627 0
+DCM: 3.09627 0
+DCM: 3.09627 0
+DCM: 3.09627 0
+DCM: 3.09627 0
+DCM: 3.09627 0
+DCM: 3.09627 0
+DCM: 3.09627 0
+DCM: 3.09627 0
+Foot: right_foot
+Contact: right
+Activation time: 45499999999
+Deactivation time: 9223372036854775807
+Pose: 3.09127  -0.085       0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left
+Activation time: 45499999999
+Deactivation time: 9223372036854775807
+Pose: 3.09127   0.085       0
+Orientation: 0 0 0 1
+DCM: 3.09627 0
+DCM: 3.09627 0
+DCM: 3.09627 0
+DCM: 3.09627 0
+DCM: 3.09627 0
+DCM: 3.09627 0
+DCM: 3.09627 0
+DCM: 3.09627 0
+DCM: 3.09627 0
+DCM: 3.09627 0
+Foot: right_foot
+Contact: right
+Activation time: 45499999999
+Deactivation time: 9223372036854775807
+Pose: 3.09127  -0.085       0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left
+Activation time: 45499999999
+Deactivation time: 9223372036854775807
+Pose: 3.09127   0.085       0
+Orientation: 0 0 0 1
+DCM: 3.09627 0
+DCM: 3.09627 0
+DCM: 3.09627 0
+DCM: 3.09627 0
+DCM: 3.09627 0
+DCM: 3.09627 0
+DCM: 3.09627 0
+DCM: 3.09627 0
+DCM: 3.09627 0
+DCM: 3.09627 0
+Foot: right_foot
+Contact: right
+Activation time: 45499999999
+Deactivation time: 9223372036854775807
+Pose: 3.09127  -0.085       0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left
+Activation time: 45499999999
+Deactivation time: 9223372036854775807
+Pose: 3.09127   0.085       0
+Orientation: 0 0 0 1
+DCM: 3.09627 0
+DCM: 3.09627 0
+DCM: 3.09627 0
+DCM: 3.09627 0
+DCM: 3.09627 0
+DCM: 3.09627 0
+DCM: 3.09627 0
+DCM: 3.09627 0
+DCM: 3.09627 0
+DCM: 3.09627 0
+Foot: right_foot
+Contact: right
+Activation time: 45499999999
+Deactivation time: 9223372036854775807
+Pose: 3.09127  -0.085       0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left
+Activation time: 45499999999
+Deactivation time: 9223372036854775807
+Pose: 3.09127   0.085       0
+Orientation: 0 0 0 1
+DCM: 3.09627 0
+DCM: 3.09627 0
+DCM: 3.09627 0
+DCM: 3.09627 0
+DCM: 3.09627 0
+DCM: 3.09627 0
+DCM: 3.09627 0
+DCM: 3.09627 0
+DCM: 3.09627 0
+DCM: 3.09627 0
+Foot: right_foot
+Contact: right
+Activation time: 45499999999
+Deactivation time: 9223372036854775807
+Pose: 3.09127  -0.085       0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left
+Activation time: 45499999999
+Deactivation time: 9223372036854775807
+Pose: 3.09127   0.085       0
+Orientation: 0 0 0 1
+DCM: 3.09627 0
+DCM: 3.09627 0
+DCM: 3.09627 0
+DCM: 3.09627 0
+DCM: 3.09627 0
+DCM: 3.09627 0
+DCM: 3.09627 0
+DCM: 3.09627 0
+DCM: 3.09627 0
+DCM: 3.09627 0
+Foot: right_foot
+Contact: right
+Activation time: 45499999999
+Deactivation time: 9223372036854775807
+Pose: 3.09127  -0.085       0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left
+Activation time: 45499999999
+Deactivation time: 9223372036854775807
+Pose: 3.09127   0.085       0
+Orientation: 0 0 0 1
+DCM: 3.09627 0
+DCM: 3.09627 0
+DCM: 3.09627 0
+DCM: 3.09627 0
+DCM: 3.09627 0
+DCM: 3.09627 0
+DCM: 3.09627 0
+DCM: 3.09627 0
+DCM: 3.09627 0
+DCM: 3.09627 0
+Foot: right_foot
+Contact: right
+Activation time: 45499999999
+Deactivation time: 9223372036854775807
+Pose: 3.09127  -0.085       0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left
+Activation time: 45499999999
+Deactivation time: 9223372036854775807
+Pose: 3.09127   0.085       0
+Orientation: 0 0 0 1
+DCM: 3.09627 0
+DCM: 3.09627 0
+DCM: 3.09627 0
+DCM: 3.09627 0
+DCM: 3.09627 0
+DCM: 3.09627 0
+DCM: 3.09627 0
+DCM: 3.09627 0
+DCM: 3.09627 0
+DCM: 3.09627 0
+Foot: right_foot
+Contact: right
+Activation time: 45499999999
+Deactivation time: 9223372036854775807
+Pose: 3.09127  -0.085       0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left
+Activation time: 45499999999
+Deactivation time: 9223372036854775807
+Pose: 3.09127   0.085       0
+Orientation: 0 0 0 1
+DCM: 3.09627 0
+DCM: 3.09627 0
+DCM: 3.09627 0
+DCM: 3.09627 0
+DCM: 3.09627 0
+DCM: 3.09627 0
+DCM: 3.09627 0
+DCM: 3.09627 0
+DCM: 3.09627 0
+DCM: 3.09627 0
+Foot: right_foot
+Contact: right
+Activation time: 45499999999
+Deactivation time: 46299999999
+Pose: 3.09127  -0.085       0
+Orientation: 0 0 0 1
+Contact: right
+Activation time: 48149999998
+Deactivation time: 48949999998
+Pose:  3.248 -0.085      0
+Orientation: 0 0 0 1
+Contact: right
+Activation time: 50749999998
+Deactivation time: 51549999998
+Pose: 3.45174  -0.085       0
+Orientation: 0 0 0 1
+Contact: right
+Activation time: 53349999998
+Deactivation time: 54149999998
+Pose: 3.65548  -0.085       0
+Orientation: 0 0 0 1
+Contact: right
+Activation time: 55949999998
+Deactivation time: 56749999998
+Pose: 3.85923  -0.085       0
+Orientation: 0 0 0 1
+Contact: right
+Activation time: 58549999998
+Deactivation time: 59349999998
+Pose: 4.06297  -0.085       0
+Orientation: 0 0 0 1
+Contact: right
+Activation time: 61149999998
+Deactivation time: 61949999998
+Pose: 4.26671  -0.085       0
+Orientation: 0 0 0 1
+Contact: right
+Activation time: 63749999998
+Deactivation time: 64549999998
+Pose: 4.47046  -0.085       0
+Orientation: 0 0 0 1
+Contact: right
+Activation time: 66349999998
+Deactivation time: 9223372036854775807
+Pose: 4.60759  -0.085       0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left
+Activation time: 45499999999
+Deactivation time: 46949999999
+Pose: 3.09127   0.085       0
+Orientation: 0 0 0 1
+Contact: left
+Activation time: 49449999998
+Deactivation time: 50249999998
+Pose: 3.34987   0.085       0
+Orientation: 0 0 0 1
+Contact: left
+Activation time: 52049999998
+Deactivation time: 52849999998
+Pose: 3.55361   0.085       0
+Orientation: 0 0 0 1
+Contact: left
+Activation time: 54649999998
+Deactivation time: 55449999998
+Pose: 3.75736   0.085       0
+Orientation: 0 0 0 1
+Contact: left
+Activation time: 57249999998
+Deactivation time: 58049999998
+Pose: 3.9611  0.085      0
+Orientation: 0 0 0 1
+Contact: left
+Activation time: 59849999998
+Deactivation time: 60649999998
+Pose: 4.16484   0.085       0
+Orientation: 0 0 0 1
+Contact: left
+Activation time: 62449999998
+Deactivation time: 63249999998
+Pose: 4.36858   0.085       0
+Orientation: 0 0 0 1
+Contact: left
+Activation time: 65049999998
+Deactivation time: 65849999998
+Pose: 4.57233   0.085       0
+Orientation: 0 0 0 1
+Contact: left
+Activation time: 67649999998
+Deactivation time: 9223372036854775807
+Pose: 4.60759   0.085       0
+Orientation: 0 0 0 1
+DCM: 3.09627 0
+DCM: 3.09627 0
+DCM: 3.09627 0
+DCM: 3.09627 0
+DCM: 3.09627 0
+DCM: 3.09627 0
+DCM: 3.09627 0
+DCM: 3.09627 0
+DCM: 3.09627 0
+DCM: 3.09627 0
+DCM: 3.09627 0
+DCM: 3.09627 0
+DCM: 3.09627 0
+DCM: 3.09627 0
+DCM: 3.09627 0
+DCM: 3.09674 0.0215413
+DCM: 3.0984 0.0827226
+DCM: 3.09937 0.0816886
+DCM: 3.10077 0.080185
+DCM: 3.10281 0.0779987
+DCM: 3.10578 0.0748197
+DCM: 3.1101 0.0701973
+DCM: 3.11637 0.063476
+DCM: 3.1255 0.0537029
+DCM: 3.13876 0.0394923
+DCM: 3.15806 0.0188293
+DCM: 3.18611 -0.0112158
+DCM: 3.21864 -0.0459525
+DCM: 3.24393 -0.072567
+DCM: 3.25439 -0.0827226
+DCM: 3.25501 -0.0816886
+DCM: 3.25593 -0.080185
+DCM: 3.25726 -0.0779987
+DCM: 3.25919 -0.0748197
+DCM: 3.26201 -0.0701973
+DCM: 3.2661 -0.063476
+DCM: 3.27205 -0.0537029
+DCM: 3.28069 -0.0394923
+DCM: 3.29327 -0.0188293
+DCM: 3.31155 0.0112158
+DCM: 3.33277 0.0459525
+DCM: 3.34931 0.072567
+DCM: 3.35626 0.0827226
+DCM: 3.35689 0.0816886
+DCM: 3.3578 0.080185
+DCM: 3.35913 0.0779987
+DCM: 3.36107 0.0748197
+DCM: 3.36388 0.0701973
+DCM: 3.36797 0.063476
+DCM: 3.37392 0.0537029
+DCM: 3.38256 0.0394923
+DCM: 3.39514 0.0188293
+DCM: 3.41342 -0.0112158
+DCM: 3.43464 -0.0459525
+DCM: 3.45118 -0.072567
+DCM: 3.45813 -0.0827226
+DCM: 3.45876 -0.0816886
+DCM: 3.45967 -0.080185
+DCM: 3.461 -0.0779987
+DCM: 3.46294 -0.0748197
+DCM: 3.46575 -0.0701973
+DCM: 3.46984 -0.063476
+DCM: 3.47579 -0.0537029
+DCM: 3.48444 -0.0394923
+DCM: 3.49701 -0.0188293
+DCM: 3.51529 0.0112158
+DCM: 3.53651 0.0459525
+DCM: 3.55305 0.072567
+DCM: 3.56 0.0827226
+DCM: 3.56063 0.0816886
+DCM: 3.56154 0.080185
+DCM: 3.56287 0.0779987
+DCM: 3.56481 0.0748197
+DCM: 3.56762 0.0701973
+DCM: 3.57171 0.063476
+DCM: 3.57766 0.0537029
+DCM: 3.58631 0.0394923
+DCM: 3.59888 0.0188293
+DCM: 3.61716 -0.0112158
+DCM: 3.63838 -0.0459525
+DCM: 3.65492 -0.072567
+DCM: 3.66187 -0.0827226
+DCM: 3.6625 -0.0816886
+DCM: 3.66342 -0.080185
+DCM: 3.66475 -0.0779987
+DCM: 3.66668 -0.0748197
+DCM: 3.66949 -0.0701973
+DCM: 3.67358 -0.063476
+DCM: 3.67953 -0.0537029
+DCM: 3.68818 -0.0394923
+DCM: 3.70075 -0.0188293
+DCM: 3.71904 0.0112158
+DCM: 3.74025 0.0459525
+DCM: 3.75679 0.072567
+DCM: 3.76374 0.0827226
+DCM: 3.76437 0.0816886
+DCM: 3.76529 0.080185
+DCM: 3.76662 0.0779987
+DCM: 3.76855 0.0748197
+DCM: 3.77136 0.0701973
+DCM: 3.77545 0.063476
+DCM: 3.7814 0.0537029
+DCM: 3.79005 0.0394923
+DCM: 3.80262 0.0188293
+DCM: 3.82091 -0.0112158
+DCM: 3.84212 -0.0459525
+DCM: 3.85866 -0.072567
+DCM: 3.86561 -0.0827226
+DCM: 3.86624 -0.0816886
+DCM: 3.86716 -0.080185
+DCM: 3.86849 -0.0779987
+DCM: 3.87042 -0.0748197
+DCM: 3.87324 -0.0701973
+DCM: 3.87733 -0.063476
+DCM: 3.88327 -0.0537029
+DCM: 3.89192 -0.0394923
+DCM: 3.9045 -0.0188293
+DCM: 3.92278 0.0112158
+DCM: 3.944 0.0459525
+DCM: 3.96053 0.072567
+DCM: 3.96748 0.0827226
+DCM: 3.96811 0.0816886
+DCM: 3.96903 0.080185
+DCM: 3.97036 0.0779987
+DCM: 3.97229 0.0748197
+DCM: 3.97511 0.0701973
+DCM: 3.9792 0.063476
+DCM: 3.98514 0.0537029
+DCM: 3.99379 0.0394923
+DCM: 4.00637 0.0188293
+DCM: 4.02465 -0.0112158
+DCM: 4.04587 -0.0459525
+DCM: 4.06241 -0.072567
+DCM: 4.06936 -0.0827226
+DCM: 4.06999 -0.0816886
+DCM: 4.0709 -0.080185
+DCM: 4.07223 -0.0779987
+DCM: 4.07417 -0.0748197
+DCM: 4.07698 -0.0701973
+DCM: 4.08107 -0.063476
+DCM: 4.08702 -0.0537029
+DCM: 4.09566 -0.0394923
+DCM: 4.10824 -0.0188293
+DCM: 4.12652 0.0112158
+DCM: 4.14774 0.0459525
+DCM: 4.16428 0.072567
+DCM: 4.17123 0.0827226
+DCM: 4.17186 0.0816886
+DCM: 4.17277 0.080185
+DCM: 4.1741 0.0779987
+DCM: 4.17604 0.0748197
+DCM: 4.17885 0.0701973
+DCM: 4.18294 0.063476
+DCM: 4.18889 0.0537029
+DCM: 4.19753 0.0394923
+DCM: 4.21011 0.0188293
+DCM: 4.22839 -0.0112158
+DCM: 4.24961 -0.0459525
+DCM: 4.26615 -0.072567
+DCM: 4.2731 -0.0827226
+DCM: 4.27373 -0.0816886
+DCM: 4.27464 -0.080185
+DCM: 4.27597 -0.0779987
+DCM: 4.27791 -0.0748197
+DCM: 4.28072 -0.0701973
+DCM: 4.28481 -0.063476
+DCM: 4.29076 -0.0537029
+DCM: 4.29941 -0.0394923
+DCM: 4.31198 -0.0188293
+DCM: 4.33026 0.0112158
+DCM: 4.35148 0.0459525
+DCM: 4.36802 0.072567
+DCM: 4.37497 0.0827226
+DCM: 4.3756 0.0816886
+DCM: 4.37651 0.080185
+DCM: 4.37784 0.0779987
+DCM: 4.37978 0.0748197
+DCM: 4.38259 0.0701973
+DCM: 4.38668 0.063476
+DCM: 4.39263 0.0537029
+DCM: 4.40128 0.0394923
+DCM: 4.41385 0.0188293
+DCM: 4.43213 -0.0112158
+DCM: 4.45335 -0.0459526
+DCM: 4.46989 -0.072567
+DCM: 4.47683 -0.0827227
+DCM: 4.47746 -0.0816887
+DCM: 4.47837 -0.0801851
+DCM: 4.47969 -0.0779989
+DCM: 4.48162 -0.07482
+DCM: 4.48442 -0.0701978
+DCM: 4.48849 -0.0634767
+DCM: 4.4944 -0.053704
+DCM: 4.50301 -0.0394938
+DCM: 4.51552 -0.0188315
+DCM: 4.53371 0.0112126
+DCM: 4.55479 0.0459479
+DCM: 4.57114 0.0725602
+DCM: 4.5778 0.0827128
+DCM: 4.57802 0.0816743
+DCM: 4.57833 0.0801643
+DCM: 4.57879 0.0779686
+DCM: 4.57945 0.0747759
+DCM: 4.58042 0.0701337
+DCM: 4.58183 0.0633835
+DCM: 4.58387 0.0535684
+DCM: 4.58684 0.0392967
+DCM: 4.59116 0.0185449
+DCM: 4.59744 -0.0116294
+DCM: 4.60471 -0.0465516
+DCM: 4.61033 -0.0734388
+DCM: 4.61259 -0.083994
+DCM: 4.61259 -0.0835373
+DCM: 4.61259 -0.0828731
+DCM: 4.61259 -0.0819074
+DCM: 4.61259 -0.0805032
+DCM: 4.61259 -0.0784614
+DCM: 4.61259 -0.0754925
+DCM: 4.61259 -0.0711756
+DCM: 4.61259 -0.0648986
+DCM: 4.61259 -0.0557714
+DCM: 4.61259 -0.0425
+DCM: 4.61259 -0.0284228
+DCM: 4.61259 -0.017715
+DCM: 4.61259 -0.00993207
+DCM: 4.61259 -0.00462938
+DCM: 4.61259 -0.00136231
+DCM: 4.61259 0.000313749
+DCM: 4.61259 0.000843398
+DCM: 4.61259 0.00067125
+DCM: 4.61259 0.000241914
+Foot: right_foot
+Contact: right
+Activation time: 67649999998
+Deactivation time: 9223372036854775807
+Pose: 4.60759  -0.085       0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left
+Activation time: 67649999998
+Deactivation time: 9223372036854775807
+Pose: 4.60759   0.085       0
+Orientation: 0 0 0 1
+DCM: 4.61259 0
+DCM: 4.61259 0
+DCM: 4.61259 0
+DCM: 4.61259 0
+DCM: 4.61259 0
+DCM: 4.61259 0
+DCM: 4.61259 0
+DCM: 4.61259 0
+DCM: 4.61259 0
+DCM: 4.61259 0
+Foot: right_foot
+Contact: right
+Activation time: 67649999998
+Deactivation time: 9223372036854775807
+Pose: 4.60759  -0.085       0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left
+Activation time: 67649999998
+Deactivation time: 9223372036854775807
+Pose: 4.60759   0.085       0
+Orientation: 0 0 0 1
+DCM: 4.61259 0
+DCM: 4.61259 0
+DCM: 4.61259 0
+DCM: 4.61259 0
+DCM: 4.61259 0
+DCM: 4.61259 0
+DCM: 4.61259 0
+DCM: 4.61259 0
+DCM: 4.61259 0
+DCM: 4.61259 0
+Foot: right_foot
+Contact: right
+Activation time: 67649999998
+Deactivation time: 9223372036854775807
+Pose: 4.60759  -0.085       0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left
+Activation time: 67649999998
+Deactivation time: 9223372036854775807
+Pose: 4.60759   0.085       0
+Orientation: 0 0 0 1
+DCM: 4.61259 0
+DCM: 4.61259 0
+DCM: 4.61259 0
+DCM: 4.61259 0
+DCM: 4.61259 0
+DCM: 4.61259 0
+DCM: 4.61259 0
+DCM: 4.61259 0
+DCM: 4.61259 0
+DCM: 4.61259 0
+Foot: right_foot
+Contact: right
+Activation time: 67649999998
+Deactivation time: 9223372036854775807
+Pose: 4.60759  -0.085       0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left
+Activation time: 67649999998
+Deactivation time: 9223372036854775807
+Pose: 4.60759   0.085       0
+Orientation: 0 0 0 1
+DCM: 4.61259 0
+DCM: 4.61259 0
+DCM: 4.61259 0
+DCM: 4.61259 0
+DCM: 4.61259 0
+DCM: 4.61259 0
+DCM: 4.61259 0
+DCM: 4.61259 0
+DCM: 4.61259 0
+DCM: 4.61259 0
+Foot: right_foot
+Contact: right
+Activation time: 67649999998
+Deactivation time: 9223372036854775807
+Pose: 4.60759  -0.085       0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left
+Activation time: 67649999998
+Deactivation time: 9223372036854775807
+Pose: 4.60759   0.085       0
+Orientation: 0 0 0 1
+DCM: 4.61259 0
+DCM: 4.61259 0
+DCM: 4.61259 0
+DCM: 4.61259 0
+DCM: 4.61259 0
+DCM: 4.61259 0
+DCM: 4.61259 0
+DCM: 4.61259 0
+DCM: 4.61259 0
+DCM: 4.61259 0
+Foot: right_foot
+Contact: right
+Activation time: 67649999998
+Deactivation time: 9223372036854775807
+Pose: 4.60759  -0.085       0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left
+Activation time: 67649999998
+Deactivation time: 9223372036854775807
+Pose: 4.60759   0.085       0
+Orientation: 0 0 0 1
+DCM: 4.61259 0
+DCM: 4.61259 0
+DCM: 4.61259 0
+DCM: 4.61259 0
+DCM: 4.61259 0
+DCM: 4.61259 0
+DCM: 4.61259 0
+DCM: 4.61259 0
+DCM: 4.61259 0
+DCM: 4.61259 0
+Foot: right_foot
+Contact: right
+Activation time: 67649999998
+Deactivation time: 9223372036854775807
+Pose: 4.60759  -0.085       0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left
+Activation time: 67649999998
+Deactivation time: 9223372036854775807
+Pose: 4.60759   0.085       0
+Orientation: 0 0 0 1
+DCM: 4.61259 0
+DCM: 4.61259 0
+DCM: 4.61259 0
+DCM: 4.61259 0
+DCM: 4.61259 0
+DCM: 4.61259 0
+DCM: 4.61259 0
+DCM: 4.61259 0
+DCM: 4.61259 0
+DCM: 4.61259 0
+Foot: right_foot
+Contact: right
+Activation time: 67649999998
+Deactivation time: 9223372036854775807
+Pose: 4.60759  -0.085       0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left
+Activation time: 67649999998
+Deactivation time: 9223372036854775807
+Pose: 4.60759   0.085       0
+Orientation: 0 0 0 1
+DCM: 4.61259 0
+DCM: 4.61259 0
+DCM: 4.61259 0
+DCM: 4.61259 0
+DCM: 4.61259 0
+DCM: 4.61259 0
+DCM: 4.61259 0
+DCM: 4.61259 0
+DCM: 4.61259 0
+DCM: 4.61259 0
+Foot: right_foot
+Contact: right
+Activation time: 67649999998
+Deactivation time: 9223372036854775807
+Pose: 4.60759  -0.085       0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left
+Activation time: 67649999998
+Deactivation time: 9223372036854775807
+Pose: 4.60759   0.085       0
+Orientation: 0 0 0 1
+DCM: 4.61259 0
+DCM: 4.61259 0
+DCM: 4.61259 0
+DCM: 4.61259 0
+DCM: 4.61259 0
+DCM: 4.61259 0
+DCM: 4.61259 0
+DCM: 4.61259 0
+DCM: 4.61259 0
+DCM: 4.61259 0
+Foot: right_foot
+Contact: right
+Activation time: 67649999998
+Deactivation time: 9223372036854775807
+Pose: 4.60759  -0.085       0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left
+Activation time: 67649999998
+Deactivation time: 9223372036854775807
+Pose: 4.60759   0.085       0
+Orientation: 0 0 0 1
+DCM: 4.61259 0
+DCM: 4.61259 0
+DCM: 4.61259 0
+DCM: 4.61259 0
+DCM: 4.61259 0
+DCM: 4.61259 0
+DCM: 4.61259 0
+DCM: 4.61259 0
+DCM: 4.61259 0
+DCM: 4.61259 0
+Foot: right_foot
+Contact: right
+Activation time: 67649999998
+Deactivation time: 9223372036854775807
+Pose: 4.60759  -0.085       0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left
+Activation time: 67649999998
+Deactivation time: 9223372036854775807
+Pose: 4.60759   0.085       0
+Orientation: 0 0 0 1
+DCM: 4.61259 0
+DCM: 4.61259 0
+DCM: 4.61259 0
+DCM: 4.61259 0
+DCM: 4.61259 0
+DCM: 4.61259 0
+DCM: 4.61259 0
+DCM: 4.61259 0
+DCM: 4.61259 0
+DCM: 4.61259 0
+Foot: right_foot
+Contact: right
+Activation time: 67649999998
+Deactivation time: 9223372036854775807
+Pose: 4.60759  -0.085       0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left
+Activation time: 67649999998
+Deactivation time: 9223372036854775807
+Pose: 4.60759   0.085       0
+Orientation: 0 0 0 1
+DCM: 4.61259 0
+DCM: 4.61259 0
+DCM: 4.61259 0
+DCM: 4.61259 0
+DCM: 4.61259 0
+DCM: 4.61259 0
+DCM: 4.61259 0
+DCM: 4.61259 0
+DCM: 4.61259 0
+DCM: 4.61259 0
+Foot: right_foot
+Contact: right
+Activation time: 67649999998
+Deactivation time: 9223372036854775807
+Pose: 4.60759  -0.085       0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left
+Activation time: 67649999998
+Deactivation time: 9223372036854775807
+Pose: 4.60759   0.085       0
+Orientation: 0 0 0 1
+DCM: 4.61259 0
+DCM: 4.61259 0
+DCM: 4.61259 0
+DCM: 4.61259 0
+DCM: 4.61259 0
+DCM: 4.61259 0
+DCM: 4.61259 0
+DCM: 4.61259 0
+DCM: 4.61259 0
+DCM: 4.61259 0
+Foot: right_foot
+Contact: right
+Activation time: 67649999998
+Deactivation time: 9223372036854775807
+Pose: 4.60759  -0.085       0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left
+Activation time: 67649999998
+Deactivation time: 9223372036854775807
+Pose: 4.60759   0.085       0
+Orientation: 0 0 0 1
+DCM: 4.61259 0
+DCM: 4.61259 0
+DCM: 4.61259 0
+DCM: 4.61259 0
+DCM: 4.61259 0
+DCM: 4.61259 0
+DCM: 4.61259 0
+DCM: 4.61259 0
+DCM: 4.61259 0
+DCM: 4.61259 0
+Foot: right_foot
+Contact: right
+Activation time: 67649999998
+Deactivation time: 9223372036854775807
+Pose: 4.60759  -0.085       0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left
+Activation time: 67649999998
+Deactivation time: 9223372036854775807
+Pose: 4.60759   0.085       0
+Orientation: 0 0 0 1
+DCM: 4.61259 0
+DCM: 4.61259 0
+DCM: 4.61259 0
+DCM: 4.61259 0
+DCM: 4.61259 0
+DCM: 4.61259 0
+DCM: 4.61259 0
+DCM: 4.61259 0
+DCM: 4.61259 0
+DCM: 4.61259 0
+Foot: right_foot
+Contact: right
+Activation time: 67649999998
+Deactivation time: 9223372036854775807
+Pose: 4.60759  -0.085       0
+Orientation: 0 0 0 1
+Foot: left_foot
+Contact: left
+Activation time: 67649999998
+Deactivation time: 9223372036854775807
+Pose: 4.60759   0.085       0
+Orientation: 0 0 0 1
+DCM: 4.61259 0
+DCM: 4.61259 0
+DCM: 4.61259 0
+DCM: 4.61259 0
+DCM: 4.61259 0
+DCM: 4.61259 0
+DCM: 4.61259 0
+DCM: 4.61259 0
+DCM: 4.61259 0
+DCM: 4.61259 0
+Foot: right_foot
+Contact: right
+Activation time: 67649999998
+Deactivation time: 67999999998
+Pose: 4.60759  -0.085       0
+Orientation: 0 0 0 1
+Contact: right
+Activation time: 69349999997
+Deactivation time: 70049999997
+Pose:    4.68334 -0.0385557          0
+Orientation:        0        0 0.522687 0.852525
+Contact: right
+Activation time: 71549999997
+Deactivation time: 72249999997
+Pose:   4.59418 0.0839358         0
+Orientation:          0          0   0.996865 -0.0791209
+Contact: right
+Activation time: 73749999997
+Deactivation time: 74449999997
+Pose:    4.54762 -0.0602369          0
+Orientation:         0         0  0.381661 -0.924302
+Contact: right
+Activation time: 75949999997
+Deactivation time: 76649999997
+Pose:    4.69158 -0.0130368          0
+Orientation:        -0        -0 -0.650625 -0.759399
+Contact: right
+Activation time: 78149999997
+Deactivation time: 78849999997
+Pose:    4.5687 0.0755812         0
+Orientation:        -0        -0 -0.971903  0.235381
+Contact: right
+Activation time: 80349999997
+Deactivation time: 81049999997
+Pose:    4.56937 -0.0759225          0
+Orientation:        -0        -0 -0.231078  0.972935
+Contact: right
+Activation time: 82549999997
+Deactivation time: 83249999997
+Pose:   4.69147 0.0137797         0
+Orientation:        0        0 0.762271 0.647258
+Contact: right
+Activation time: 84749999997
+Deactivation time: 85449999997
+Pose:   4.54709 0.0597037         0
+Orientation:         0         0  0.922604 -0.385748
+Contact: right
+Activation time: 86949999997
+Deactivation time: 87449999996
+Pose:    4.59492 -0.0840512          0
+Orientation:         0         0 0.0747083 -0.997205
+Contact: right
+Activation time: 88949999998
+Deactivation time: 9223372036854775807
+Pose:    4.65205 -0.0724448          0
+Orientation:        -0        -0 -0.271761 -0.962365
+Foot: left_foot
+Contact: left
+Activation time: 67649999998
+Deactivation time: 68649999998
+Pose: 4.60759   0.085       0
+Orientation: 0 0 0 1
+Contact: left
+Activation time: 70449999997
+Deactivation time: 71149999997
+Pose:    4.53887 -0.0500226          0
+Orientation:        0        0 0.891207 0.453596
+Contact: left
+Activation time: 72649999997
+Deactivation time: 73349999997
+Pose:    4.68848 -0.0261233          0
+Orientation:         0         0  0.808496 -0.588501
+Contact: left
+Activation time: 74849999997
+Deactivation time: 75549999997
+Pose:   4.58111 0.0807698         0
+Orientation:        -0        -0 -0.157746  -0.98748
+Contact: left
+Activation time: 77049999997
+Deactivation time: 77749999997
+Pose:    4.55787 -0.0689429          0
+Orientation:        -0        -0 -0.951602 -0.307333
+Contact: left
+Activation time: 79249999997
+Deactivation time: 79949999997
+Pose:     4.69259 0.000376184           0
+Orientation:       -0       -0 -0.70554  0.70867
+Contact: left
+Activation time: 81449999997
+Deactivation time: 82149999997
+Pose:   4.55726 0.0685001         0
+Orientation:        0        0 0.311541 0.950233
+Contact: left
+Activation time: 83649999997
+Deactivation time: 84349999997
+Pose:   4.58182 -0.081001         0
+Orientation:        0        0 0.988168 0.153374
+Contact: left
+Activation time: 85849999997
+Deactivation time: 86499999997
+Pose:   4.68824 0.0268382         0
+Orientation:         0         0  0.584917 -0.811093
+Contact: left
+Activation time: 87649999998
+Deactivation time: 88449999998
+Pose:   4.62025 0.0840512         0
+Orientation:         0         0 0.0747083 -0.997205
+Contact: left
+Activation time: 90249999998
+Deactivation time: 9223372036854775807
+Pose:   4.56313 0.0724448         0
+Orientation:        -0        -0 -0.271761 -0.962365
+DCM: 4.61259 0
+DCM: 4.61259 0
+DCM: 4.61259 0
+DCM: 4.61259 0
+DCM: 4.61259 0
+DCM: 4.61259 0
+DCM: 4.6128 0.0216866
+DCM: 4.61354 0.0833901
+DCM: 4.61398 0.0826591
+DCM: 4.6146 0.0815961
+DCM: 4.61552 0.0800506
+DCM: 4.61685 0.0778033
+DCM: 4.61878 0.0745356
+DCM: 4.6216 0.0697841
+DCM: 4.62569 0.0628753
+DCM: 4.63163 0.0528294
+DCM: 4.64028 0.0382222
+DCM: 4.65285 0.0169825
+DCM: 4.6673 -0.00762712
+DCM: 4.67803 -0.0266753
+DCM: 4.68136 -0.0343796
+DCM: 4.67944 -0.0345067
+DCM: 4.67663 -0.0346916
+DCM: 4.67255 -0.0349603
+DCM: 4.66663 -0.0353511
+DCM: 4.65801 -0.0359194
+DCM: 4.64547 -0.0367456
+DCM: 4.62725 -0.037947
+DCM: 4.60075 -0.0396939
+DCM: 4.5701 -0.0416149
+DCM: 4.54657 -0.0427295
+DCM: 4.53749 -0.0423478
+DCM: 4.5382 -0.0406985
+DCM: 4.53924 -0.0383004
+DCM: 4.54074 -0.0348134
+DCM: 4.54293 -0.0297431
+DCM: 4.5461 -0.0223706
+DCM: 4.55073 -0.0116506
+DCM: 4.55745 0.00393698
+DCM: 4.56722 0.0266021
+DCM: 4.57862 0.0527627
+DCM: 4.5877 0.072648
+DCM: 4.59197 0.0798783
+DCM: 4.59321 0.0783941
+DCM: 4.59501 0.076236
+DCM: 4.59762 0.073098
+DCM: 4.60143 0.0685352
+DCM: 4.60696 0.0619006
+DCM: 4.615 0.0522535
+DCM: 4.6267 0.0382261
+DCM: 4.64371 0.0178295
+DCM: 4.6633 -0.00582024
+DCM: 4.67805 -0.0241868
+DCM: 4.68308 -0.0317527
+DCM: 4.68133 -0.0321483
+DCM: 4.67878 -0.0327236
+DCM: 4.67508 -0.0335601
+DCM: 4.66969 -0.0347764
+DCM: 4.66186 -0.036545
+DCM: 4.65047 -0.0391167
+DCM: 4.63391 -0.042856
+DCM: 4.60984 -0.0482932
+DCM: 4.58198 -0.0544747
+DCM: 4.56056 -0.0588315
+DCM: 4.5522 -0.0596373
+DCM: 4.55267 -0.0577633
+DCM: 4.55336 -0.0550384
+DCM: 4.55436 -0.0510762
+DCM: 4.55581 -0.0453149
+DCM: 4.55791 -0.0369378
+DCM: 4.56098 -0.0247569
+DCM: 4.56544 -0.00704518
+DCM: 4.57192 0.0187086
+DCM: 4.57951 0.0484654
+DCM: 4.58568 0.0711975
+DCM: 4.58883 0.0797208
+DCM: 4.59019 0.0785372
+DCM: 4.59215 0.0768162
+DCM: 4.59501 0.0743137
+DCM: 4.59916 0.070675
+DCM: 4.6052 0.0653842
+DCM: 4.61398 0.057691
+DCM: 4.62675 0.0465047
+DCM: 4.64531 0.0302391
+DCM: 4.6667 0.0113541
+DCM: 4.68283 -0.00340317
+DCM: 4.6884 -0.00968502
+DCM: 4.68661 -0.0104065
+DCM: 4.684 -0.0114557
+DCM: 4.68021 -0.0129812
+DCM: 4.6747 -0.0151994
+DCM: 4.66669 -0.0184247
+DCM: 4.65504 -0.0231146
+DCM: 4.63809 -0.0299339
+DCM: 4.61346 -0.0398496
+DCM: 4.58493 -0.0512236
+DCM: 4.56292 -0.0596127
+DCM: 4.55417 -0.0620789
+DCM: 4.55433 -0.0602901
+DCM: 4.55457 -0.0576892
+DCM: 4.55491 -0.0539073
+DCM: 4.55541 -0.0484082
+DCM: 4.55613 -0.0404123
+DCM: 4.55719 -0.0287857
+DCM: 4.55872 -0.0118801
+DCM: 4.56094 0.0127017
+DCM: 4.56362 0.0411108
+DCM: 4.56606 0.062837
+DCM: 4.56786 0.0710366
+DCM: 4.5695 0.0700118
+DCM: 4.57188 0.0685218
+DCM: 4.57535 0.0663551
+DCM: 4.58038 0.0632047
+DCM: 4.58771 0.0586237
+DCM: 4.59836 0.0519628
+DCM: 4.61384 0.0422774
+DCM: 4.63636 0.0281944
+DCM: 4.66234 0.0118249
+DCM: 4.68207 -0.00103315
+DCM: 4.68922 -0.00665382
+DCM: 4.68767 -0.00757557
+DCM: 4.68543 -0.00891586
+DCM: 4.68217 -0.0108647
+DCM: 4.67744 -0.0136984
+DCM: 4.67054 -0.0178188
+DCM: 4.66052 -0.0238101
+DCM: 4.64596 -0.0325218
+DCM: 4.62477 -0.0451891
+DCM: 4.60023 -0.0597417
+DCM: 4.58123 -0.0705561
+DCM: 4.57354 -0.0739253
+DCM: 4.5734 -0.0719976
+DCM: 4.5732 -0.0691946
+DCM: 4.57292 -0.0651189
+DCM: 4.5725 -0.0591926
+DCM: 4.57189 -0.0505755
+DCM: 4.57101 -0.0380457
+DCM: 4.56973 -0.0198267
+DCM: 4.56787 0.00666467
+DCM: 4.56581 0.0373056
+DCM: 4.56459 0.0608288
+DCM: 4.56493 0.0699104
+DCM: 4.56658 0.0692066
+DCM: 4.56899 0.0681832
+DCM: 4.57248 0.0666951
+DCM: 4.57756 0.0645313
+DCM: 4.58495 0.0613851
+DCM: 4.59569 0.0568103
+DCM: 4.6113 0.0501583
+DCM: 4.63401 0.0404859
+DCM: 4.66022 0.0292052
+DCM: 4.68015 0.0202077
+DCM: 4.6874 0.0159736
+DCM: 4.68592 0.0147294
+DCM: 4.68377 0.0129204
+DCM: 4.68064 0.01029
+DCM: 4.6761 0.0064652
+DCM: 4.66949 0.000903754
+DCM: 4.65988 -0.0071829
+DCM: 4.6459 -0.0189413
+DCM: 4.62558 -0.0360388
+DCM: 4.60202 -0.0557338
+DCM: 4.58371 -0.0705625
+DCM: 4.57617 -0.075631
+DCM: 4.57577 -0.0738809
+DCM: 4.57518 -0.0713361
+DCM: 4.57433 -0.0676359
+DCM: 4.57309 -0.0622555
+DCM: 4.57128 -0.0544322
+DCM: 4.56866 -0.0430566
+DCM: 4.56485 -0.0265159
+DCM: 4.5593 -0.00246478
+DCM: 4.553 0.0253644
+DCM: 4.54855 0.0467678
+DCM: 4.5477 0.0551187
+DCM: 4.54957 0.0546528
+DCM: 4.5523 0.0539753
+DCM: 4.55626 0.0529903
+DCM: 4.56201 0.0515579
+DCM: 4.57038 0.0494752
+DCM: 4.58256 0.0464469
+DCM: 4.60026 0.0420434
+DCM: 4.62599 0.0356406
+DCM: 4.65572 0.0281304
+DCM: 4.67838 0.0219865
+DCM: 4.68678 0.0187619
+DCM: 4.6854 0.0172489
+DCM: 4.68339 0.0150489
+DCM: 4.68047 0.0118501
+DCM: 4.67622 0.0071988
+DCM: 4.67004 0.000435552
+DCM: 4.66106 -0.00939859
+DCM: 4.64801 -0.023698
+DCM: 4.62902 -0.0444901
+DCM: 4.60967 -0.0649219
+DCM: 4.60211 -0.0701491
+DCM: 4.60313 -0.0634985
+DCM: 4.60461 -0.0538282
+DCM: 4.60677 -0.0397671
+DCM: 4.6099 -0.0193213
+DCM: 4.61445 0.0104079
+DCM: 4.61974 0.0447847
+DCM: 4.62386 0.0711431
+DCM: 4.62561 0.0812455
+DCM: 4.6258 0.0803099
+DCM: 4.62608 0.0789494
+DCM: 4.62648 0.0769711
+DCM: 4.62706 0.0740947
+DCM: 4.6279 0.0699122
+DCM: 4.62913 0.0638305
+DCM: 4.63092 0.0549875
+DCM: 4.63351 0.0421293
+DCM: 4.63728 0.0234326
+DCM: 4.64277 -0.00375328
+DCM: 4.64911 -0.0352182
+DCM: 4.65396 -0.0594487
+DCM: 4.65579 -0.0689722
+DCM: 4.65555 -0.0685829
+DCM: 4.6552 -0.0680168
+DCM: 4.65469 -0.0671937
+DCM: 4.65396 -0.0659969
+DCM: 4.65289 -0.0642567
+DCM: 4.65134 -0.0617264
+DCM: 4.64908 -0.0580471
+DCM: 4.6458 -0.0526972
+DCM: 4.64102 -0.0449182
+DCM: 4.63408 -0.0336071
+DCM: 4.62672 -0.0216092
+DCM: 4.62112 -0.012483
+DCM: 4.61705 -0.0058497
+DCM: 4.61427 -0.00133025
+DCM: 4.61256 0.00145425
+DCM: 4.61169 0.00288273
+DCM: 4.61141 0.00333415
+DCM: 4.6115 0.00318743
+DCM: 4.61172 0.00282151
+Foot: right_foot
+Contact: right
+Activation time: 88949999998
+Deactivation time: 88999999998
+Pose:    4.65205 -0.0724448          0
+Orientation:        0        0 0.271761 0.962365
+Contact: right
+Activation time: 91349999997
+Deactivation time: 92049999997
+Pose:   4.69232 0.0067629         0
+Orientation:        0        0 0.734698 0.678394
+Contact: right
+Activation time: 93549999997
+Deactivation time: 94249999997
+Pose:   4.55226 0.0645244         0
+Orientation:         0         0  0.937846 -0.347052
+Contact: right
+Activation time: 95749999997
+Deactivation time: 96449999997
+Pose:    4.58798 -0.0827082          0
+Orientation:         0         0  0.116108 -0.993237
+Contact: right
+Activation time: 97949999997
+Deactivation time: 98649999997
+Pose:     4.686 0.0328234         0
+Orientation:        -0        -0 -0.832514 -0.554005
+Contact: right
+Activation time: 100149999997
+Deactivation time: 100849999997
+Pose:  4.53491 0.044075        0
+Orientation:        -0        -0 -0.871358  0.490648
+Contact: right
+Activation time: 102349999997
+Deactivation time: 103049999997
+Pose:    4.61473 -0.0846998          0
+Orientation:         0         0 0.0420244  0.999117
+Contact: right
+Activation time: 104549999997
+Deactivation time: 105249999997
+Pose:   4.67187 0.0556168         0
+Orientation:        0        0 0.909482 0.415743
+Contact: right
+Activation time: 106749999997
+Deactivation time: 107449999997
+Pose:    4.5248 0.0192387         0
+Orientation:         0         0  0.783051 -0.621958
+Contact: right
+Activation time: 108949999997
+Deactivation time: 109649999997
+Pose:    4.64076 -0.0782608          0
+Orientation:        -0        -0 -0.199105 -0.979978
+Contact: right
+Activation time: 111349999997
+Deactivation time: 9223372036854775807
+Pose:   4.69187 0.0110266         0
+Orientation:        -0        -0 -0.751573 -0.659649
+Foot: left_foot
+Contact: left
+Activation time: 90249999998
+Deactivation time: 90949999998
+Pose:   4.56313 0.0724448         0
+Orientation:        0        0 0.271761 0.962365
+Contact: left
+Activation time: 92449999997
+Deactivation time: 93149999997
+Pose:    4.57518 -0.0785801          0
+Orientation:        0        0 0.980936  0.19433
+Contact: left
+Activation time: 94649999997
+Deactivation time: 95349999997
+Pose:   4.69019 0.0200441         0
+Orientation:        0        0 0.618137 -0.78607
+Contact: left
+Activation time: 96849999997
+Deactivation time: 97549999997
+Pose:   4.54277 0.0549881         0
+Orientation:        -0        -0 -0.420167 -0.907447
+Contact: left
+Activation time: 99049999997
+Deactivation time: 99749999997
+Pose:    4.60128 -0.0847653          0
+Orientation:         -0         -0  -0.999309 -0.0371584
+Contact: left
+Activation time: 101249999997
+Deactivation time: 101949999997
+Pose:   4.67984 0.0447808         0
+Orientation:        -0        -0 -0.486399  0.873737
+Contact: left
+Activation time: 103449999997
+Deactivation time: 104149999997
+Pose:   4.52887 0.0320582         0
+Orientation:        0        0 0.558052 0.829806
+Contact: left
+Activation time: 105649999997
+Deactivation time: 106349999997
+Pose:      4.628 -0.0825133          0
+Orientation:         0         0  0.992659 -0.120944
+Contact: left
+Activation time: 107849999997
+Deactivation time: 108549999997
+Pose:   4.66229 0.0650602         0
+Orientation:         0         0  0.342481 -0.939525
+Contact: left
+Activation time: 110049999997
+Deactivation time: 110849999997
+Pose:     4.5228 0.00593736          0
+Orientation:        -0        -0 -0.681964 -0.731386
+Contact: left
+Activation time: 112649999997
+Deactivation time: 9223372036854775807
+Pose:    4.52331 -0.0110266          0
+Orientation:        -0        -0 -0.751573 -0.659649
+DCM: 4.61259 0
+DCM: 4.56904 0.0741865
+DCM: 4.5698 0.0737899
+DCM: 4.57089 0.0732131
+DCM: 4.57248 0.0723744
+DCM: 4.57479 0.0711549
+DCM: 4.57814 0.0693816
+DCM: 4.58303 0.0668033
+DCM: 4.59013 0.0630542
+DCM: 4.60045 0.0576028
+DCM: 4.61546 0.0496762
+DCM: 4.63729 0.0381504
+DCM: 4.66247 0.0247309
+DCM: 4.68158 0.0141089
+DCM: 4.68845 0.0092871
+DCM: 4.68687 0.00817014
+DCM: 4.68458 0.00654602
+DCM: 4.68125 0.00418446
+DCM: 4.6764 0.000750627
+DCM: 4.66935 -0.00424236
+DCM: 4.6591 -0.0115024
+DCM: 4.64419 -0.022059
+DCM: 4.62252 -0.0374088
+DCM: 4.5974 -0.0550779
+DCM: 4.57793 -0.0683347
+DCM: 4.57 -0.0727588
+DCM: 4.56974 -0.0709812
+DCM: 4.56937 -0.0683964
+DCM: 4.56882 -0.064638
+DCM: 4.56803 -0.0591731
+DCM: 4.56689 -0.0512268
+DCM: 4.56522 -0.0396725
+DCM: 4.5628 -0.0228718
+DCM: 4.55927 0.00155735
+DCM: 4.5553 0.0298149
+DCM: 4.55264 0.0515154
+DCM: 4.5525 0.0599093
+DCM: 4.55433 0.0592916
+DCM: 4.55699 0.0583936
+DCM: 4.56086 0.0570877
+DCM: 4.56649 0.0551889
+DCM: 4.57467 0.0524279
+DCM: 4.58658 0.0484134
+DCM: 4.60388 0.042576
+DCM: 4.62905 0.034088
+DCM: 4.65811 0.0241787
+DCM: 4.68029 0.0162389
+DCM: 4.68854 0.0124243
+DCM: 4.68725 0.0111707
+DCM: 4.68538 0.0093479
+DCM: 4.68266 0.00669748
+DCM: 4.67871 0.00284362
+DCM: 4.67296 -0.0027601
+DCM: 4.6646 -0.0109082
+DCM: 4.65244 -0.022756
+DCM: 4.63477 -0.0399834
+DCM: 4.61426 -0.0598232
+DCM: 4.59828 -0.0747427
+DCM: 4.59158 -0.0798004
+DCM: 4.591 -0.0779565
+DCM: 4.59016 -0.0752754
+DCM: 4.58893 -0.0713768
+DCM: 4.58716 -0.0657081
+DCM: 4.58457 -0.0574654
+DCM: 4.58081 -0.0454802
+DCM: 4.57535 -0.028053
+DCM: 4.5674 -0.00271284
+DCM: 4.55831 0.0266196
+DCM: 4.55168 0.0492215
+DCM: 4.54991 0.0581355
+DCM: 4.55168 0.0578333
+DCM: 4.55425 0.0573939
+DCM: 4.55799 0.0567551
+DCM: 4.56344 0.0558262
+DCM: 4.57135 0.0544755
+DCM: 4.58286 0.0525115
+DCM: 4.59959 0.0496557
+DCM: 4.62392 0.0455033
+DCM: 4.65203 0.0405971
+DCM: 4.6735 0.0364569
+DCM: 4.68153 0.034016
+DCM: 4.68038 0.0324634
+DCM: 4.67871 0.0302057
+DCM: 4.67628 0.026923
+DCM: 4.67274 0.0221497
+DCM: 4.6676 0.015209
+DCM: 4.66012 0.00511693
+DCM: 4.64924 -0.00955753
+DCM: 4.63343 -0.030895
+DCM: 4.61507 -0.05551
+DCM: 4.6007 -0.0741727
+DCM: 4.59453 -0.0808498
+DCM: 4.59374 -0.0792406
+DCM: 4.59258 -0.0769007
+DCM: 4.59089 -0.0734984
+DCM: 4.58844 -0.0685512
+DCM: 4.58487 -0.0613576
+DCM: 4.57969 -0.0508979
+DCM: 4.57215 -0.0356888
+DCM: 4.56119 -0.013574
+DCM: 4.54861 0.0120403
+DCM: 4.53933 0.0318328
+DCM: 4.53657 0.0397635
+DCM: 4.53851 0.0397471
+DCM: 4.54131 0.0397232
+DCM: 4.5454 0.0396884
+DCM: 4.55134 0.0396379
+DCM: 4.55998 0.0395644
+DCM: 4.57254 0.0394576
+DCM: 4.5908 0.0393022
+DCM: 4.61736 0.0390763
+DCM: 4.64807 0.0387158
+DCM: 4.67161 0.0380799
+DCM: 4.68064 0.037025
+DCM: 4.67981 0.0354331
+DCM: 4.6786 0.0331184
+DCM: 4.67684 0.0297526
+DCM: 4.67428 0.0248587
+DCM: 4.67057 0.0177426
+DCM: 4.66516 0.00739546
+DCM: 4.6573 -0.00764988
+DCM: 4.64587 -0.0295266
+DCM: 4.63256 -0.0547686
+DCM: 4.62203 -0.0739242
+DCM: 4.61723 -0.0808178
+DCM: 4.61611 -0.0792458
+DCM: 4.61448 -0.07696
+DCM: 4.6121 -0.0736363
+DCM: 4.60864 -0.0688035
+DCM: 4.60362 -0.0617764
+DCM: 4.59632 -0.0515586
+DCM: 4.58569 -0.0367013
+DCM: 4.57025 -0.0150979
+DCM: 4.55247 0.00994139
+DCM: 4.53912 0.0293525
+DCM: 4.53467 0.0372714
+DCM: 4.53644 0.0375358
+DCM: 4.53902 0.0379203
+DCM: 4.54278 0.0384794
+DCM: 4.54824 0.0392924
+DCM: 4.55618 0.0404745
+DCM: 4.56773 0.0421934
+DCM: 4.58452 0.0446927
+DCM: 4.60893 0.0483269
+DCM: 4.63717 0.0524224
+DCM: 4.65886 0.0551761
+DCM: 4.66725 0.0553592
+DCM: 4.66664 0.0535254
+DCM: 4.66576 0.0508589
+DCM: 4.66447 0.0469817
+DCM: 4.6626 0.041344
+DCM: 4.65987 0.0331466
+DCM: 4.65591 0.021227
+DCM: 4.65015 0.00389526
+DCM: 4.64177 -0.021306
+DCM: 4.63199 -0.0504168
+DCM: 4.62415 -0.0726279
+DCM: 4.62037 -0.0808934
+DCM: 4.61911 -0.0796128
+DCM: 4.61728 -0.0777507
+DCM: 4.61462 -0.075043
+DCM: 4.61075 -0.071106
+DCM: 4.60512 -0.0653813
+DCM: 4.59693 -0.0570572
+DCM: 4.58503 -0.0449536
+DCM: 4.56773 -0.0273542
+DCM: 4.5478 -0.00693271
+DCM: 4.53281 0.00898177
+DCM: 4.52772 0.0156599
+DCM: 4.52956 0.0162463
+DCM: 4.53224 0.0170989
+DCM: 4.53613 0.0183387
+DCM: 4.54179 0.0201415
+DCM: 4.55002 0.0227628
+DCM: 4.56199 0.0265743
+DCM: 4.57939 0.0321164
+DCM: 4.6047 0.040175
+DCM: 4.63399 0.0493991
+DCM: 4.65656 0.0561304
+DCM: 4.66547 0.05794
+DCM: 4.66517 0.056168
+DCM: 4.66475 0.0535914
+DCM: 4.66412 0.049845
+DCM: 4.66322 0.0443974
+DCM: 4.6619 0.0364764
+DCM: 4.65999 0.0249588
+DCM: 4.6572 0.00821151
+DCM: 4.65316 -0.0161399
+DCM: 4.64837 -0.0442757
+DCM: 4.64432 -0.0657667
+DCM: 4.64191 -0.0738186
+DCM: 4.64034 -0.0726876
+DCM: 4.63807 -0.0710431
+DCM: 4.63475 -0.0686518
+DCM: 4.62993 -0.0651747
+DCM: 4.62293 -0.0601189
+DCM: 4.61274 -0.0527674
+DCM: 4.59793 -0.0420779
+DCM: 4.57639 -0.0265348
+DCM: 4.55151 -0.0085296
+DCM: 4.53251 0.00539272
+DCM: 4.52541 0.0109924
+DCM: 4.52643 0.011023
+DCM: 4.52793 0.0110674
+DCM: 4.5301 0.011132
+DCM: 4.53325 0.011226
+DCM: 4.53784 0.0113625
+DCM: 4.54452 0.0115611
+DCM: 4.55422 0.0118499
+DCM: 4.56833 0.0122698
+DCM: 4.58885 0.0128804
+DCM: 4.61868 0.0137682
+DCM: 4.65321 0.0147928
+DCM: 4.67979 0.0155714
+DCM: 4.69023 0.0158539
+DCM: 4.68977 0.0157946
+DCM: 4.68911 0.0157085
+DCM: 4.68816 0.0155832
+DCM: 4.68676 0.015401
+DCM: 4.68474 0.0151362
+DCM: 4.6818 0.014751
+DCM: 4.67752 0.014191
+DCM: 4.67129 0.0133767
+DCM: 4.66224 0.0121927
+DCM: 4.64908 0.0104711
+DCM: 4.63512 0.0086449
+DCM: 4.62451 0.00725583
+DCM: 4.61679 0.00624619
+DCM: 4.61153 0.0055583
+DCM: 4.60829 0.00513448
+DCM: 4.60663 0.00491705
+DCM: 4.6061 0.00484834
+DCM: 4.60628 0.00487067
+DCM: 4.6067 0.00492637
+Foot: right_foot
+Contact: right
+Activation time: 111349999997
+Deactivation time: 111449999997
+Pose:   4.69187 0.0110266         0
+Orientation:        0        0 0.751573 0.659649
+Contact: right
+Activation time: 113949999996
+Deactivation time: 114749999996
+Pose:  4.60355 0.101422        0
+Orientation:         0         0  0.997411 0.0719111
+Contact: right
+Activation time: 116549999996
+Deactivation time: 117349999996
+Pose:    4.52091 -0.0823139          0
+Orientation:         0         0  0.339148 -0.940733
+Contact: right
+Activation time: 119149999996
+Deactivation time: 119949999996
+Pose:   4.68718 0.0314506         0
+Orientation:        -0        -0  -0.81385 -0.581076
+Contact: right
+Activation time: 121749999996
+Deactivation time: 122549999996
+Pose:   4.48599 0.0209835         0
+Orientation:        -0        -0 -0.779638   0.62623
+Contact: right
+Activation time: 124349999996
+Deactivation time: 125149999996
+Pose:    4.66317 -0.0749131          0
+Orientation:        0        0 0.391876 0.920018
+Contact: right
+Activation time: 126949999996
+Deactivation time: 127749999996
+Pose:  4.56191 0.099255        0
+Orientation:         0         0  0.991738 -0.128278
+Contact: right
+Activation time: 129549999996
+Deactivation time: 130349999996
+Pose:   4.55759 -0.102163         0
+Orientation:         0         0  0.144894 -0.989447
+Contact: right
+Activation time: 132149999997
+Deactivation time: 132949999997
+Pose:   4.66622 0.0675009         0
+Orientation:        -0        -0 -0.913315 -0.407253
+Contact: right
+Activation time: 134749999997
+Deactivation time: 9223372036854775807
+Pose:   4.62343 0.0964159         0
+Orientation:        -0        -0 -0.985573 -0.169249
+Foot: left_foot
+Contact: left
+Activation time: 112649999997
+Deactivation time: 113449999997
+Pose:    4.52331 -0.0110266          0
+Orientation:        0        0 0.751573 0.659649
+Contact: left
+Activation time: 115249999996
+Deactivation time: 116049999996
+Pose:    4.64799 -0.0281467          0
+Orientation:         0         0  0.838427 -0.545014
+Contact: left
+Activation time: 117849999996
+Deactivation time: 118649999996
+Pose:   4.55049 0.0514322         0
+Orientation:        -0        -0 -0.297781 -0.954634
+Contact: left
+Activation time: 120449999996
+Deactivation time: 121249999996
+Pose:    4.59225 -0.0672934          0
+Orientation:        -0        -0 -0.999599 0.0283256
+Contact: left
+Activation time: 123049999996
+Deactivation time: 123849999996
+Pose:   4.61847 0.0557991         0
+Orientation:        -0        -0 -0.243244  0.969965
+Contact: left
+Activation time: 125649999996
+Deactivation time: 126449999996
+Pose:    4.53195 -0.0356012          0
+Orientation:        0        0 0.867945 0.496661
+Contact: left
+Activation time: 128249999996
+Deactivation time: 129049999996
+Pose:     4.65342 -0.00266828           0
+Orientation:         0         0  0.713012 -0.701151
+Contact: left
+Activation time: 130849999996
+Deactivation time: 131649999996
+Pose:   4.53258 0.0325136         0
+Orientation:        -0        -0 -0.482032 -0.876153
+Contact: left
+Activation time: 133449999997
+Deactivation time: 9223372036854775807
+Pose:    4.56671 -0.0638447          0
+Orientation:        -0        -0 -0.985573 -0.169249
+DCM: 4.61259 0
+DCM: 4.59584 -0.000974645
+DCM: 4.52337 -0.00507395
+DCM: 4.52369 -0.0046222
+DCM: 4.52416 -0.00396532
+DCM: 4.52484 -0.00301018
+DCM: 4.52583 -0.00162135
+DCM: 4.52726 0.000398076
+DCM: 4.52935 0.00333444
+DCM: 4.53239 0.00760407
+DCM: 4.53681 0.0138124
+DCM: 4.54324 0.0228396
+DCM: 4.55259 0.0359656
+DCM: 4.56618 0.0550516
+DCM: 4.58193 0.0771072
+DCM: 4.59418 0.0939669
+DCM: 4.59923 0.100313
+DCM: 4.59951 0.0994839
+DCM: 4.59993 0.0982784
+DCM: 4.60053 0.0965256
+DCM: 4.6014 0.0939769
+DCM: 4.60268 0.0902709
+DCM: 4.60453 0.0848823
+DCM: 4.60722 0.0770469
+DCM: 4.61113 0.0656538
+DCM: 4.61681 0.0490876
+DCM: 4.62508 0.0249994
+DCM: 4.63461 -0.00292131
+DCM: 4.64181 -0.0245711
+DCM: 4.64433 -0.0334143
+DCM: 4.64359 -0.0337313
+DCM: 4.64251 -0.0341922
+DCM: 4.64094 -0.0348624
+DCM: 4.63866 -0.0358369
+DCM: 4.63535 -0.0372538
+DCM: 4.63053 -0.0393141
+DCM: 4.62352 -0.0423099
+DCM: 4.61333 -0.046666
+DCM: 4.59852 -0.053
+DCM: 4.57697 -0.0622099
+DCM: 4.55203 -0.0728245
+DCM: 4.5328 -0.080836
+DCM: 4.52518 -0.0836194
+DCM: 4.52537 -0.0827635
+DCM: 4.52564 -0.081519
+DCM: 4.52604 -0.0797094
+DCM: 4.52662 -0.0770782
+DCM: 4.52747 -0.0732522
+DCM: 4.5287 -0.067689
+DCM: 4.53048 -0.0595998
+DCM: 4.53308 -0.0478377
+DCM: 4.53686 -0.030735
+DCM: 4.54235 -0.00586659
+DCM: 4.54877 0.022931
+DCM: 4.5539 0.0451613
+DCM: 4.55636 0.0540199
+DCM: 4.55716 0.0539041
+DCM: 4.55832 0.0537358
+DCM: 4.56001 0.053491
+DCM: 4.56246 0.0531351
+DCM: 4.56603 0.0526175
+DCM: 4.57121 0.0518649
+DCM: 4.57876 0.0507707
+DCM: 4.58972 0.0491795
+DCM: 4.60567 0.0468659
+DCM: 4.62886 0.0435018
+DCM: 4.65568 0.039566
+DCM: 4.67627 0.0363823
+DCM: 4.68422 0.0347877
+DCM: 4.68361 0.0341557
+DCM: 4.68273 0.0332367
+DCM: 4.68145 0.0319005
+DCM: 4.67958 0.0299575
+DCM: 4.67686 0.0271323
+DCM: 4.67292 0.0230242
+DCM: 4.66718 0.017051
+DCM: 4.65883 0.00836547
+DCM: 4.64669 -0.00426373
+DCM: 4.62905 -0.0226273
+DCM: 4.60857 -0.0438656
+DCM: 4.5926 -0.0601642
+DCM: 4.58589 -0.0664432
+DCM: 4.58527 -0.0659286
+DCM: 4.58436 -0.0651803
+DCM: 4.58305 -0.0640922
+DCM: 4.58114 -0.0625101
+DCM: 4.57837 -0.0602097
+DCM: 4.57433 -0.0568647
+DCM: 4.56847 -0.0520009
+DCM: 4.55993 -0.0449287
+DCM: 4.54753 -0.0346453
+DCM: 4.52949 -0.0196926
+DCM: 4.50865 -0.0023593
+DCM: 4.49274 0.0110869
+DCM: 4.48678 0.0165923
+DCM: 4.48763 0.0168153
+DCM: 4.48886 0.0171396
+DCM: 4.49065 0.017611
+DCM: 4.49326 0.0182966
+DCM: 4.49705 0.0192934
+DCM: 4.50256 0.0207429
+DCM: 4.51057 0.0228504
+DCM: 4.52222 0.0259149
+DCM: 4.53916 0.0303709
+DCM: 4.56378 0.0368502
+DCM: 4.59233 0.0443076
+DCM: 4.61445 0.0499
+DCM: 4.62345 0.0517599
+DCM: 4.62372 0.0509972
+DCM: 4.6241 0.0498882
+DCM: 4.62465 0.0482756
+DCM: 4.62545 0.0459308
+DCM: 4.62662 0.0425214
+DCM: 4.62832 0.0375639
+DCM: 4.6308 0.0303554
+DCM: 4.6344 0.0198738
+DCM: 4.63963 0.00463306
+DCM: 4.64723 -0.0175279
+DCM: 4.65599 -0.043181
+DCM: 4.66256 -0.0629507
+DCM: 4.66478 -0.0707542
+DCM: 4.66394 -0.0705029
+DCM: 4.66272 -0.0701374
+DCM: 4.66095 -0.069606
+DCM: 4.65836 -0.0688333
+DCM: 4.65461 -0.0677097
+DCM: 4.64915 -0.0660759
+DCM: 4.64122 -0.0637004
+DCM: 4.62968 -0.0602462
+DCM: 4.6129 -0.0552236
+DCM: 4.5885 -0.0479205
+DCM: 4.56025 -0.0394125
+DCM: 4.53845 -0.0326604
+DCM: 4.5298 -0.0295564
+DCM: 4.52997 -0.028769
+DCM: 4.53023 -0.0276241
+DCM: 4.5306 -0.0259594
+DCM: 4.53113 -0.0235388
+DCM: 4.53191 -0.0200192
+DCM: 4.53304 -0.0149014
+DCM: 4.53468 -0.00745991
+DCM: 4.53708 0.00336048
+DCM: 4.54055 0.0190939
+DCM: 4.54561 0.0419712
+DCM: 4.5515 0.0684292
+DCM: 4.55619 0.0887311
+DCM: 4.55836 0.0965467
+DCM: 4.55895 0.0958946
+DCM: 4.5598 0.0949465
+DCM: 4.56104 0.0935679
+DCM: 4.56284 0.0915632
+DCM: 4.56546 0.0886484
+DCM: 4.56926 0.0844101
+DCM: 4.5748 0.0782473
+DCM: 4.58285 0.0692863
+DCM: 4.59455 0.0562565
+DCM: 4.61157 0.0373104
+DCM: 4.63125 0.0153293
+DCM: 4.64634 -0.00178938
+DCM: 4.65211 -0.00894797
+DCM: 4.65155 -0.00952933
+DCM: 4.65073 -0.0103747
+DCM: 4.64955 -0.0116038
+DCM: 4.64783 -0.0133911
+DCM: 4.64534 -0.0159899
+DCM: 4.64171 -0.0197687
+DCM: 4.63642 -0.0252633
+DCM: 4.62874 -0.0332528
+DCM: 4.61758 -0.0448699
+DCM: 4.60134 -0.0617618
+DCM: 4.58253 -0.081274
+DCM: 4.56795 -0.0961608
+DCM: 4.56202 -0.101699
+DCM: 4.56186 -0.100837
+DCM: 4.56163 -0.0995841
+DCM: 4.56129 -0.0977621
+DCM: 4.5608 -0.0951128
+DCM: 4.56008 -0.0912606
+DCM: 4.55904 -0.0856593
+DCM: 4.55753 -0.0775146
+DCM: 4.55532 -0.0656719
+DCM: 4.55212 -0.0484518
+DCM: 4.54747 -0.0234129
+DCM: 4.54212 0.0056021
+DCM: 4.53817 0.0280725
+DCM: 4.53697 0.0371887
+DCM: 4.53775 0.0373938
+DCM: 4.53888 0.037692
+DCM: 4.54052 0.0381256
+DCM: 4.54291 0.0387562
+DCM: 4.54639 0.039673
+DCM: 4.55144 0.0410061
+DCM: 4.55879 0.0429445
+DCM: 4.56948 0.0457631
+DCM: 4.58501 0.0498614
+DCM: 4.6076 0.0558206
+DCM: 4.63373 0.0626726
+DCM: 4.65379 0.0677854
+DCM: 4.66152 0.0694269
+DCM: 4.6609 0.0686126
+DCM: 4.66001 0.0674285
+DCM: 4.6587 0.0657067
+DCM: 4.6568 0.0632032
+DCM: 4.65405 0.0595629
+DCM: 4.65003 0.0542698
+DCM: 4.6442 0.0465733
+DCM: 4.63572 0.0353821
+DCM: 4.62339 0.0191095
+DCM: 4.60545 -0.00455183
+DCM: 4.58469 -0.0319317
+DCM: 4.56868 -0.0529957
+DCM: 4.56233 -0.0612283
+DCM: 4.56249 -0.0607977
+DCM: 4.56271 -0.0601716
+DCM: 4.56303 -0.0592612
+DCM: 4.5635 -0.0579374
+DCM: 4.56418 -0.0560126
+DCM: 4.56517 -0.0532138
+DCM: 4.56661 -0.0491442
+DCM: 4.5687 -0.0432268
+DCM: 4.57175 -0.0346225
+DCM: 4.57618 -0.0221115
+DCM: 4.58087 -0.00884072
+DCM: 4.58445 0.00125359
+DCM: 4.58704 0.00859063
+DCM: 4.58881 0.0135895
+DCM: 4.5899 0.0166694
+DCM: 4.59046 0.0182495
+DCM: 4.59064 0.0187488
+DCM: 4.59058 0.0185865
+DCM: 4.59044 0.0181817
+Foot: right_foot
+Contact: right
+Activation time: 134749999997
+Deactivation time: 135549999997
+Pose:   4.62343 0.0964159         0
+Orientation:        0        0 0.985573 0.169249
+Contact: right
+Activation time: 137349999997
+Deactivation time: 138149999997
+Pose:    4.50698 -0.0682114          0
+Orientation:         0         0  0.426721 -0.904383
+Contact: right
+Activation time: 139949999997
+Deactivation time: 140749999997
+Pose:   4.69163 0.0128284         0
+Orientation:        -0        -0 -0.757278 -0.653092
+Contact: right
+Activation time: 142549999997
+Deactivation time: 143349999997
+Pose:   4.49163 0.0385715         0
+Orientation:        -0        -0 -0.831863   0.55498
+Contact: right
+Activation time: 145149999997
+Deactivation time: 145949999997
+Pose:    4.64973 -0.0865862          0
+Orientation:        0        0 0.312233 0.950005
+Contact: right
+Activation time: 147749999997
+Deactivation time: 148549999997
+Pose:  4.57878 0.102163        0
+Orientation:          0          0   0.998908 -0.0467298
+Contact: right
+Activation time: 150349999997
+Deactivation time: 151149999997
+Pose:    4.54228 -0.0961535          0
+Orientation:         0         0   0.22218 -0.975006
+Contact: right
+Activation time: 152949999997
+Deactivation time: 153749999997
+Pose:   4.67579 0.0549679         0
+Orientation:        -0        -0 -0.880042 -0.474896
+Contact: right
+Activation time: 155549999997
+Deactivation time: 9223372036854775807
+Pose:   4.51259 0.0704172         0
+Orientation:        -0        -0 -0.919042   0.39416
+Foot: left_foot
+Contact: left
+Activation time: 133449999996
+Deactivation time: 133549999996
+Pose:    4.56671 -0.0638447          0
+Orientation:        0        0 0.985573 0.169249
+Contact: left
+Activation time: 136049999997
+Deactivation time: 136849999997
+Pose:    4.64188 -0.0391541          0
+Orientation:         0         0  0.887026 -0.461719
+Contact: left
+Activation time: 138649999997
+Deactivation time: 139449999997
+Pose:  4.56106 0.057469        0
+Orientation:        -0        -0 -0.207615 -0.978211
+Contact: left
+Activation time: 141249999997
+Deactivation time: 142049999997
+Pose:     4.5805 -0.0669896          0
+Orientation:         -0         -0    -0.9981 -0.0616215
+Contact: left
+Activation time: 143849999997
+Deactivation time: 144649999997
+Pose:     4.628 0.0496817         0
+Orientation:        -0        -0 -0.326366  0.945243
+Contact: left
+Activation time: 146449999997
+Deactivation time: 147249999997
+Pose:    4.52716 -0.0258084          0
+Orientation:        0        0 0.823494 0.567324
+Contact: left
+Activation time: 149049999997
+Deactivation time: 149849999997
+Pose:    4.65248 -0.0131065          0
+Orientation:         0         0  0.766934 -0.641726
+Contact: left
+Activation time: 151649999997
+Deactivation time: 152449999997
+Pose:   4.53854 0.0406154         0
+Orientation:        -0        -0 -0.413187 -0.910646
+Contact: left
+Activation time: 154249999997
+Deactivation time: 155049999997
+Pose:    4.60848 -0.0641539          0
+Orientation:        -0        -0 -0.987988  0.154532
+Contact: left
+Activation time: 156849999997
+Deactivation time: 9223372036854775807
+Pose:    4.63575 -0.0467596          0
+Orientation:        -0        -0 -0.919042   0.39416
+DCM: 4.60007 0.0162856
+DCM: 4.60359 0.0314072
+DCM: 4.61889 0.0967699
+DCM: 4.61897 0.0961732
+DCM: 4.61909 0.0953055
+DCM: 4.61926 0.094044
+DCM: 4.61951 0.0922096
+DCM: 4.61988 0.0895423
+DCM: 4.62041 0.0856638
+DCM: 4.62118 0.0800244
+DCM: 4.62229 0.0718244
+DCM: 4.62392 0.059901
+DCM: 4.62629 0.0425639
+DCM: 4.62972 0.0173546
+DCM: 4.63366 -0.0118555
+DCM: 4.63652 -0.034469
+DCM: 4.63728 -0.0436251
+DCM: 4.63649 -0.0437956
+DCM: 4.63534 -0.0440434
+DCM: 4.63368 -0.0444038
+DCM: 4.63126 -0.0449279
+DCM: 4.62774 -0.0456899
+DCM: 4.62263 -0.0467979
+DCM: 4.61519 -0.048409
+DCM: 4.60437 -0.0507516
+DCM: 4.58864 -0.0541579
+DCM: 4.56577 -0.0591109
+DCM: 4.5393 -0.0647978
+DCM: 4.51892 -0.0690125
+DCM: 4.51092 -0.0702988
+DCM: 4.51127 -0.0694944
+DCM: 4.51177 -0.0683246
+DCM: 4.5125 -0.0666237
+DCM: 4.51357 -0.0641506
+DCM: 4.51511 -0.0605545
+DCM: 4.51736 -0.0553256
+DCM: 4.52063 -0.0477224
+DCM: 4.52538 -0.036667
+DCM: 4.53229 -0.0205918
+DCM: 4.54234 0.00278236
+DCM: 4.55403 0.0298403
+DCM: 4.56323 0.0506939
+DCM: 4.5673 0.0589279
+DCM: 4.56807 0.0586682
+DCM: 4.56918 0.0582906
+DCM: 4.57079 0.0577416
+DCM: 4.57313 0.0569432
+DCM: 4.57654 0.0557823
+DCM: 4.58149 0.0540943
+DCM: 4.5887 0.0516399
+DCM: 4.59918 0.0480711
+DCM: 4.61441 0.0428818
+DCM: 4.63656 0.0353362
+DCM: 4.66217 0.0265646
+DCM: 4.68181 0.0196707
+DCM: 4.68933 0.0166486
+DCM: 4.68862 0.0161376
+DCM: 4.68758 0.0153945
+DCM: 4.68608 0.014314
+DCM: 4.68389 0.0127429
+DCM: 4.68071 0.0104584
+DCM: 4.67609 0.00713658
+DCM: 4.66937 0.00230652
+DCM: 4.6596 -0.00471666
+DCM: 4.64539 -0.0149287
+DCM: 4.62473 -0.0297777
+DCM: 4.60077 -0.0469388
+DCM: 4.58213 -0.0600638
+DCM: 4.5744 -0.065019
+DCM: 4.57388 -0.0644035
+DCM: 4.57312 -0.0635085
+DCM: 4.57202 -0.0622071
+DCM: 4.57043 -0.0603148
+DCM: 4.56811 -0.0575633
+DCM: 4.56473 -0.0535625
+DCM: 4.55982 -0.0477451
+DCM: 4.55268 -0.0392862
+DCM: 4.5423 -0.0269866
+DCM: 4.52721 -0.00910228
+DCM: 4.50979 0.0116174
+DCM: 4.49652 0.0276467
+DCM: 4.49163 0.034112
+DCM: 4.49251 0.0341834
+DCM: 4.49377 0.0342872
+DCM: 4.49562 0.034438
+DCM: 4.4983 0.0346574
+DCM: 4.5022 0.0349765
+DCM: 4.50788 0.0354403
+DCM: 4.51612 0.0361148
+DCM: 4.52812 0.0370956
+DCM: 4.54556 0.0385217
+DCM: 4.57092 0.0405953
+DCM: 4.6003 0.0429477
+DCM: 4.62303 0.0445873
+DCM: 4.63221 0.0448454
+DCM: 4.63234 0.0440503
+DCM: 4.63253 0.042894
+DCM: 4.6328 0.0412128
+DCM: 4.63319 0.0387682
+DCM: 4.63376 0.0352137
+DCM: 4.63459 0.0300451
+DCM: 4.6358 0.0225298
+DCM: 4.63756 0.0116021
+DCM: 4.64011 -0.00428743
+DCM: 4.64382 -0.0273917
+DCM: 4.64807 -0.0541289
+DCM: 4.65118 -0.0747056
+DCM: 4.65203 -0.0827638
+DCM: 4.65125 -0.082375
+DCM: 4.65011 -0.0818098
+DCM: 4.64845 -0.0809879
+DCM: 4.64604 -0.0797927
+DCM: 4.64253 -0.078055
+DCM: 4.63743 -0.0755282
+DCM: 4.63001 -0.071854
+DCM: 4.61923 -0.0665117
+DCM: 4.60355 -0.0587435
+DCM: 4.58075 -0.0474483
+DCM: 4.55436 -0.0343187
+DCM: 4.53404 -0.0240037
+DCM: 4.52604 -0.0194908
+DCM: 4.52634 -0.0187436
+DCM: 4.52677 -0.0176571
+DCM: 4.52741 -0.0160772
+DCM: 4.52833 -0.01378
+DCM: 4.52967 -0.0104398
+DCM: 4.53163 -0.00558289
+DCM: 4.53447 0.00147931
+DCM: 4.5386 0.0117481
+DCM: 4.5446 0.0266796
+DCM: 4.55333 0.0483908
+DCM: 4.56347 0.0734927
+DCM: 4.57141 0.0927274
+DCM: 4.57484 0.100072
+DCM: 4.57531 0.0993344
+DCM: 4.576 0.0982619
+DCM: 4.57699 0.0967024
+DCM: 4.57844 0.0944348
+DCM: 4.58055 0.0911377
+DCM: 4.58362 0.0863434
+DCM: 4.58808 0.0793723
+DCM: 4.59457 0.0692359
+DCM: 4.604 0.054497
+DCM: 4.61771 0.0330658
+DCM: 4.63355 0.00821218
+DCM: 4.64565 -0.011105
+DCM: 4.65018 -0.0190972
+DCM: 4.64954 -0.0195826
+DCM: 4.64861 -0.0202884
+DCM: 4.64725 -0.0213147
+DCM: 4.64527 -0.022807
+DCM: 4.6424 -0.0249769
+DCM: 4.63822 -0.028132
+DCM: 4.63215 -0.0327197
+DCM: 4.62332 -0.0393905
+DCM: 4.61048 -0.0490902
+DCM: 4.5918 -0.0631941
+DCM: 4.57017 -0.0794761
+DCM: 4.55345 -0.0918633
+DCM: 4.54673 -0.096392
+DCM: 4.54671 -0.0955167
+DCM: 4.54667 -0.0942439
+DCM: 4.54662 -0.0923933
+DCM: 4.54655 -0.0897023
+DCM: 4.54644 -0.0857894
+DCM: 4.54628 -0.0800999
+DCM: 4.54605 -0.0718271
+DCM: 4.54572 -0.0597979
+DCM: 4.54524 -0.0423068
+DCM: 4.54454 -0.0168739
+DCM: 4.54377 0.0125901
+DCM: 4.54336 0.0353806
+DCM: 4.5436 0.0445645
+DCM: 4.5444 0.0446492
+DCM: 4.54557 0.0447724
+DCM: 4.54726 0.0449514
+DCM: 4.54972 0.0452118
+DCM: 4.5533 0.0455903
+DCM: 4.55851 0.0461408
+DCM: 4.56608 0.0469411
+DCM: 4.57708 0.0481049
+DCM: 4.59309 0.0497971
+DCM: 4.61636 0.0522577
+DCM: 4.64329 0.0550606
+DCM: 4.664 0.0570565
+DCM: 4.67209 0.0574757
+DCM: 4.67167 0.0567168
+DCM: 4.67104 0.0556134
+DCM: 4.67013 0.0540088
+DCM: 4.66881 0.0516757
+DCM: 4.66689 0.0482833
+DCM: 4.6641 0.0433505
+DCM: 4.66005 0.036178
+DCM: 4.65415 0.0257488
+DCM: 4.64557 0.0105841
+DCM: 4.63309 -0.0114663
+DCM: 4.61861 -0.0369566
+DCM: 4.60728 -0.0564753
+DCM: 4.60245 -0.0638976
+DCM: 4.60187 -0.063088
+DCM: 4.60103 -0.0619109
+DCM: 4.59981 -0.0601992
+DCM: 4.59804 -0.0577103
+DCM: 4.59546 -0.0540913
+DCM: 4.59171 -0.048829
+DCM: 4.58625 -0.0411775
+DCM: 4.57832 -0.0300517
+DCM: 4.56679 -0.0138741
+DCM: 4.55001 0.00964888
+DCM: 4.53061 0.0368758
+DCM: 4.51569 0.0578476
+DCM: 4.50987 0.0661013
+DCM: 4.5102 0.0657865
+DCM: 4.51068 0.0653287
+DCM: 4.51138 0.0646631
+DCM: 4.5124 0.0636952
+DCM: 4.51388 0.0622878
+DCM: 4.51603 0.0602414
+DCM: 4.51915 0.0572659
+DCM: 4.5237 0.0529393
+DCM: 4.53032 0.0466482
+DCM: 4.53993 0.0375005
+DCM: 4.55013 0.0277974
+DCM: 4.55789 0.0204168
+DCM: 4.56353 0.0150523
+DCM: 4.56737 0.0113972
+DCM: 4.56973 0.00914533
+DCM: 4.57095 0.00799007
+DCM: 4.57133 0.00762499
+DCM: 4.57121 0.00774365
+DCM: 4.5709 0.00803958
+Foot: right_foot
+Contact: right
+Activation time: 156849999997
+Deactivation time: 9223372036854775807
+Pose:   4.51259 0.0704172         0
+Orientation:        -0        -0 -0.919042   0.39416
+Foot: left_foot
+Contact: left
+Activation time: 156849999997
+Deactivation time: 9223372036854775807
+Pose:    4.63575 -0.0467596          0
+Orientation:        -0        -0 -0.919042   0.39416
+DCM: 4.57917 0.0118288
+DCM: 4.57893 0.0117274
+DCM: 4.57829 0.0114521
+DCM: 4.57734 0.0110464
+DCM: 4.57619 0.0105537
+DCM: 4.57494 0.0100176
+DCM: 4.57369 0.00948145
+DCM: 4.57255 0.00898879
+DCM: 4.5716 0.00858307
+DCM: 4.57096 0.00830776
+Foot: right_foot
+Contact: right
+Activation time: 156849999997
+Deactivation time: 9223372036854775807
+Pose:   4.51259 0.0704172         0
+Orientation:        -0        -0 -0.919042   0.39416
+Foot: left_foot
+Contact: left
+Activation time: 156849999997
+Deactivation time: 9223372036854775807
+Pose:    4.63575 -0.0467596          0
+Orientation:        -0        -0 -0.919042   0.39416
+DCM: 4.57917 0.0118288
+DCM: 4.57893 0.0117274
+DCM: 4.57829 0.0114521
+DCM: 4.57734 0.0110464
+DCM: 4.57619 0.0105537
+DCM: 4.57494 0.0100176
+DCM: 4.57369 0.00948145
+DCM: 4.57255 0.00898879
+DCM: 4.5716 0.00858307
+DCM: 4.57096 0.00830776
+Foot: right_foot
+Contact: right
+Activation time: 156849999997
+Deactivation time: 9223372036854775807
+Pose:   4.51259 0.0704172         0
+Orientation:        -0        -0 -0.919042   0.39416
+Foot: left_foot
+Contact: left
+Activation time: 156849999997
+Deactivation time: 9223372036854775807
+Pose:    4.63575 -0.0467596          0
+Orientation:        -0        -0 -0.919042   0.39416
+DCM: 4.57917 0.0118288
+DCM: 4.57893 0.0117274
+DCM: 4.57829 0.0114521
+DCM: 4.57734 0.0110464
+DCM: 4.57619 0.0105537
+DCM: 4.57494 0.0100176
+DCM: 4.57369 0.00948145
+DCM: 4.57255 0.00898879
+DCM: 4.5716 0.00858307
+DCM: 4.57096 0.00830776
+Foot: right_foot
+Contact: right
+Activation time: 156849999997
+Deactivation time: 9223372036854775807
+Pose:   4.51259 0.0704172         0
+Orientation:        -0        -0 -0.919042   0.39416
+Foot: left_foot
+Contact: left
+Activation time: 156849999997
+Deactivation time: 9223372036854775807
+Pose:    4.63575 -0.0467596          0
+Orientation:        -0        -0 -0.919042   0.39416
+DCM: 4.57917 0.0118288
+DCM: 4.57893 0.0117274
+DCM: 4.57829 0.0114521
+DCM: 4.57734 0.0110464
+DCM: 4.57619 0.0105537
+DCM: 4.57494 0.0100176
+DCM: 4.57369 0.00948145
+DCM: 4.57255 0.00898879
+DCM: 4.5716 0.00858307
+DCM: 4.57096 0.00830776
+Foot: right_foot
+Contact: right
+Activation time: 156849999997
+Deactivation time: 9223372036854775807
+Pose:   4.51259 0.0704172         0
+Orientation:        -0        -0 -0.919042   0.39416
+Foot: left_foot
+Contact: left
+Activation time: 156849999997
+Deactivation time: 9223372036854775807
+Pose:    4.63575 -0.0467596          0
+Orientation:        -0        -0 -0.919042   0.39416
+DCM: 4.57917 0.0118288
+DCM: 4.57893 0.0117274
+DCM: 4.57829 0.0114521
+DCM: 4.57734 0.0110464
+DCM: 4.57619 0.0105537
+DCM: 4.57494 0.0100176
+DCM: 4.57369 0.00948145
+DCM: 4.57255 0.00898879
+DCM: 4.5716 0.00858307
+DCM: 4.57096 0.00830776
+Foot: right_foot
+Contact: right
+Activation time: 156849999997
+Deactivation time: 9223372036854775807
+Pose:   4.51259 0.0704172         0
+Orientation:        -0        -0 -0.919042   0.39416
+Foot: left_foot
+Contact: left
+Activation time: 156849999997
+Deactivation time: 9223372036854775807
+Pose:    4.63575 -0.0467596          0
+Orientation:        -0        -0 -0.919042   0.39416
+DCM: 4.57917 0.0118288
+DCM: 4.57893 0.0117274
+DCM: 4.57829 0.0114521
+DCM: 4.57734 0.0110464
+DCM: 4.57619 0.0105537
+DCM: 4.57494 0.0100176
+DCM: 4.57369 0.00948145
+DCM: 4.57255 0.00898879
+DCM: 4.5716 0.00858307
+DCM: 4.57096 0.00830776
+Foot: right_foot
+Contact: right
+Activation time: 156849999997
+Deactivation time: 9223372036854775807
+Pose:   4.51259 0.0704172         0
+Orientation:        -0        -0 -0.919042   0.39416
+Foot: left_foot
+Contact: left
+Activation time: 156849999997
+Deactivation time: 9223372036854775807
+Pose:    4.63575 -0.0467596          0
+Orientation:        -0        -0 -0.919042   0.39416
+DCM: 4.57917 0.0118288
+DCM: 4.57893 0.0117274
+DCM: 4.57829 0.0114521
+DCM: 4.57734 0.0110464
+DCM: 4.57619 0.0105537
+DCM: 4.57494 0.0100176
+DCM: 4.57369 0.00948145
+DCM: 4.57255 0.00898879
+DCM: 4.5716 0.00858307
+DCM: 4.57096 0.00830776
+Foot: right_foot
+Contact: right
+Activation time: 156849999997
+Deactivation time: 9223372036854775807
+Pose:   4.51259 0.0704172         0
+Orientation:        -0        -0 -0.919042   0.39416
+Foot: left_foot
+Contact: left
+Activation time: 156849999997
+Deactivation time: 9223372036854775807
+Pose:    4.63575 -0.0467596          0
+Orientation:        -0        -0 -0.919042   0.39416
+DCM: 4.57917 0.0118288
+DCM: 4.57893 0.0117274
+DCM: 4.57829 0.0114521
+DCM: 4.57734 0.0110464
+DCM: 4.57619 0.0105537
+DCM: 4.57494 0.0100176
+DCM: 4.57369 0.00948145
+DCM: 4.57255 0.00898879
+DCM: 4.5716 0.00858307
+DCM: 4.57096 0.00830776
+Foot: right_foot
+Contact: right
+Activation time: 156849999997
+Deactivation time: 9223372036854775807
+Pose:   4.51259 0.0704172         0
+Orientation:        -0        -0 -0.919042   0.39416
+Foot: left_foot
+Contact: left
+Activation time: 156849999997
+Deactivation time: 9223372036854775807
+Pose:    4.63575 -0.0467596          0
+Orientation:        -0        -0 -0.919042   0.39416
+DCM: 4.57917 0.0118288
+DCM: 4.57893 0.0117274
+DCM: 4.57829 0.0114521
+DCM: 4.57734 0.0110464
+DCM: 4.57619 0.0105537
+DCM: 4.57494 0.0100176
+DCM: 4.57369 0.00948145
+DCM: 4.57255 0.00898879
+DCM: 4.5716 0.00858307
+DCM: 4.57096 0.00830776
+Foot: right_foot
+Contact: right
+Activation time: 156849999997
+Deactivation time: 9223372036854775807
+Pose:   4.51259 0.0704172         0
+Orientation:        -0        -0 -0.919042   0.39416
+Foot: left_foot
+Contact: left
+Activation time: 156849999997
+Deactivation time: 9223372036854775807
+Pose:    4.63575 -0.0467596          0
+Orientation:        -0        -0 -0.919042   0.39416
+DCM: 4.57917 0.0118288
+DCM: 4.57893 0.0117274
+DCM: 4.57829 0.0114521
+DCM: 4.57734 0.0110464
+DCM: 4.57619 0.0105537
+DCM: 4.57494 0.0100176
+DCM: 4.57369 0.00948145
+DCM: 4.57255 0.00898879
+DCM: 4.5716 0.00858307
+DCM: 4.57096 0.00830776
+Foot: right_foot
+Contact: right
+Activation time: 156849999997
+Deactivation time: 9223372036854775807
+Pose:   4.51259 0.0704172         0
+Orientation:        -0        -0 -0.919042   0.39416
+Foot: left_foot
+Contact: left
+Activation time: 156849999997
+Deactivation time: 9223372036854775807
+Pose:    4.63575 -0.0467596          0
+Orientation:        -0        -0 -0.919042   0.39416
+DCM: 4.57917 0.0118288
+DCM: 4.57893 0.0117274
+DCM: 4.57829 0.0114521
+DCM: 4.57734 0.0110464
+DCM: 4.57619 0.0105537
+DCM: 4.57494 0.0100176
+DCM: 4.57369 0.00948145
+DCM: 4.57255 0.00898879
+DCM: 4.5716 0.00858307
+DCM: 4.57096 0.00830776
+Foot: right_foot
+Contact: right
+Activation time: 156849999997
+Deactivation time: 9223372036854775807
+Pose:   4.51259 0.0704172         0
+Orientation:        -0        -0 -0.919042   0.39416
+Foot: left_foot
+Contact: left
+Activation time: 156849999997
+Deactivation time: 9223372036854775807
+Pose:    4.63575 -0.0467596          0
+Orientation:        -0        -0 -0.919042   0.39416
+DCM: 4.57917 0.0118288
+DCM: 4.57893 0.0117274
+DCM: 4.57829 0.0114521
+DCM: 4.57734 0.0110464
+DCM: 4.57619 0.0105537
+DCM: 4.57494 0.0100176
+DCM: 4.57369 0.00948145
+DCM: 4.57255 0.00898879
+DCM: 4.5716 0.00858307
+DCM: 4.57096 0.00830776
+Foot: right_foot
+Contact: right
+Activation time: 156849999997
+Deactivation time: 9223372036854775807
+Pose:   4.51259 0.0704172         0
+Orientation:        -0        -0 -0.919042   0.39416
+Foot: left_foot
+Contact: left
+Activation time: 156849999997
+Deactivation time: 9223372036854775807
+Pose:    4.63575 -0.0467596          0
+Orientation:        -0        -0 -0.919042   0.39416
+DCM: 4.57917 0.0118288
+DCM: 4.57893 0.0117274
+DCM: 4.57829 0.0114521
+DCM: 4.57734 0.0110464
+DCM: 4.57619 0.0105537
+DCM: 4.57494 0.0100176
+DCM: 4.57369 0.00948145
+DCM: 4.57255 0.00898879
+DCM: 4.5716 0.00858307
+DCM: 4.57096 0.00830776
+Foot: right_foot
+Contact: right
+Activation time: 156849999997
+Deactivation time: 9223372036854775807
+Pose:   4.51259 0.0704172         0
+Orientation:        -0        -0 -0.919042   0.39416
+Foot: left_foot
+Contact: left
+Activation time: 156849999997
+Deactivation time: 9223372036854775807
+Pose:    4.63575 -0.0467596          0
+Orientation:        -0        -0 -0.919042   0.39416
+DCM: 4.57917 0.0118288
+DCM: 4.57893 0.0117274
+DCM: 4.57829 0.0114521
+DCM: 4.57734 0.0110464
+DCM: 4.57619 0.0105537
+DCM: 4.57494 0.0100176
+DCM: 4.57369 0.00948145
+DCM: 4.57255 0.00898879
+DCM: 4.5716 0.00858307
+DCM: 4.57096 0.00830776
+Foot: right_foot
+Contact: right
+Activation time: 156849999997
+Deactivation time: 9223372036854775807
+Pose:   4.51259 0.0704172         0
+Orientation:        -0        -0 -0.919042   0.39416
+Foot: left_foot
+Contact: left
+Activation time: 156849999997
+Deactivation time: 9223372036854775807
+Pose:    4.63575 -0.0467596          0
+Orientation:        -0        -0 -0.919042   0.39416
+DCM: 4.57917 0.0118288
+DCM: 4.57893 0.0117274
+DCM: 4.57829 0.0114521
+DCM: 4.57734 0.0110464
+DCM: 4.57619 0.0105537
+DCM: 4.57494 0.0100176
+DCM: 4.57369 0.00948145
+DCM: 4.57255 0.00898879
+DCM: 4.5716 0.00858307
+DCM: 4.57096 0.00830776
+Foot: right_foot
+Contact: right
+Activation time: 156849999997
+Deactivation time: 9223372036854775807
+Pose:   4.51259 0.0704172         0
+Orientation:        -0        -0 -0.919042   0.39416
+Foot: left_foot
+Contact: left
+Activation time: 156849999997
+Deactivation time: 9223372036854775807
+Pose:    4.63575 -0.0467596          0
+Orientation:        -0        -0 -0.919042   0.39416
+DCM: 4.57917 0.0118288
+DCM: 4.57893 0.0117274
+DCM: 4.57829 0.0114521
+DCM: 4.57734 0.0110464
+DCM: 4.57619 0.0105537
+DCM: 4.57494 0.0100176
+DCM: 4.57369 0.00948145
+DCM: 4.57255 0.00898879
+DCM: 4.5716 0.00858307
+DCM: 4.57096 0.00830776
+Foot: right_foot
+Contact: right
+Activation time: 156849999997
+Deactivation time: 9223372036854775807
+Pose:   4.51259 0.0704172         0
+Orientation:        -0        -0 -0.919042   0.39416
+Foot: left_foot
+Contact: left
+Activation time: 156849999997
+Deactivation time: 9223372036854775807
+Pose:    4.63575 -0.0467596          0
+Orientation:        -0        -0 -0.919042   0.39416
+DCM: 4.57917 0.0118288
+DCM: 4.57893 0.0117274
+DCM: 4.57829 0.0114521
+DCM: 4.57734 0.0110464
+DCM: 4.57619 0.0105537
+DCM: 4.57494 0.0100176
+DCM: 4.57369 0.00948145
+DCM: 4.57255 0.00898879
+DCM: 4.5716 0.00858307
+DCM: 4.57096 0.00830776
+Foot: right_foot
+Contact: right
+Activation time: 156849999997
+Deactivation time: 9223372036854775807
+Pose:   4.51259 0.0704172         0
+Orientation:        -0        -0 -0.919042   0.39416
+Foot: left_foot
+Contact: left
+Activation time: 156849999997
+Deactivation time: 9223372036854775807
+Pose:    4.63575 -0.0467596          0
+Orientation:        -0        -0 -0.919042   0.39416
+DCM: 4.57917 0.0118288
+DCM: 4.57893 0.0117274
+DCM: 4.57829 0.0114521
+DCM: 4.57734 0.0110464
+DCM: 4.57619 0.0105537
+DCM: 4.57494 0.0100176
+DCM: 4.57369 0.00948145
+DCM: 4.57255 0.00898879
+DCM: 4.5716 0.00858307
+DCM: 4.57096 0.00830776
+Foot: right_foot
+Contact: right
+Activation time: 156849999997
+Deactivation time: 9223372036854775807
+Pose:   4.51259 0.0704172         0
+Orientation:        -0        -0 -0.919042   0.39416
+Foot: left_foot
+Contact: left
+Activation time: 156849999997
+Deactivation time: 9223372036854775807
+Pose:    4.63575 -0.0467596          0
+Orientation:        -0        -0 -0.919042   0.39416
+DCM: 4.57917 0.0118288
+DCM: 4.57893 0.0117274
+DCM: 4.57829 0.0114521
+DCM: 4.57734 0.0110464
+DCM: 4.57619 0.0105537
+DCM: 4.57494 0.0100176
+DCM: 4.57369 0.00948145
+DCM: 4.57255 0.00898879
+DCM: 4.5716 0.00858307
+DCM: 4.57096 0.00830776
+Foot: right_foot
+Contact: right
+Activation time: 156849999997
+Deactivation time: 9223372036854775807
+Pose:   4.51259 0.0704172         0
+Orientation:        -0        -0 -0.919042   0.39416
+Foot: left_foot
+Contact: left
+Activation time: 156849999997
+Deactivation time: 9223372036854775807
+Pose:    4.63575 -0.0467596          0
+Orientation:        -0        -0 -0.919042   0.39416
+DCM: 4.57917 0.0118288
+DCM: 4.57893 0.0117274
+DCM: 4.57829 0.0114521
+DCM: 4.57734 0.0110464
+DCM: 4.57619 0.0105537
+DCM: 4.57494 0.0100176
+DCM: 4.57369 0.00948145
+DCM: 4.57255 0.00898879
+DCM: 4.5716 0.00858307
+DCM: 4.57096 0.00830776
+Foot: right_foot
+Contact: right
+Activation time: 156849999997
+Deactivation time: 9223372036854775807
+Pose:   4.51259 0.0704172         0
+Orientation:        -0        -0 -0.919042   0.39416
+Foot: left_foot
+Contact: left
+Activation time: 156849999997
+Deactivation time: 9223372036854775807
+Pose:    4.63575 -0.0467596          0
+Orientation:        -0        -0 -0.919042   0.39416
+DCM: 4.57917 0.0118288
+DCM: 4.57893 0.0117274
+DCM: 4.57829 0.0114521
+DCM: 4.57734 0.0110464
+DCM: 4.57619 0.0105537
+DCM: 4.57494 0.0100176
+DCM: 4.57369 0.00948145
+DCM: 4.57255 0.00898879
+DCM: 4.5716 0.00858307
+DCM: 4.57096 0.00830776
+Foot: right_foot
+Contact: right
+Activation time: 156849999997
+Deactivation time: 9223372036854775807
+Pose:   4.51259 0.0704172         0
+Orientation:        -0        -0 -0.919042   0.39416
+Foot: left_foot
+Contact: left
+Activation time: 156849999997
+Deactivation time: 9223372036854775807
+Pose:    4.63575 -0.0467596          0
+Orientation:        -0        -0 -0.919042   0.39416
+DCM: 4.57917 0.0118288
+DCM: 4.57893 0.0117274
+DCM: 4.57829 0.0114521
+DCM: 4.57734 0.0110464
+DCM: 4.57619 0.0105537
+DCM: 4.57494 0.0100176
+DCM: 4.57369 0.00948145
+DCM: 4.57255 0.00898879
+DCM: 4.5716 0.00858307
+DCM: 4.57096 0.00830776
+Foot: right_foot
+Contact: right
+Activation time: 156849999997
+Deactivation time: 9223372036854775807
+Pose:   4.51259 0.0704172         0
+Orientation:        -0        -0 -0.919042   0.39416
+Foot: left_foot
+Contact: left
+Activation time: 156849999997
+Deactivation time: 9223372036854775807
+Pose:    4.63575 -0.0467596          0
+Orientation:        -0        -0 -0.919042   0.39416
+DCM: 4.57917 0.0118288
+DCM: 4.57893 0.0117274
+DCM: 4.57829 0.0114521
+DCM: 4.57734 0.0110464
+DCM: 4.57619 0.0105537
+DCM: 4.57494 0.0100176
+DCM: 4.57369 0.00948145
+DCM: 4.57255 0.00898879
+DCM: 4.5716 0.00858307
+DCM: 4.57096 0.00830776
+Foot: right_foot
+Contact: right
+Activation time: 156849999997
+Deactivation time: 9223372036854775807
+Pose:   4.51259 0.0704172         0
+Orientation:        -0        -0 -0.919042   0.39416
+Foot: left_foot
+Contact: left
+Activation time: 156849999997
+Deactivation time: 9223372036854775807
+Pose:    4.63575 -0.0467596          0
+Orientation:        -0        -0 -0.919042   0.39416
+DCM: 4.57917 0.0118288
+DCM: 4.57893 0.0117274
+DCM: 4.57829 0.0114521
+DCM: 4.57734 0.0110464
+DCM: 4.57619 0.0105537
+DCM: 4.57494 0.0100176
+DCM: 4.57369 0.00948145
+DCM: 4.57255 0.00898879
+DCM: 4.5716 0.00858307
+DCM: 4.57096 0.00830776
+Foot: right_foot
+Contact: right
+Activation time: 156849999997
+Deactivation time: 9223372036854775807
+Pose:   4.51259 0.0704172         0
+Orientation:        -0        -0 -0.919042   0.39416
+Foot: left_foot
+Contact: left
+Activation time: 156849999997
+Deactivation time: 9223372036854775807
+Pose:    4.63575 -0.0467596          0
+Orientation:        -0        -0 -0.919042   0.39416
+DCM: 4.57917 0.0118288
+DCM: 4.57893 0.0117274
+DCM: 4.57829 0.0114521
+DCM: 4.57734 0.0110464
+DCM: 4.57619 0.0105537
+DCM: 4.57494 0.0100176
+DCM: 4.57369 0.00948145
+DCM: 4.57255 0.00898879
+DCM: 4.5716 0.00858307
+DCM: 4.57096 0.00830776

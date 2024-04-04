@@ -20,7 +20,7 @@
 #include <BipedalLocomotion/System/YarpClock.h>
 #include <BipedalLocomotion/TextLogging/Logger.h>
 
-#include <ContactsListProvider/ContactsListProvider.h>
+#include <SimplePlanner/SimplePlanner.h>
 
 int main(int argc, char* argv[])
 {
@@ -45,7 +45,7 @@ int main(int argc, char* argv[])
     handler->set(rf);
 
     // create the contact list provider
-    auto contactListProvider = std::make_unique<StableCentroidalMPCWalking::ContactsListProvider>();
+    auto contactListProvider = std::make_unique<StableCentroidalMPCWalking::SimplePlanner>();
     if (!contactListProvider->initialize(handler))
     {
         BipedalLocomotion::log()->error("{} Unable to initialize the contact list provider.",
@@ -54,12 +54,12 @@ int main(int argc, char* argv[])
     }
 
     auto input0 = BipedalLocomotion::System::SharedResource<
-        StableCentroidalMPCWalking::ContactsListProvider::Input>::create();
+        StableCentroidalMPCWalking::SimplePlanner::Input>::create();
 
     auto output0 = BipedalLocomotion::System::SharedResource<
-        StableCentroidalMPCWalking::ContactsListProvider::Output>::create();
+        StableCentroidalMPCWalking::SimplePlanner::Output>::create();
     // create the advanceable runner
-    BipedalLocomotion::System::AdvanceableRunner<StableCentroidalMPCWalking::ContactsListProvider> contactListProviderRunner;
+    BipedalLocomotion::System::AdvanceableRunner<StableCentroidalMPCWalking::SimplePlanner> contactListProviderRunner;
 
     if (!contactListProviderRunner.initialize(handler->getGroup("CONTACTSLIST_PROVIDER_RUNNER")))
     {
@@ -77,7 +77,7 @@ int main(int argc, char* argv[])
 
     // run thread
     auto barrier = BipedalLocomotion::System::Barrier::create(1);
-    auto threadContactsListProvider = contactListProviderRunner.run(barrier);
+    auto threadSimplePlanner = contactListProviderRunner.run(barrier);
 
     while (contactListProviderRunner.isRunning())
     {
@@ -91,9 +91,9 @@ int main(int argc, char* argv[])
 
     contactListProviderRunner.stop();
 
-    if (threadContactsListProvider.joinable())
+    if (threadSimplePlanner.joinable())
     {
-        threadContactsListProvider.join();
+        threadSimplePlanner.join();
     }
 
     return EXIT_SUCCESS;

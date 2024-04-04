@@ -1,12 +1,12 @@
 /**
- * @file ContactsListProvider.h
+ * @file SimplePlanner.h
  * @author Mohamed Elobaid
  * @copyright This software may be modified and distributed under the terms of the BSD-3 clause
  * license.
  */
 
-#ifndef CONTACTSLISTPROVIDER_H
-#define CONTACTSLISTPROVIDER_H
+#ifndef SimplePlanner_H
+#define SimplePlanner_H
 
 #include <memory>
 
@@ -43,14 +43,14 @@ struct SimpleGeneratorOutput
  * given a joypad command, it uses the unicycle planner to generate the footsteps and
  * converts them to a contact list.
  */
-class ContactsListProvider : public BipedalLocomotion::System::Source<SimpleGeneratorOutput>
+class SimplePlanner : public BipedalLocomotion::System::Source<SimpleGeneratorOutput>
 {
 public:
 
-    typename ContactsListProvider::Output m_output;
+    typename SimplePlanner::Output m_output;
 
-    ContactsListProvider();
-    ~ContactsListProvider();
+    SimplePlanner();
+    ~SimplePlanner();
 
     BipedalLocomotion::Contacts::ContactListMap output;
 
@@ -70,4 +70,4 @@ private:
 };
 }; // namespace StableCentroidalMPC
 
-#endif // CONTACTSLISTPROVIDER_H
+#endif // SimplePlanner_H

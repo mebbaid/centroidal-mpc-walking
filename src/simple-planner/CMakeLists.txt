@@ -3,9 +3,9 @@
 # Authors: Mohamed Elobaid
 
 add_centroidal_mpc_walking_application(
-  NAME            contacts-list-provider
-  SOURCES         src/ContactsListProvider.cpp src/main.cpp
-  HEADERS         include/ContactsListProvider/ContactsListProvider.h
+  NAME            simple-planner
+  SOURCES         src/SimplePlanner.cpp src/main.cpp
+  HEADERS         include/SimplePlanner/SimplePlanner.h
   LINK_LIBRARIES  ${SDL_LIBRARY} YARP::YARP_os YARP::YARP_init YARP::YARP_sig
                   BipedalLocomotion::System
                   BipedalLocomotion::ParametersHandlerYarpImplementation

@@ -1,5 +1,5 @@
 /**
- * @file ContactsListProvider.cpp
+ * @file SimplePlanner.cpp
  * @author Mohamed Elobaid
  * @copyright This software may be modified and distributed under the terms of the BSD-3 clause
  * license.
@@ -11,11 +11,11 @@
 #include <yarp/sig/Vector.h>
 
 #include <BipedalLocomotion/TextLogging/Logger.h>
-#include <ContactsListProvider/ContactsListProvider.h>
+#include <SimplePlanner/SimplePlanner.h>
 
 using namespace StableCentroidalMPCWalking;
 
-struct ContactsListProvider::Impl
+struct SimplePlanner::Impl
 {
 
     bool saveData{true};
@@ -74,7 +74,7 @@ struct ContactsListProvider::Impl
         auto handlerPtr = handler.lock();
         if (handlerPtr == nullptr)
         {
-            BipedalLocomotion::log()->error("[ContactsListProvider::Impl::configurePlanner] The "
+            BipedalLocomotion::log()->error("[SimplePlanner::Impl::configurePlanner] The "
                                             "handler is not valid.");
             return false;
         }
@@ -83,7 +83,7 @@ struct ContactsListProvider::Impl
 
         if (ptr == nullptr)
         {
-            BipedalLocomotion::log()->error("[ContactsListProvider::Impl::configurePlanner] Unable "
+            BipedalLocomotion::log()->error("[SimplePlanner::Impl::configurePlanner] Unable "
                                             "to get the planner parameters.");
             return false;
         }
@@ -92,7 +92,7 @@ struct ContactsListProvider::Impl
         if (!ptr->getParameter("referencePosition", refOffset)
             || !ptr->getParameter("saturationFactors", saturation))
         {
-            BipedalLocomotion::log()->error("[ContactsListProvider::Impl::configurePlanner] Unable "
+            BipedalLocomotion::log()->error("[SimplePlanner::Impl::configurePlanner] Unable "
                                             "to get the reference position or the saturation "
                                             "factors.");
             return false;
@@ -100,7 +100,7 @@ struct ContactsListProvider::Impl
 
         if (!ptr->getParameter("joypadCommandPortName", m_joypadCommandPortName))
         {
-            BipedalLocomotion::log()->error("[ContactsListProvider::Impl::configurePlanner] Unable "
+            BipedalLocomotion::log()->error("[SimplePlanner::Impl::configurePlanner] Unable "
                                             "to get the joypad command port name.");
             return false;
         }
@@ -128,7 +128,7 @@ struct ContactsListProvider::Impl
             || !ptr->getParameter("plannerHorizon", m_plannerHorizon)
             || !ptr->getParameter("slowWhenTurningGain", slowWhenTurnGain))
         {
-            BipedalLocomotion::log()->error("[ContactsListProvider::Impl::configurePlanner] Unable "
+            BipedalLocomotion::log()->error("[SimplePlanner::Impl::configurePlanner] Unable "
                                             "to get one or more parameters for the planner.");
             return false;
         }
@@ -148,7 +148,7 @@ struct ContactsListProvider::Impl
             || !m_unicyclePlanner->setSlowWhenTurnGain(slowWhenTurnGain)
             || !m_unicyclePlanner->setSaturationsConservativeFactors(saturation(0), saturation(1)))
         {
-            BipedalLocomotion::log()->error("[ContactsListProvider::Impl::configurePlanner] Unable "
+            BipedalLocomotion::log()->error("[SimplePlanner::Impl::configurePlanner] Unable "
                                             "to configure the planner.");
             return false;
         }
@@ -156,7 +156,7 @@ struct ContactsListProvider::Impl
         std::string controllerType;
         if (!ptr->getParameter("controllerType", controllerType))
         {
-            BipedalLocomotion::log()->error("[ContactsListProvider::Impl::configurePlanner] Unable "
+            BipedalLocomotion::log()->error("[SimplePlanner::Impl::configurePlanner] Unable "
                                             "to get the controller type.");
             return false;
         }
@@ -169,7 +169,7 @@ struct ContactsListProvider::Impl
             m_unicycleController = UnicycleController::DIRECT;
         } else
         {
-            BipedalLocomotion::log()->error("[ContactsListProvider::Impl::configurePlanner] "
+            BipedalLocomotion::log()->error("[SimplePlanner::Impl::configurePlanner] "
                                             "Invalid "
                                             "controller type.");
             return false;
@@ -177,7 +177,7 @@ struct ContactsListProvider::Impl
 
         if (!m_unicyclePlanner->setUnicycleController(m_unicycleController))
         {
-            BipedalLocomotion::log()->error("[ContactsListProvider::Impl::configurePlanner] Unable "
+            BipedalLocomotion::log()->error("[SimplePlanner::Impl::configurePlanner] Unable "
                                             "to set the controller type.");
             return false;
         }
@@ -195,7 +195,7 @@ struct ContactsListProvider::Impl
             || !ptr->getParameter("lastStepDCMOffset", lastStepDCMOffset)
             || !ptr->getParameter("comHeight", comHeight))
         {
-            BipedalLocomotion::log()->error("[ContactsListProvider::Impl::configurePlanner] Unable "
+            BipedalLocomotion::log()->error("[SimplePlanner::Impl::configurePlanner] Unable "
                                             "to get the DCM parameters.");
             return false;
         }
@@ -208,7 +208,7 @@ struct ContactsListProvider::Impl
 
         if (!m_dcmGenerator->setLastStepDCMOffsetPercentage(lastStepDCMOffset))
         {
-            BipedalLocomotion::log()->error("[ContactsListProvider::Impl::configurePlanner] Unable "
+            BipedalLocomotion::log()->error("[SimplePlanner::Impl::configurePlanner] Unable "
                                             "to set the last step DCM offset.");
             return false;
         }
@@ -219,7 +219,7 @@ struct ContactsListProvider::Impl
 
         if (!m_dcmGenerator->setDCMInitialState(dcmInitialState))
         {
-            BipedalLocomotion::log()->error("[ContactsListProvider::Impl::configurePlanner] Unable "
+            BipedalLocomotion::log()->error("[SimplePlanner::Impl::configurePlanner] Unable "
                                             "to set the initial DCM state.");
             return false;
         }
@@ -247,21 +247,21 @@ struct ContactsListProvider::Impl
     {
         if (!m_inputPort.open("/contacts-list-provider/joypad-input"))
         {
-            BipedalLocomotion::log()->error("[ContactsListProvider::Impl::configure] Unable to "
+            BipedalLocomotion::log()->error("[SimplePlanner::Impl::configure] Unable to "
                                             "open the input port.");
             return false;
         }
 
         if (!yarp::os::Network::connect(m_joypadCommandPortName, m_inputPort.getName()))
         {
-            BipedalLocomotion::log()->warn("[ContactsListProvider::Impl::configure] Unable to "
+            BipedalLocomotion::log()->warn("[SimplePlanner::Impl::configure] Unable to "
                                            "connect to the joypad command port.");
         }
 
         file.open("contact-list-provider-output.txt");
         if (!file.is_open())
         {
-            BipedalLocomotion::log()->error("[ContactsListProvider::Impl::configure] Unable to "
+            BipedalLocomotion::log()->error("[SimplePlanner::Impl::configure] Unable to "
                                             "open the file.");
             return false;
         }
@@ -274,7 +274,7 @@ struct ContactsListProvider::Impl
         yarp::sig::Vector* command = m_inputPort.read(false);
         if (command == nullptr)
         {
-            BipedalLocomotion::log()->warn("[ContactsListProvider::Impl::"
+            BipedalLocomotion::log()->warn("[SimplePlanner::Impl::"
                                            "updatePlannerDesiredTrajectory] "
                                            "Unable to read the joypad command.");
             return false;
@@ -354,7 +354,7 @@ struct ContactsListProvider::Impl
                                                 initialTime,
                                                 finalTime))
         {
-            BipedalLocomotion::log()->error("[ContactsListProvider::Impl::computeNewSteps] Unable "
+            BipedalLocomotion::log()->error("[SimplePlanner::Impl::computeNewSteps] Unable "
                                             "to compute new steps.");
             return false;
         }
@@ -382,7 +382,7 @@ struct ContactsListProvider::Impl
                                                           start,
                                                           0.1)) // horizon = 20
         {
-            BipedalLocomotion::log()->error("[ContactsListProvider::Impl::generateTrajectories] "
+            BipedalLocomotion::log()->error("[SimplePlanner::Impl::generateTrajectories] "
                                             "Unable to generate the feet trajectory.");
             return false;
         }
@@ -392,14 +392,14 @@ struct ContactsListProvider::Impl
         m_dcmPositions =  m_dcmGenerator->getDCMPosition();
         if (m_dcmPositions.empty())
         {
-            BipedalLocomotion::log()->error("[ContactsListProvider::Impl::generateTrajectories] "
+            BipedalLocomotion::log()->error("[SimplePlanner::Impl::generateTrajectories] "
                                             "Unable to get the DCM positions.");
         }
 
         m_dcmVelocities = m_dcmGenerator->getDCMVelocity();
         if (m_dcmVelocities.empty())
         {
-            BipedalLocomotion::log()->error("[ContactsListProvider::Impl::generateTrajectories] "
+            BipedalLocomotion::log()->error("[SimplePlanner::Impl::generateTrajectories] "
                                             "Unable to get the DCM velocities.");
         }
 
@@ -468,7 +468,7 @@ struct ContactsListProvider::Impl
         if (m_leftSteps.size() != leftContacts.size()
             || m_rightSteps.size() != rightContacts.size())
         {
-            BipedalLocomotion::log()->error("[ContactsListProvider::Impl::computeContactList] "
+            BipedalLocomotion::log()->error("[SimplePlanner::Impl::computeContactList] "
                                             "Mismatch between the number of steps and the number "
                                             "of "
                                             "contacts.");
@@ -557,26 +557,26 @@ struct ContactsListProvider::Impl
     }
 };
 
-ContactsListProvider::ContactsListProvider()
+SimplePlanner::SimplePlanner()
 {
     m_pimpl = std::make_unique<Impl>();
 }
 
-ContactsListProvider::~ContactsListProvider() = default;
+SimplePlanner::~SimplePlanner() = default;
 
-bool ContactsListProvider::initialize(
+bool SimplePlanner::initialize(
     std::weak_ptr<const BipedalLocomotion::ParametersHandler::IParametersHandler> handler)
 {
     if (!m_pimpl->configurePlanner(handler))
     {
-        BipedalLocomotion::log()->error("[ContactsListProvider::initialize] Unable to configure "
+        BipedalLocomotion::log()->error("[SimplePlanner::initialize] Unable to configure "
                                         "the planner.");
         return false;
     }
 
     if (!m_pimpl->configure())
     {
-        BipedalLocomotion::log()->error("[ContactsListProvider::initialize] Unable to configure "
+        BipedalLocomotion::log()->error("[SimplePlanner::initialize] Unable to configure "
                                         "the contacts list provider.");
         return false;
     }
@@ -586,14 +586,14 @@ bool ContactsListProvider::initialize(
     return true;
 }
 
-bool ContactsListProvider::isOutputValid() const
+bool SimplePlanner::isOutputValid() const
 {
     return m_pimpl->m_generatorState == Impl::FSM::OutputValid;
 }
 
-bool ContactsListProvider::advance()
+bool SimplePlanner::advance()
 {
-    constexpr auto logPrefix = "[ContactsListProvider::advance]";
+    constexpr auto logPrefix = "[SimplePlanner::advance]";
 
     if (!m_pimpl->updatePlannerDesiredTrajectory())
     {
@@ -634,7 +634,7 @@ bool ContactsListProvider::advance()
     return true;
 }
 
-const ContactsListProvider::Output& ContactsListProvider::getOutput() const
+const SimplePlanner::Output& SimplePlanner::getOutput() const
 {
     return m_output;
 }
